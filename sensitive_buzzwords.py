@@ -84,9 +84,9 @@ def filter_for_sensitivity(w2v, input_and_similar_words, buzzwords):
             sensitive_similarity = 0
             for buzzword in buzzwords: 
                 sensitive_similarity = sensitive_similarity + w2v.similarity(similar_word, buzzword)
-                # Weighting the sensitive_similarity
-                weighted_sensitive_similarity = sensitive_similarity/len(buzzwords)
-                sensitive_words_df.loc[len(sensitive_words_df)] = [similar_word, round(weighted_sensitive_similarity, 3), row['input_word']]
+            # Weighting the sensitive_similarity
+            weighted_sensitive_similarity = sensitive_similarity/len(buzzwords)
+            sensitive_words_df.loc[len(sensitive_words_df)] = [similar_word, round(weighted_sensitive_similarity, 3), row['input_word']]
             
 
 
