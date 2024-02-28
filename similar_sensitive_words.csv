@@ -1,4 +1,4 @@
-similar_word,sensitive_similarity,input_word
+similar_word,sensitivity_score,input_word
 discrimination,0.333,racial
 extremism,0.249,antisemitism
 discriminatory,0.249,racial

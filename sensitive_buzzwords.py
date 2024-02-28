@@ -76,7 +76,7 @@ def filter_for_sensitivity(w2v, input_and_similar_words, buzzwords):
     Returns:
         pd.DataFrame: DataFrame with similar words, sensitivity scores, and input words.
     """ 
-    sensitive_words_df = pd.DataFrame(columns=['similar_word', 'sensitive_similarity', 'input_word'])
+    sensitive_words_df = pd.DataFrame(columns=['similar_word', 'sensitivity_score', 'input_word'])
 
     for index, row in input_and_similar_words.iterrows():
         similar_words = row['similar_words']
@@ -93,7 +93,7 @@ def filter_for_sensitivity(w2v, input_and_similar_words, buzzwords):
     # Make sure the newly found terms do not occur more than once in the output
     sensitive_words_df.drop_duplicates(subset=['similar_word'], inplace=True)
     # Sort the terms according to their sensitivity score
-    sensitive_words_df.sort_values(by=['sensitive_similarity'], ascending=False, inplace=True)
+    sensitive_words_df.sort_values(by=['sensitivity_score'], ascending=False, inplace=True)
 
 
     # Output the list of new terms (with their sensitivity score)
