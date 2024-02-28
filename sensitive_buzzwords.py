@@ -91,7 +91,7 @@ def filter_for_sensitivity(w2v, input_and_similar_words, buzzwords):
 
 
     # Make sure the newly found terms do not occur more than once in the output
-    sensitive_words_df.drop_duplicates(subset=['similar_word'], inplace=True)
+    sensitive_words_df = sensitive_words_df.groupby(['similar_word', 'sensitivity_score']).agg({'input_word': ', '.join}).reset_index()
     # Sort the terms according to their sensitivity score
     sensitive_words_df.sort_values(by=['sensitivity_score'], ascending=False, inplace=True)
 
