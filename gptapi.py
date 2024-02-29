@@ -12,12 +12,13 @@ def read_api_key(filepath):
     with open(filepath, 'r') as file:
         return file.read().strip()
 
-def load_data_and_prepare_requests(file_name, chunks=4):
+def load_data_and_prepare_requests(file_name, n, chunks=4):
     """
     Loads and Prepares the data for API requests based on DataFrame chunks.
     
     :param DATA_FILE_NAME: A string of a csv file with the columns: "similar_word" (str), "input_word" (str) and "sensitivity_score" (float).
-    :param CHUNKS: The number of chunks to split the DataFrame into.
+    :param n: The number of rows to include in each chunk.
+    :CHUNKS: The number of chunks to split the DataFrame into.
     :return: A list of prepared requests.
     """
     df = pd.read_csv(file_name)
@@ -27,7 +28,7 @@ def load_data_and_prepare_requests(file_name, chunks=4):
             ("word: " + row["similar_word"], "word_cloud_reference: " + row["input_word"])
             for _, row in df_chunk.iterrows()
         ]
-        for df_chunk in df_chunks[:CHUNKS]  # Limit to first 4 chunks to be mindful of token limits
+        for df_chunk in df_chunks[:chunks]  # Limit to first 4 chunks to be mindful of token limits
     ]
     return requests
 
@@ -90,7 +91,8 @@ def main():
     Main function to orchestrate the execution of the script.
     """
     API_KEY_FILE = 'API_KEY'
-    CHUNKS = None
+    BATCHSIZE = 5
+    CHUNKS = 2
     OUTPUT_FILE_NAME = 'output_english.json'
     DATA_FILE_NAME = 'joined_sensitive_words.csv'
     OUTPUT_LANGUAGE = 'english' # or 'german'
@@ -104,7 +106,7 @@ def main():
     sys_prompt_german = open('german_prompt.txt', 'r').read()
     sys_prompt = sys_prompt_english if OUTPUT_LANGUAGE == 'english' else sys_prompt_german
 
-    requests = load_data_and_prepare_requests(DATA_FILE_NAME)
+    requests = load_data_and_prepare_requests(DATA_FILE_NAME, BATCHSIZE, chunks=CHUNKS)
     total_tokens = send_request(client, requests, sys_prompt, model, OUTPUT_FILE_NAME)
 
     print(f"Total tokens used: {total_tokens}")
