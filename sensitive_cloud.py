@@ -131,7 +131,7 @@ def load_sensitive_terms(json_file, model):
 
     return found_words, missing_words
 
-def main():
+def sensitive_dimension_approach():
     # Load pretrained word embeddings
     model = load_embeddings("word2vec_test.model")
 
