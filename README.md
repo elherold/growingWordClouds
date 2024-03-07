@@ -26,10 +26,10 @@ contains the list of new sensitive words along with their combined sensitivity s
 
 ---------------------------------------------
 #### sensitive_buzzwords_approach.py
-contains all the functionalities required for the "social justice buzzwords approach". 
-First, a list of similar words is calculated for each word in the macht.sprache database. Only the similar words that exceed a similarity threshold are kept. In our analysis, a similarity threshold of 0.6 proved to be appropriate.
-A sensitivity value is then calculated for each new word. The idea behind this approach is that the sensitivity of words can be inferred based on their similarity to certain social justice buzzwords. In our analysis, the two keywords "discrimination" and "political" proved to be useful.
-Only words that exceed a sensitivity threshold are retained and then ranked according to their sensitivity score.  In our analysis, a sensitivity threshold of 0.4 proved to be appropriate.
+contains all the functionalities required for the *social justice buzzwords approach*.   
+First, a list of similar words is calculated for each word in the macht.sprache database. Only the similar words that exceed a similarity threshold are kept. In our analysis, a similarity threshold of 0.6 proved to be appropriate.   
+A sensitivity value is then calculated for each new word. The idea behind this approach is that the sensitivity of words can be inferred based on their similarity to certain social justice buzzwords. In our analysis, the two keywords "discrimination" and "political" proved to be useful.   
+Only words that exceed a sensitivity threshold are retained and then ranked according to their sensitivity score. In our analysis, a sensitivity threshold of 0.4 proved to be appropriate.
 
 #### output_buzzwords_approach.csv
 contains all new words found and filtered according to their sensitivity.
