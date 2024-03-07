@@ -5,11 +5,11 @@
 This project was implemented with Python 3.12.
 Steps to run the code: 
 
-pip install -r requirements.txt
+Markup :  `pip install -r requirements.txt` 
 
-run main.py
+Markup :  `run main.py`
 
-run gpt_api.py
+Markup :  `run gpt_api.py`
 
 ## Content
 ### Stakeholder & Requirement Analysis    
