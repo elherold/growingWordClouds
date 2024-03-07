@@ -5,11 +5,11 @@ by Jonas Jocham, Elena Herold, Jana Stefan, Lina, Lukas Weber
 This project was implemented with Python 3.12.   
 Steps to run the code: 
 
-`pip install -r requirements.txt` 
+`pip install -r requirements.txt`  - to install all necessary packages
 
-`python main.py`
+`python main.py`                   - to get a csv file of new sensitive words
 
-`python gpt_api.py`
+`python gpt_api.py`                - to get descriptions for all new sensitive words
 
 ## Content
 ### Stakeholder & Requirement Analysis    
