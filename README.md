@@ -20,6 +20,7 @@ Steps to run the code: 
 - Begründung für dataset, Vor- u. Nachteile von verwendetem Dataset
 
 After thorough research, we decided to use the *word2vec* and *GloVe* architecture as they provided us with a tradeoff between computational efficiency and good results.
+Note: the current model is only trained on an English corpus.
 ### Description of Files 
 
 ---------------------------------------------
