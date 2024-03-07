@@ -1,8 +1,28 @@
 # growingWordClouds
 
+## Stakeholder & Requirement Analysis
 
-**microsoft_news.ipynb**: preprocessing of microsoft news data an application of word2vec model. Results are not very good
+## Technical Setup & execution of prototype
 
-**reddit_cloud.ipynb**: preprocessing of reddit dataset and application of word2vec model. Results are better 
+## Content
+### Datasets
+1. Reddit-dataset (train.csv)
+2. Pre-embedded gensim models
+- Begründung für dataset, Vor- u. Nachteile von verwendetem Dataset
+### Description of Files 
+#### main.py 
+---------------------------------------------
+#### sensitive_buzzwords.py
+---------------------------------------------
 
-**datasets**: folder with the microsoft news and reddit datasets
+---------------------------------------------
+#### sensitive_evaluation.py
+#### best_dimension.json
+---------------------------------------------
+
+---------------------------------------------
+#### sensitive_cloud.py
+#### sensitive_analysis.csv
+---------------------------------------------
+
+#### gptapi.py 
