@@ -54,7 +54,7 @@ def generate_similar_words(w2v, input_words, nr_similar_words, similarity_thresh
             input_and_similar_words.at[index, 'words with similarity value'] =   [tuple for tuple in most_similar_words]
         except: 
             input_and_similar_words.at[index, 'similar_words'] = np.nan
-            # TODO: store words that are not in the lexicon to output them in the end?
+            
 
     input_and_similar_words.dropna(inplace=True) # remove all the rows of input words that could not be found in the lexicon
     input_and_similar_words.drop(labels=['index'], axis=1, inplace=True)
@@ -95,9 +95,6 @@ def filter_for_sensitivity(w2v, input_and_similar_words, buzzwords):
     # Sort the terms according to their sensitivity score
     sensitive_words_df.sort_values(by=['sensitivity_score'], ascending=False, inplace=True)
 
-
-    # Output the list of new terms (with their sensitivity score)
-    sensitive_words_df.to_csv("similar_sensitive_words.csv", index=False)
     return sensitive_words_df
 
 
@@ -114,6 +111,8 @@ def sensitive_buzzwords_approach(nr_similar_words=50, similarity_threshold=0.6,
     input_and_similar_words = generate_similar_words(w2v, input_words, nr_similar_words, similarity_threshold)
     # Filter similar words for sensitivity based on the similarity to social justice buzzwords. Sort the words according to their sensitivity score.
     sensitive_words_df = filter_for_sensitivity(w2v, input_and_similar_words, buzzwords)
+    # Output the list of new terms (with their sensitivity score)
+    sensitive_words_df.to_csv("output_buzzwords_approach.csv", index=False)
     return sensitive_words_df
 
 
