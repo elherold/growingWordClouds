@@ -27,9 +27,9 @@ contains the list of new sensitive words along with their combined sensitivity s
 ---------------------------------------------
 #### sensitive_buzzwords_approach.py
 contains all the functionalities required for the *social justice buzzwords approach*.   
-First, a list of similar words is calculated for each word in the macht.sprache database. Only the similar words that exceed a similarity threshold are kept. In a quick analysis, a similarity threshold of 0.6 proved to be appropriate.   
-A sensitivity value is then calculated for each new word. The idea behind this approach is that the sensitivity of words can be inferred based on their similarity to certain social justice buzzwords. In the quick analysis, the two keywords "discrimination" and "political" proved to be useful.   
-Only words that exceed a sensitivity threshold are retained and then ranked according to their sensitivity score. In the analysis, a sensitivity threshold of 0.4 proved to be appropriate.
+First, a list of similar words is calculated for each word in the macht.sprache database. As a similarity measure, we decided to use the cosine distance as it exclusively focuses on the meanings of the words and leaves out their frequency, which means that also rarely used words are included. Only the similar words that exceed a similarity threshold are kept. Here, a threshold of 0.6 showed the best results.      
+A sensitivity value is then calculated for each new word. The idea behind this approach is that the sensitivity of words can be inferred based on their similarity to certain social justice buzzwords. We chose the buzzwords 'discrimination' and 'political'as we saw them as the smallest set of commonalities between all the concepts in the social justice debate. Then, the cosine distance is calculated between each new word and the two buzzwords. We hypothesized that the closer the new term is to these buzzwords, the more its connotation is linked to political sensitivity.   
+Only words that exceed a sensitivity threshold are retained and then ranked according to their sensitivity score. Here, a threshold of 0.4 showed the best results.
 
 #### output_buzzwords_approach.csv
 contains all new words found and filtered according to their sensitivity.
