@@ -7,9 +7,9 @@ Steps to run the code: 
 
 `pip install -r requirements.txt` 
 
-`run main.py`
+`python main.py`
 
-`run gpt_api.py`
+`python gpt_api.py`
 
 ## Content
 ### Stakeholder & Requirement Analysis    
