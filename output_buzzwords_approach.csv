@@ -1,967 +1,1184 @@
 similar_word,sensitivity_score,input_word
-discrimination,0.623,racial
-neoliberal,0.599,foreign
-repressive,0.599,slavery
-monarchical,0.594,foreign
-profiling,0.591,racial
-totalitarianism,0.586,homeland
-repression,0.583,homeland
-militarism,0.577,"enslavement, interracial"
-fanaticism,0.574,"gentile, racial"
-oppression,0.572,slavery
-radicalism,0.57,foreign
-predominance,0.57,"interracial, racial"
-progressives,0.567,slavery
-ethnocentrism,0.566,interracial
-discriminatory,0.566,racial
-islamism,0.565,antisemitism
-symbology,0.564,enslavement
-clerics,0.563,"enslavement, interracial"
-dictatorships,0.563,slavery
-stereotyping,0.562,"gentile, racial"
-racialism,0.562,"antisemitism, gentile, interracial"
-extremism,0.56,"antisemitism, racial"
-virulent,0.557,antisemitism
-socioeconomic,0.557,"racial, slavery"
-furthers,0.557,seminal
-fundamentalism,0.555,"antisemitism, slavery"
-sensationalism,0.553,respectability
-militaristic,0.551,interracial
-ideologically,0.55,racial
-eugenics,0.549,"antisemitism, racial"
-socio,0.548,diversity
-fervor,0.548,gentile
-diametrically,0.547,diversity
-compels,0.546,spirit
-reforms,0.546,slavery
-capacities,0.545,diversity
-reinforces,0.543,racial
-genocidal,0.543,gentile
-transphobic,0.541,racial
-xenophobia,0.541,antisemitism
-looting,0.541,enslavement
-unalienable,0.54,slavery
-fanatically,0.54,gentile
-rabidly,0.539,gentile
-houthis,0.539,"enslavement, interracial"
-supremacy,0.539,"racial, white"
-ethnolect,0.538,foreign
-polisario,0.538,foreign
-orientations,0.538,"interracial, racial"
-americanism,0.538,antisemitism
-inferiors,0.537,enslavement
-embraces,0.537,interracial
-excesses,0.537,interracial
-ideologies,0.535,racial
-regionalism,0.535,antisemitism
-colonialist,0.535,"enslavement, homeland, interracial"
-characterise,0.534,"diversity, seminal"
-misogynistic,0.533,interracial
-subjugation,0.533,"homeland, migrants"
-prosperity,0.532,slavery
-homeopaths,0.532,diversity
-perjorative,0.531,antisemitism
-pernicious,0.531,respectability
-chauvinists,0.531,"enslavement, gentile, interracial"
-diluted,0.531,"immigrant, migrants"
-lobbyists,0.531,interracial
-marxists,0.531,gentile
-militancy,0.53,homeland
-legalization,0.53,interracial
-ascribes,0.53,one
-complexities,0.53,mastery
-stigmatize,0.53,interracial
-expansionist,0.53,enslavement
-engender,0.529,respectability
-governmental,0.529,foreign
-againist,0.529,racial
-holodomor,0.528,slavery
-demonization,0.528,enslavement
-pioneering,0.528,diversity
-ethnocentric,0.527,"antisemitism, gentile, racial"
-obsessions,0.527,mastery
-orientated,0.526,diversity
-philology,0.526,antisemitism
-rioting,0.526,slavery
-mordor,0.525,gentile
-irreligious,0.525,"antisemitism, racial"
-reptilian,0.525,respectability
-gutter,0.524,gentile
-coalitions,0.524,homeland
-aboriginals,0.524,"interracial, white"
-expatriate,0.524,"homeland, immigrant, migrants"
-disparity,0.524,diversity
-constraining,0.524,respectability
-infiltration,0.523,refugee
-betraying,0.523,gentile
-liberating,0.523,"enslavement, interracial, slavery"
-puntland,0.523,"homeland, migrants"
-interfaith,0.523,slavery
-amren,0.523,diversity
-rcanderlori,0.522,racial
-influencing,0.522,diversity
-arabism,0.521,antisemitism
-understandings,0.521,diversity
-revolts,0.52,"migrants, slavery"
-postmodern,0.52,diversity
-atrocity,0.52,slavery
-secularism,0.52,slavery
-revolutionaries,0.519,homeland
-commonalities,0.519,diversity
-scandinavians,0.519,interracial
-staunch,0.519,gentile
-antisemites,0.519,"antisemitism, gentile"
-reeks,0.519,antisemitism
-remarriage,0.519,slavery
-independance,0.518,slavery
-glorification,0.518,gentile
-chauvinist,0.518,racial
-rationalism,0.518,slavery
-semiticism,0.517,antisemitism
-disarm,0.517,refugee
-reflective,0.517,diversity
-copts,0.516,enslavement
-supremacism,0.516,gentile
-trafficking,0.516,slavery
-endemic,0.515,disability
-lowers,0.515,respectability
-geopolitical,0.515,nation
-colonialism,0.515,slavery
-houthi,0.514,"homeland, migrants"
-constituting,0.514,"immigrant, nation"
-blinding,0.514,mastery
-essentialist,0.514,"diversity, racial"
-industrialized,0.513,migrants
-paganism,0.513,racial
-polity,0.512,slavery
-rallied,0.512,homeland
-belies,0.512,seminal
-abolition,0.512,"foreign, immigrant"
-pogroms,0.512,"antisemitism, slavery"
-nisbett,0.512,seminal
-salafis,0.511,interracial
-atheistic,0.511,mankind
-sexless,0.511,pale
-conflates,0.511,interracial
-evoke,0.511,"enslavement, interracial"
-zionism,0.511,antisemitism
-sacrificed,0.51,"gentile, slavery"
-undercut,0.51,mastery
-bolshevik,0.51,"homeland, refugee"
-limitless,0.51,respectability
-subjugate,0.51,migrants
-unaffected,0.51,seminal
-predominately,0.51,"immigrant, racial"
-anglophile,0.509,gentile
-xenophobic,0.509,racial
-depressants,0.509,interracial
-immorality,0.509,interracial
-graphically,0.509,seminal
-constitutions,0.509,nation
-wahabis,0.509,homeland
-indulgent,0.509,respectability
-antisemtism,0.509,"antisemitism, gentile"
-vientiane,0.509,enslavement
-securityfuck,0.508,homeland
-quantification,0.508,"intersex, seminal"
-separatists,0.508,immigrant
-hogwash,0.508,antisemitism
-conflate,0.508,racial
-hygiene,0.508,racial
-lipson,0.507,gentile
-sobriety,0.507,interracial
-deobandi,0.506,homeland
-practicality,0.506,"disability, diversity"
-desirability,0.506,intersex
-smokers,0.505,"interracial, intersex"
-theism,0.505,antisemitism
-orgs,0.505,"immigrant, interracial"
-loathing,0.505,respectability
-bullshits,0.505,respectability
-ecological,0.505,disability
-omnipresent,0.505,nation
-ethno,0.504,"ethnicity, racial"
-oversensitive,0.504,bossy
-sufferings,0.504,enslavement
-sociologists,0.504,racial
-revisionism,0.504,antisemitism
-liberate,0.503,homeland
-outlooks,0.503,"diversity, mastery"
-camptown,0.503,migrants
-referendums,0.502,nation
-ccp,0.502,gentile
-reverence,0.502,interracial
-hysteria,0.502,racial
-adherent,0.502,interracial
-simplifications,0.502,mastery
-apologetic,0.502,antisemitism
-governement,0.501,refugee
-innovate,0.501,intersex
-dismantling,0.501,foreign
-anycase,0.501,antisemitism
-gassing,0.501,"enslavement, gentile"
-afterlife,0.5,mankind
-xinjiang,0.5,"immigrant, migrants, nation"
-manifestation,0.5,mankind
-lefties,0.5,gentile
-overthrow,0.5,homeland
-shockingly,0.5,one
-ambiance,0.5,mastery
-hires,0.499,nurse
-thriving,0.499,diversity
-legalized,0.498,"enslavement, interracial"
-somalis,0.498,enslavement
-forcible,0.498,"homeland, slavery"
-connotations,0.498,racial
-anglos,0.497,racial
-niceties,0.497,mastery
-mithras,0.497,enslavement
-drpizza,0.497,respectability
-honed,0.496,mastery
-stateless,0.496,"immigrant, nation"
-nazism,0.496,antisemitism
-overthrowing,0.495,foreign
-prescribing,0.495,intersex
-chattel,0.495,"enslavement, interracial, slavery, slaves"
-rearing,0.495,interracial
-nth,0.495,one
-insurgency,0.495,refugee
-effeminacy,0.495,"gender, interracial"
-agaisnt,0.494,foreign
-lebensraum,0.494,gentile
-migrants,0.494,"immigrant, slaves"
-infidels,0.494,gentile
-idolatry,0.494,interracial
-abominable,0.494,respectability
-beheadings,0.494,enslavement
-orientalism,0.494,slavery
-government,0.493,foreign
-innately,0.493,intersex
-jewishness,0.493,"immigrant, racial"
-masculism,0.493,interracial
-postulates,0.493,seminal
-classifier,0.493,racial
-multinational,0.492,foreign
-enslavement,0.492,"interracial, slavery, slaves"
-gentiles,0.492,gentile
-informants,0.492,slaves
-halakha,0.492,gentile
-dictating,0.492,mastery
-quip,0.492,deaf
-personhood,0.492,intersex
-obscures,0.492,seminal
-shortsightedness,0.492,respectability
-extermination,0.491,homeland
-deride,0.491,respectability
-psychotherapy,0.491,disability
-mulattos,0.491,white
-jewry,0.491,homeland
-vichy,0.491,foreign
-succumb,0.49,enslavement
-expel,0.49,"homeland, refugee"
-sexsex,0.49,partner
-slovaks,0.49,"enslavement, immigrant, nation, natives"
-moroccans,0.489,"enslavement, immigrant"
-quakers,0.489,mastery
-mosaddeq,0.489,"homeland, migrants"
-visas,0.489,foreign
-cbt,0.489,intersex
-pederasty,0.489,antisemitism
-confessional,0.489,interracial
-phobias,0.488,antisemitism
-interracial,0.488,racial
-evolutionism,0.488,seminal
-popularised,0.487,enslavement
-honoring,0.487,slavery
-haskalah,0.487,"homeland, oriental"
-oppressing,0.487,barbarian
-impinge,0.486,intersex
-empowerment,0.486,nurse
-encylopaedia,0.486,respectability
-sickens,0.486,"deaf, gentile"
-ghurids,0.485,enslavement
-rabble,0.485,respectability
-politicans,0.485,"immigrant, nation"
-parental,0.485,disability
-flourish,0.485,mastery
-outlawed,0.485,"slavery, slaves"
-jihadists,0.484,"enslavement, interracial"
-propogate,0.484,respectability
-democracies,0.484,nation
-protestantism,0.484,antisemitism
-diverge,0.484,diversity
-psychoanalytic,0.484,seminal
-apostasy,0.483,slavery
-semiotics,0.483,mastery
-ticks,0.483,one
-exerted,0.483,homeland
-segregated,0.483,"migrants, slaves"
-observance,0.483,spirit
-dumbing,0.482,mastery
-ameng,0.482,"foreign, mastery"
-msds,0.482,respectability
-savages,0.482,gentile
-saddening,0.482,respectability
-manchus,0.481,ethnicity
-degrades,0.481,intersex
-slagging,0.481,respectability
-inequality,0.481,"diversity, gender"
-aborted,0.481,partner
-imbalance,0.481,gender
-tractatus,0.481,mastery
-antipsychotics,0.48,intersex
-peppered,0.48,antisemitism
-arousal,0.48,intersex
-nakba,0.48,"homeland, refugee"
-recognises,0.48,"foreign, immigrant, nation"
+discrimination,0.785,racial
+profiling,0.702,racial
+radicalism,0.698,foreign
+virulent,0.689,antisemitism
+repression,0.689,homeland
+extremism,0.689,"antisemitism, racial"
+oppression,0.683,slavery
+discriminatory,0.683,racial
+totalitarianism,0.682,homeland
+ideologically,0.681,racial
+neoliberal,0.671,foreign
+eugenics,0.669,"antisemitism, racial"
+stereotyping,0.668,"gentile, racial"
+repressive,0.668,slavery
+fanaticism,0.662,"gentile, racial"
+fundamentalism,0.659,"antisemitism, slavery"
+ethnocentrism,0.659,interracial
+socio,0.658,diversity
+zionism,0.655,antisemitism
+ideologies,0.653,racial
+clerics,0.653,"enslavement, interracial"
+xenophobic,0.65,racial
+predominance,0.65,"interracial, racial"
+militarism,0.648,"enslavement, interracial"
+againist,0.648,racial
+racialism,0.647,"antisemitism, gentile, interracial"
+islamism,0.646,antisemitism
+monarchical,0.646,foreign
+genocidal,0.645,gentile
+misogynistic,0.645,interracial
+dictatorships,0.644,slavery
+holodomor,0.643,slavery
+diametrically,0.639,diversity
+socioeconomic,0.637,"racial, slavery"
+supremacy,0.636,"racial, white"
+militancy,0.636,homeland
+irreligious,0.635,"antisemitism, racial"
+furthers,0.634,seminal
+ethno,0.634,"ethnicity, racial"
+ethnocentric,0.634,"antisemitism, gentile, racial"
+xenophobia,0.633,antisemitism
+ethnolect,0.631,foreign
+regionalism,0.631,antisemitism
+pioneering,0.631,diversity
+americanism,0.63,antisemitism
+symbology,0.63,enslavement
+conflate,0.629,racial
+philology,0.629,antisemitism
+colonialism,0.628,slavery
+unalienable,0.627,slavery
+supremacism,0.626,gentile
+chauvinists,0.625,"enslavement, gentile, interracial"
+reforms,0.624,slavery
+governmental,0.624,foreign
+rcanderlori,0.624,racial
+transphobic,0.622,racial
+fervor,0.622,gentile
+atrocity,0.622,slavery
+pogroms,0.621,"antisemitism, slavery"
+characterise,0.621,"diversity, seminal"
+staunch,0.621,gentile
+secularism,0.62,slavery
+capacities,0.62,diversity
+perjorative,0.619,antisemitism
+constituting,0.618,"immigrant, nation"
+arabism,0.617,antisemitism
+paganism,0.617,racial
+mordor,0.617,gentile
+progressives,0.617,slavery
+orientations,0.617,"interracial, racial"
+reinforces,0.614,racial
+legalization,0.613,interracial
+sensationalism,0.613,respectability
+reeks,0.613,antisemitism
+houthis,0.613,"enslavement, interracial"
+demonization,0.612,enslavement
+anycase,0.612,antisemitism
+marxists,0.612,gentile
+predominately,0.61,"immigrant, racial"
+amren,0.61,diversity
+influencing,0.609,diversity
+atheistic,0.608,mankind
+excesses,0.608,interracial
+militaristic,0.608,interracial
+separatists,0.607,immigrant
+geopolitical,0.607,nation
+essentialist,0.606,"diversity, racial"
+pederasty,0.606,antisemitism
+theism,0.605,antisemitism
+antisemitic,0.605,antisemitism
+interfaith,0.605,slavery
+fanatically,0.604,gentile
+looting,0.603,enslavement
+houthi,0.602,"homeland, migrants"
+jewishness,0.602,"immigrant, racial"
+expatriate,0.602,"homeland, immigrant, migrants"
+copts,0.601,enslavement
+betraying,0.6,gentile
+sociologists,0.6,racial
+postmodern,0.6,diversity
+bolshevik,0.599,"homeland, refugee"
+understandings,0.599,diversity
+lobbyists,0.598,interracial
+homeopaths,0.598,diversity
+connotations,0.597,racial
+apologetic,0.597,antisemitism
+stigmatize,0.597,interracial
+hygiene,0.597,racial
+chauvinist,0.597,racial
+orientated,0.595,diversity
+revisionism,0.595,antisemitism
+antisemtism,0.595,"antisemitism, gentile"
+polisario,0.594,foreign
+complexities,0.594,mastery
+forcible,0.594,"homeland, slavery"
+reverence,0.593,interracial
+inferiors,0.593,enslavement
+reflective,0.593,diversity
+historiography,0.593,antisemitism
+rabidly,0.592,gentile
+subjugation,0.592,"homeland, migrants"
+immorality,0.592,interracial
+protestantism,0.591,antisemitism
+orgs,0.591,"immigrant, interracial"
+rioting,0.591,slavery
+antisemites,0.59,"antisemitism, gentile"
+diluted,0.59,"immigrant, migrants"
+infiltration,0.589,refugee
+adherent,0.589,interracial
+semiticism,0.589,antisemitism
+rationalism,0.589,slavery
+scandinavians,0.588,interracial
+independance,0.587,slavery
+colonialist,0.587,"enslavement, homeland, interracial"
+revisionist,0.587,antisemitism
+undercut,0.586,mastery
+slurs,0.586,racial
+linguistically,0.586,"ethnicity, natives"
+trafficking,0.586,slavery
+commonalities,0.586,diversity
+interracial,0.585,racial
+remarriage,0.585,slavery
+orientation,0.585,gender
+conflates,0.585,interracial
+compels,0.584,spirit
+mithras,0.583,enslavement
+haskalah,0.583,"homeland, oriental"
+peppered,0.582,antisemitism
+nazism,0.581,antisemitism
+gentiles,0.581,gentile
+blinding,0.581,mastery
+ascribes,0.58,one
+moroccans,0.579,"enslavement, immigrant"
+halakha,0.579,gentile
+gamergate,0.579,antisemitism
+revolutionaries,0.579,homeland
+obsessions,0.579,mastery
+slovaks,0.578,"enslavement, immigrant, nation, natives"
+omnipresent,0.578,nation
+glorification,0.578,gentile
+idolatry,0.578,interracial
+stereotypes,0.578,racial
+expansionist,0.577,enslavement
+wahabis,0.577,homeland
+classifier,0.576,racial
+fundamentalist,0.576,antisemitism
+disarm,0.576,refugee
+focussed,0.576,seminal
+sociological,0.576,diversity
+tunisians,0.575,"ancestors, enslavement, ethnicity, immigrant, racial"
+embraces,0.575,interracial
+disparity,0.575,diversity
+prosperity,0.575,slavery
+nakba,0.574,"homeland, refugee"
+effeminacy,0.574,"gender, interracial"
+constitutions,0.574,nation
+pernicious,0.574,respectability
+insurgency,0.574,refugee
+slur,0.573,racial
+graphically,0.573,seminal
+hysteria,0.572,racial
+hogwash,0.572,antisemitism
+abolition,0.572,"foreign, immigrant"
+manchus,0.572,ethnicity
+apologetics,0.572,antisemitism
+puntland,0.572,"homeland, migrants"
+belies,0.572,seminal
+psychotherapy,0.572,disability
+nisbett,0.571,seminal
+deobandi,0.571,homeland
+xinjiang,0.571,"immigrant, migrants, nation"
+aboriginals,0.57,"interracial, white"
+polity,0.57,slavery
+revolts,0.57,"migrants, slavery"
+anthropologists,0.57,diversity
+historicism,0.569,antisemitism
+racially,0.569,"ethnicity, racial"
+eschatology,0.568,antisemitism
+apologist,0.568,antisemitism
+somalis,0.568,enslavement
+democracies,0.567,nation
+obscures,0.567,seminal
+depressants,0.567,interracial
+niceties,0.566,mastery
+ethnic,0.566,"ethnicity, racial"
+apostasy,0.566,slavery
+vientiane,0.566,enslavement
+anglophile,0.566,gentile
+orientalism,0.565,slavery
+engender,0.565,respectability
+persianized,0.565,"ethnicity, immigrant, oriental, tribe"
+enslavement,0.565,"interracial, slavery, slaves"
+referendums,0.564,nation
+epithet,0.564,"antisemitism, racial"
+masculism,0.563,interracial
+infidels,0.563,gentile
+chauvinism,0.563,interracial
+thriving,0.563,diversity
+quantification,0.562,"intersex, seminal"
+sobriety,0.562,interracial
+semitism,0.562,antisemitism
+foibe,0.562,enslavement
+dismantling,0.562,foreign
+evoke,0.561,"enslavement, interracial"
+constraining,0.561,respectability
+salafis,0.561,interracial
+sufferings,0.56,enslavement
+endemic,0.56,disability
+ccp,0.56,gentile
+rastafarian,0.559,mastery
+liberating,0.559,"enslavement, interracial, slavery"
+camptown,0.559,migrants
+postulates,0.558,seminal
+thracians,0.558,racial
+sexless,0.558,pale
+recognises,0.557,"foreign, immigrant, nation"
+circassian,0.556,enslavement
+anglos,0.556,racial
+unaffected,0.556,seminal
+turko,0.556,"ethnicity, oriental"
+phobias,0.556,antisemitism
+tibetans,0.556,"immigrant, natives"
+subjugate,0.556,migrants
+afrocentrism,0.555,antisemitism
+practicality,0.555,"disability, diversity"
+manifestation,0.555,mankind
+overthrow,0.555,homeland
+stateless,0.554,"immigrant, nation"
+securityfuck,0.554,homeland
+rallied,0.554,homeland
+governement,0.553,refugee
+quakers,0.553,mastery
+coalitions,0.553,homeland
+theravada,0.553,oriental
+dictating,0.552,mastery
+analytic,0.551,seminal
+sacrificed,0.551,"gentile, slavery"
+imperialists,0.551,"barbarian, enslavement"
+industrialized,0.551,migrants
+expandism,0.551,oriental
+gassing,0.55,"enslavement, gentile"
+simplifications,0.55,mastery
+multinational,0.55,foreign
+borrows,0.549,oriental
+goverment,0.549,foreign
+ecological,0.549,disability
+niominka,0.549,immigrant
+birther,0.549,interracial
+observance,0.549,spirit
+barlas,0.548,"ethnicity, tribe"
+confessional,0.548,interracial
+smokers,0.548,"interracial, intersex"
+legalized,0.547,"enslavement, interracial"
+lebensraum,0.547,gentile
+protectorate,0.547,foreign
+insurgent,0.546,migrants
+neglects,0.546,seminal
+jihadists,0.546,"enslavement, interracial"
+heretic,0.546,mankind
+peiser,0.546,seminal
+monotheistic,0.546,slavery
+innately,0.545,intersex
+lipson,0.545,gentile
+expel,0.545,"homeland, refugee"
+drpizza,0.544,respectability
+outlooks,0.544,"diversity, mastery"
+gutter,0.544,gentile
+hires,0.544,nurse
+evolutionism,0.544,seminal
+ambiance,0.544,mastery
+ambivalent,0.544,slavery
+counterparts,0.544,foreign
+prescribing,0.544,intersex
+loathing,0.543,respectability
+vichy,0.543,foreign
+selimovic,0.543,oriental
+personhood,0.542,intersex
+honoring,0.542,slavery
+agaisnt,0.542,foreign
+semiotics,0.542,mastery
+jewry,0.542,homeland
+liberate,0.542,homeland
+diagnoses,0.541,diversity
+oversensitive,0.541,bossy
+inequality,0.541,"diversity, gender"
+paramilitaries,0.541,refugee
+swedes,0.54,"immigrant, natives"
+passports,0.54,immigrant
+cuchullian,0.54,oriental
+lowers,0.54,respectability
+shockingly,0.54,one
+jains,0.54,interracial
+antipsychotics,0.54,intersex
+moslems,0.539,"enslavement, nation"
+indonesians,0.539,"immigrant, migrants"
+bullshits,0.539,respectability
+congressmen,0.539,refugee
+turkestan,0.538,"homeland, immigrant, migrants, oriental"
+mizrahi,0.538,"enslavement, immigrant"
+militias,0.538,refugee
+politicans,0.538,"immigrant, nation"
+migrants,0.538,"immigrant, slaves"
+affraid,0.538,nation
+jihad,0.537,antisemitism
+backgrounds,0.537,diversity
+innovate,0.537,intersex
+moravians,0.537,ethnicity
+immigrants,0.537,immigrant
+outlawed,0.537,"slavery, slaves"
+rearing,0.537,interracial
+militants,0.537,refugee
+samaria,0.537,homeland
+inquisitions,0.536,"enslavement, slavery"
+hopelessly,0.536,antisemitism
+overthrowing,0.536,foreign
+tractatus,0.535,mastery
+demonym,0.535,foreign
+lefties,0.535,gentile
+encapsulate,0.535,mastery
+ameng,0.535,"foreign, mastery"
+conflation,0.535,seminal
+pavelic,0.535,chief
+salafists,0.535,"enslavement, homeland"
+honed,0.535,mastery
+sickens,0.534,"deaf, gentile"
+shortsightedness,0.534,respectability
+encylopaedia,0.534,respectability
+demiurge,0.534,spirit
+abominable,0.534,respectability
+ingenious,0.534,one
+sceptical,0.533,diversity
+sephardic,0.533,ancestors
+crusades,0.533,"antisemitism, slavery"
+beheadings,0.533,enslavement
+popularised,0.532,enslavement
+occupiers,0.532,barbarian
+savages,0.532,gentile
+adultery,0.532,slavery
+visas,0.532,foreign
+limitless,0.532,respectability
+unrecognized,0.531,"immigrant, nation"
+nationalities,0.531,ethnicity
+ghurids,0.531,enslavement
+wicca,0.531,mankind
+fijian,0.531,foreign
+saakashvili,0.53,barbarian
+propogate,0.53,respectability
+aberrations,0.53,"disability, intersex"
+devotion,0.53,mankind
+extermination,0.53,homeland
+prc,0.53,foreign
+rebutted,0.529,seminal
+cherished,0.529,coloured
+resided,0.529,"immigrant, nation, slaves"
+indulgent,0.529,respectability
+sahrawi,0.529,"foreign, nation"
+southerners,0.529,"enslavement, slaves, white"
+homelands,0.529,migrants
+oppressing,0.529,barbarian
+shyster,0.529,"enslavement, interracial"
+extolling,0.529,seminal
+maximise,0.528,intersex
+desirability,0.527,intersex
+dumbing,0.527,mastery
+imbalance,0.527,gender
+households,0.527,migrants
+diverge,0.527,diversity
+hooligans,0.526,one
+scimd,0.526,gossip
+homogeneous,0.526,racial
+kurdistan,0.526,nation
+forefathers,0.526,"ancestors, enslavement, immigrant"
+psychoanalytic,0.526,seminal
+deride,0.526,respectability
+ancestory,0.525,"ancestors, immigrant, natives"
+complimentary,0.525,seminal
+azari,0.525,"ancestors, barbarian, ethnicity, nation"
+supremacists,0.525,"racial, white"
+machiavellian,0.525,respectability
+bolsheviks,0.525,refugee
+javanese,0.525,ethnicity
+confiscation,0.525,homeland
+hellenization,0.525,enslavement
+modeled,0.525,foreign
+chattel,0.524,"enslavement, interracial, slavery, slaves"
+uneven,0.524,pale
+broadening,0.524,mastery
+colonists,0.524,"slavery, slaves"
+eskimos,0.524,migrants
+sexsex,0.523,partner
+haitian,0.523,"foreign, immigrant, nation, natives, slaves"
+hitlers,0.523,gentile
+segregated,0.523,"migrants, slaves"
+minsky,0.523,seminal
+racism,0.523,antisemitism
+crusaders,0.523,nation
+weighty,0.522,one
+saddening,0.521,respectability
+universalism,0.521,oriental
+heresies,0.521,mankind
+eichmann,0.521,refugee
+exerted,0.521,homeland
+caucasians,0.52,natives
+senegambia,0.52,oriental
+rigor,0.52,"diversity, seminal"
+supremacist,0.52,"racial, white"
+yolmo,0.519,homeland
+jcpa,0.519,seminal
+flourish,0.519,mastery
+conversational,0.519,mastery
+interned,0.519,refugee
+counseling,0.519,disability
+afterlife,0.519,mankind
+slagging,0.519,respectability
+succumb,0.518,enslavement
+enlightenment,0.518,mankind
+solutrean,0.518,seminal
+leviticus,0.518,enslavement
+rabbinic,0.518,slavery
+paeonians,0.518,migrants
+martyr,0.518,gentile
+degrades,0.518,intersex
+empowerment,0.518,nurse
+disreputable,0.518,seminal
+patois,0.518,mastery
+parental,0.518,disability
+government,0.518,foreign
+arousal,0.517,intersex
+wretched,0.517,mankind
+informants,0.517,slaves
+mede,0.517,"ancestors, immigrant, natives"
+wakopedia,0.516,gentile
+caliphate,0.516,oriental
+conquering,0.516,nation
+nestorian,0.516,oriental
+bagramyan,0.516,migrants
+behest,0.516,chief
+maniacs,0.516,gentile
+bhakti,0.516,oriental
+inhuman,0.516,interracial
+mayr,0.516,seminal
+uralic,0.515,oriental
+variability,0.515,diversity
+ancestries,0.515,ethnicity
+mulattos,0.515,white
+lestrade,0.515,respectability
+mufti,0.515,chief
+decimated,0.514,"barbarian, enslavement"
+mosaddeq,0.514,"homeland, migrants"
+noahide,0.514,interracial
+ethnogenesis,0.514,slavery
+czechs,0.514,"immigrant, natives"
+slt,0.513,homeland
+ambition,0.513,nurse
+congruent,0.513,mastery
+milions,0.513,enslavement
+wellbeing,0.513,disability
+quip,0.513,deaf
+colonized,0.513,"nation, natives"
+georgians,0.512,"homeland, immigrant"
+famines,0.512,migrants
+aborted,0.512,partner
+reek,0.512,respectability
+rabble,0.512,respectability
+benefited,0.511,disability
+moldovans,0.511,nation
+diaspora,0.511,ethnicity
+sensibly,0.511,mastery
+renegade,0.511,deaf
+betrayed,0.511,nation
+hanoverian,0.511,"enslavement, migrants"
+kla,0.511,refugee
+impinge,0.51,intersex
+conceptually,0.51,intersex
+manifestations,0.51,mankind
+afflicted,0.509,intersex
+cbt,0.509,intersex
+perspectives,0.509,diversity
+heightened,0.509,intersex
+exhaustively,0.509,one
+neuromusculoskeletal,0.509,mastery
+msds,0.509,respectability
+kurd,0.509,"ancestors, ethnicity"
+finns,0.508,natives
+cluster,0.508,coloured
+laz,0.508,ethnicity
+garments,0.508,intersex
+instincts,0.508,partner
+fijians,0.508,"enslavement, immigrant, migrants, natives"
+antonescu,0.507,gentile
+tring,0.507,one
+pashtu,0.507,"ancestors, ethnicity"
+ethnicities,0.507,"ethnicity, nation"
+ssri,0.506,intersex
+sacrifice,0.506,mankind
+reptilian,0.506,respectability
+renounced,0.506,immigrant
+zoroastrian,0.506,oriental
+conceiving,0.506,mastery
+divergent,0.506,diversity
+achieves,0.506,one
+tuberculosis,0.505,"disability, diversity"
+scythians,0.505,oriental
+liberia,0.505,"migrants, slaves"
+papacy,0.504,slavery
+christaphobic,0.504,gentile
+singularly,0.504,intersex
+heartily,0.504,bossy
+manchu,0.504,foreign
+infecting,0.504,disability
+infanticide,0.503,interracial
+bloodshed,0.503,refugee
+ashkenazi,0.503,ethnicity
+haplogroups,0.503,"ancestors, natives"
+oneness,0.503,mankind
+therm,0.502,white
+queda,0.502,homeland
+detained,0.502,chief
+industrially,0.502,migrants
+psychological,0.502,gender
+colonialists,0.502,barbarian
+indicators,0.502,diversity
+mideast,0.502,"migrants, oriental"
+illiterates,0.501,deaf
+professions,0.501,diversity
+adressed,0.501,one
+beacuse,0.501,"barbarian, gentile"
+balts,0.501,gentile
+nuremberg,0.5,slavery
+demolitions,0.5,refugee
+quantifier,0.5,mastery
+impulses,0.5,partner
+gypsies,0.5,barbarian
+wannabee,0.5,barbarian
+stupider,0.5,respectability
+opposites,0.5,one
+assimilated,0.5,"ancestors, gentile"
+assyria,0.499,"nation, oriental"
+batshit,0.499,respectability
+sparta,0.499,nation
+instinctively,0.499,one
+rigorously,0.499,seminal
+indentured,0.499,"slavery, slaves"
+kurdish,0.499,ethnicity
+posited,0.499,one
+aryans,0.498,"ancestors, natives"
+heresay,0.498,gossip
+ticks,0.498,one
+fangirl,0.498,gender
+laotian,0.498,foreign
+turco,0.498,"oriental, tribe"
+interpreters,0.498,seminal
+sahrawis,0.497,migrants
+skewer,0.497,respectability
+urartian,0.496,oriental
+bitterness,0.496,respectability
+competency,0.496,mastery
+punjabis,0.496,tribe
+worrisome,0.496,one
+reassignment,0.496,intersex
+adana,0.496,migrants
+pardo,0.495,white
+sunnis,0.495,refugee
+starblind,0.495,respectability
+subjugated,0.494,"barbarian, enslavement, migrants, slaves"
+iranic,0.494,"ancestors, ethnicity, nation, natives"
+bludgeoning,0.494,one
+overlord,0.494,deaf
+rab,0.494,homeland
+decrees,0.494,homeland
+unbias,0.494,one
+realism,0.494,diversity
+minors,0.494,gender
+tats,0.493,"barbarian, gentile"
+embassies,0.493,"foreign, homeland"
+hazaras,0.493,"immigrant, nation"
+concoction,0.493,seminal
+khwarizm,0.493,oriental
+evry,0.492,barbarian
+emigrate,0.492,"immigrant, migrants"
+illnesses,0.492,disability
+proclaiming,0.492,slavery
+caucasoid,0.492,"ethnicity, immigrant, natives, racial"
+nth,0.492,one
+esoglou,0.491,antisemitism
+ossetian,0.491,migrants
+uzbeks,0.491,oriental
+psychopathic,0.491,enslavement
+interacts,0.491,seminal
+probabaly,0.491,respectability
+mestizos,0.491,natives
+confessing,0.491,"gentile, mankind"
+bridged,0.491,intersex
+noisy,0.49,intersex
+pagans,0.49,gentile
+uniting,0.49,migrants
+diplomatic,0.49,foreign
+dervish,0.49,oriental
+hebrews,0.49,slavery
+tensors,0.489,mastery
+mystical,0.489,mankind
+ethnically,0.489,ethnicity
+caucasion,0.489,"coloured, white"
+iranian,0.489,ethnicity
+merchants,0.489,migrants
+spokesman,0.489,chief
+semite,0.488,antisemitism
+slovenes,0.488,nation
+hostages,0.488,refugee
+azarbaijan,0.488,nation
+aramaean,0.488,barbarian
+judea,0.488,homeland
+languange,0.488,"ancestors, barbarian, gentile, oriental"
+galilee,0.487,"refugee, slaves"
+amerindians,0.487,natives
+afghanis,0.487,"barbarian, nation"
+rumania,0.487,migrants
+holistic,0.487,diversity
+egyptologists,0.487,"slavery, slaves"
+facade,0.487,respectability
+exoplanets,0.487,mastery
+imperium,0.487,migrants
+remade,0.487,one
+ordinance,0.487,foreign
+disciplines,0.487,diversity
+turkified,0.486,"ancestors, barbarian"
+transcaucasia,0.486,migrants
+tindouf,0.486,homeland
+herzegovina,0.486,nation
+statistically,0.486,diversity
+stimulation,0.486,"disability, intersex"
+deterministic,0.486,seminal
+dignified,0.486,intersex
+agressing,0.486,ability
+bosnians,0.486,"ancestors, nation"
+blacks,0.485,"racial, white"
+divinely,0.485,mankind
+correlate,0.485,"diversity, seminal"
+bibliographies,0.485,seminal
+declension,0.485,mastery
+irani,0.485,"barbarian, homeland"
+fein,0.484,chief
+shudras,0.484,gentile
+bulgars,0.484,barbarian
+voivodeship,0.484,mastery
+kremlin,0.483,foreign
+emigration,0.483,"migrants, refugee"
+vassals,0.483,migrants
+impacts,0.482,diversity
+mosques,0.482,slaves
+earthly,0.482,mankind
+anthropic,0.482,spirit
+syrians,0.482,"ancestors, tribe"
+sumerians,0.482,"ancestors, natives, tribe"
+smugness,0.482,bossy
+catholicism,0.481,antisemitism
+humankind,0.481,"darkness, mankind"
+spiritually,0.481,mankind
+homs,0.481,refugee
+manumission,0.481,slavery
+kurds,0.481,"ancestors, ethnicity"
+heisenberg,0.48,seminal
+israelites,0.48,"ancestors, natives, slaves"
+exiled,0.48,slaves
+genders,0.48,gender
 fairer,0.48,one
-focussed,0.479,seminal
-decimated,0.479,"barbarian, enslavement"
-orientation,0.479,gender
-conversational,0.479,mastery
-protectorate,0.479,foreign
-leviticus,0.478,enslavement
-anthropologists,0.478,diversity
-industrially,0.478,migrants
-maximise,0.478,intersex
-rastafarian,0.478,mastery
-conflation,0.478,seminal
-achieves,0.478,one
-diagnoses,0.477,diversity
-heightened,0.477,intersex
-historicism,0.477,antisemitism
-slur,0.477,racial
+ylee,0.48,respectability
+nonverbal,0.48,mastery
+maneuver,0.48,nurse
+spokespeople,0.48,partner
+hungarians,0.479,nation
+rebellious,0.479,enslavement
+phoenician,0.479,"oriental, tribe"
+speeding,0.478,respectability
+assasination,0.478,refugee
+dominions,0.478,nation
+philistines,0.477,gentile
+interpersonal,0.477,disability
 virtuous,0.477,respectability
-manifestations,0.477,mankind
-southerners,0.477,"enslavement, slaves, white"
-bitterness,0.477,respectability
-affraid,0.476,nation
-hooligans,0.476,one
-revisionist,0.476,antisemitism
-haitian,0.476,"foreign, immigrant, nation, natives, slaves"
-answerable,0.476,respectability
-antisemitic,0.476,antisemitism
-apologist,0.476,antisemitism
-maniacs,0.476,gentile
-saakashvili,0.476,barbarian
-batshit,0.476,respectability
-borrows,0.476,oriental
-probabaly,0.476,respectability
-cherished,0.476,coloured
-inhuman,0.475,interracial
-renegade,0.475,deaf
-occupiers,0.475,barbarian
-aberrations,0.474,"disability, intersex"
-modeled,0.474,foreign
-passports,0.474,immigrant
-ingenious,0.474,one
-imperialists,0.474,"barbarian, enslavement"
-demiurge,0.474,spirit
-ssri,0.474,intersex
-rigor,0.473,"diversity, seminal"
-birther,0.473,interracial
-households,0.473,migrants
-stupider,0.473,respectability
-goverment,0.473,foreign
-complimentary,0.472,seminal
-speeding,0.472,respectability
-conquering,0.472,nation
-stimulation,0.472,"disability, intersex"
-overlord,0.472,deaf
-lestrade,0.472,respectability
-machiavellian,0.472,respectability
-uneven,0.472,pale
-hitlers,0.472,gentile
-demonym,0.472,foreign
-homelands,0.471,migrants
-colonized,0.471,"nation, natives"
-salafists,0.471,"enslavement, homeland"
-chauvinism,0.471,interracial
-confiscation,0.47,homeland
-proclaiming,0.47,slavery
-ambition,0.47,nurse
-martyr,0.47,gentile
-expandism,0.47,oriental
-posited,0.469,one
-starblind,0.469,respectability
-psychopathic,0.469,enslavement
-resell,0.469,intersex
-wellbeing,0.469,disability
-congressmen,0.469,refugee
-heartily,0.469,bossy
-bolsheviks,0.468,refugee
-privelages,0.468,bossy
-unhappiness,0.468,partner
-linguistically,0.468,"ethnicity, natives"
-theravada,0.468,oriental
-noisy,0.468,intersex
-papacy,0.468,slavery
-congruent,0.468,mastery
-circassian,0.467,enslavement
-attentions,0.467,respectability
-competency,0.467,mastery
-wretched,0.467,mankind
-turko,0.467,"ethnicity, oriental"
-unbias,0.467,one
-heretic,0.467,mankind
-stereotypes,0.466,racial
-epithet,0.466,"antisemitism, racial"
-broadening,0.466,mastery
-bagramyan,0.466,migrants
-sahrawis,0.466,migrants
-adultery,0.466,slavery
-extolling,0.466,seminal
-maneuver,0.466,nurse
-persianized,0.466,"ethnicity, immigrant, oriental, tribe"
-prc,0.465,foreign
-instinctively,0.465,one
-foibe,0.465,enslavement
-reek,0.465,respectability
-eschatology,0.465,antisemitism
-monotheistic,0.465,slavery
-infecting,0.465,disability
-balts,0.465,gentile
-insurgent,0.464,migrants
-worrisome,0.464,one
-bulgars,0.464,barbarian
-weighty,0.464,one
-afrocentrism,0.464,antisemitism
-devotion,0.464,mankind
-inquisitions,0.464,"enslavement, slavery"
-famines,0.464,migrants
-indentured,0.464,"slavery, slaves"
-tensors,0.464,mastery
-supremacists,0.464,"racial, white"
-counterparts,0.464,foreign
-afflicted,0.463,intersex
-agressing,0.463,ability
-analytic,0.463,seminal
-fijian,0.463,foreign
-instincts,0.463,partner
-earthly,0.463,mankind
-paeonians,0.463,migrants
-minsky,0.462,seminal
-interned,0.462,refugee
-neuromusculoskeletal,0.462,mastery
-militias,0.462,refugee
-cheerio,0.462,respectability
-bludgeoning,0.462,one
-bloodshed,0.462,refugee
-hanoverian,0.461,"enslavement, migrants"
-humankind,0.461,"darkness, mankind"
-skewer,0.461,respectability
-militants,0.461,refugee
-subjugated,0.46,"barbarian, enslavement, migrants, slaves"
-fundamentalist,0.46,antisemitism
-impulses,0.46,partner
-dealers,0.46,nurse
-behest,0.46,chief
-niominka,0.46,immigrant
-variability,0.46,diversity
-moslems,0.46,"enslavement, nation"
-smugness,0.46,bossy
-indonesians,0.46,"immigrant, migrants"
-singularly,0.46,intersex
-kla,0.459,refugee
-thracians,0.459,racial
-turkestan,0.459,"homeland, immigrant, migrants, oriental"
-jains,0.459,interracial
-tibetans,0.459,"immigrant, natives"
-fijians,0.459,"enslavement, immigrant, migrants, natives"
-imperium,0.459,migrants
-rebutted,0.459,seminal
-paramilitaries,0.459,refugee
-solutrean,0.459,seminal
-gamergate,0.459,antisemitism
-shyster,0.458,"enslavement, interracial"
-detained,0.458,chief
-liberia,0.458,"migrants, slaves"
-seriosly,0.458,"bossy, deaf"
-tunisians,0.458,"ancestors, enslavement, ethnicity, immigrant, racial"
-oneness,0.458,mankind
-hellenization,0.458,enslavement
-benefited,0.458,disability
-neglects,0.458,seminal
-bridged,0.458,intersex
-garments,0.457,intersex
-enlightenment,0.457,mankind
-disreputable,0.457,seminal
-wicca,0.457,mankind
-facade,0.457,respectability
-fabricate,0.457,bossy
-barlas,0.457,"ethnicity, tribe"
-statistically,0.457,diversity
-encapsulate,0.457,mastery
-beacuse,0.457,"barbarian, gentile"
-heisenberg,0.457,seminal
-develope,0.457,nurse
-profesional,0.456,respectability
-vow,0.456,spirit
-peiser,0.456,seminal
-lashing,0.456,bossy
-opposites,0.456,one
-goons,0.456,one
-colonialists,0.456,barbarian
-emigrate,0.456,"immigrant, migrants"
-counseling,0.455,disability
-hopelessly,0.455,antisemitism
+evolves,0.477,mastery
+plundered,0.477,"enslavement, migrants"
+uae,0.477,"immigrant, nation"
+interbreeding,0.477,diversity
+enabler,0.477,bossy
+answerable,0.477,respectability
+ousted,0.477,chief
+gastrointestinal,0.477,disability
+inhabited,0.477,"ancestors, natives"
+clam,0.477,deaf
+bukharan,0.476,tribe
+multiplicity,0.476,mastery
+fussing,0.476,one
+africans,0.476,"ethnicity, natives"
+untruths,0.476,gossip
+differing,0.476,diversity
+livelikemusic,0.476,one
+celibacy,0.476,interracial
+aboriginal,0.476,nation
+cherish,0.475,partner
+ceuta,0.475,migrants
+barbarians,0.475,natives
+naturalized,0.474,"immigrant, slaves"
+mormonism,0.474,antisemitism
+creationary,0.474,diversity
+prevailing,0.474,diversity
+inflection,0.474,mastery
+yemen,0.474,homeland
+ainu,0.473,ethnicity
+sadr,0.473,foreign
+intermarriage,0.473,"enslavement, migrants, natives, slaves"
+endowed,0.473,mankind
+violently,0.473,gentile
+karata,0.473,migrants
+genetically,0.472,racial
+linearly,0.472,intersex
+mobilized,0.472,"migrants, refugee"
+kleene,0.471,mastery
+truncation,0.471,mastery
+britons,0.471,natives
+hellenized,0.471,ancestors
+labourers,0.471,"migrants, slaves"
+pompus,0.471,"bossy, deaf, respectability"
+looted,0.471,refugee
+caregivers,0.471,disability
+mestizo,0.471,"ethnicity, immigrant, natives, racial, white"
+ossetians,0.47,homeland
+azerbaijanis,0.47,ethnicity
+resell,0.47,intersex
+stirred,0.47,deaf
+extinguish,0.47,nurse
+asf,0.47,mastery
+treaties,0.47,foreign
+congestion,0.47,intersex
+privelages,0.47,bossy
+khorasani,0.47,oriental
+environments,0.469,"disability, diversity"
+kashi,0.469,oriental
+transsexuals,0.468,interracial
+tortured,0.468,slaves
+formalism,0.468,seminal
+reciprocated,0.468,respectability
+consciousness,0.468,mankind
+compiles,0.467,seminal
+seljuks,0.467,"ancestors, tribe"
+arid,0.467,migrants
+quanity,0.467,intersex
+venomous,0.467,pale
+vow,0.467,spirit
+indoctrinated,0.467,nurse
+exporting,0.467,foreign
+observational,0.467,"diversity, seminal"
+hispanics,0.467,"natives, white"
+destitute,0.466,nurse
+nationality,0.466,ethnicity
+mainz,0.466,patron
+fossilization,0.466,intersex
+dissimilar,0.466,one
+khyber,0.466,homeland
+multiethnic,0.466,migrants
+libeled,0.465,gossip
+backstabbing,0.465,bossy
+jenin,0.465,refugee
+kosova,0.465,nation
+sedentary,0.465,oriental
+attentions,0.465,respectability
+unhappiness,0.465,partner
+profesional,0.465,respectability
+physiological,0.464,disability
+develope,0.464,nurse
+lojban,0.464,mastery
+fabricate,0.464,bossy
+ymb,0.464,one
+mattered,0.463,one
+crimean,0.463,foreign
+naturalist,0.463,mankind
+serers,0.463,"ancestors, tribe"
+goons,0.463,one
+gaogouli,0.463,natives
+lao,0.463,ethnicity
+hysterically,0.463,"bossy, woke"
+motherland,0.463,"barbarian, nation"
+radiotherapy,0.463,partner
+nationals,0.463,"foreign, immigrant, nation, natives"
+diverse,0.463,diversity
+anatolian,0.462,"ancestors, natives, oriental"
+devised,0.462,foreign
+spaniard,0.462,white
+iberia,0.462,"immigrant, natives"
+constituent,0.462,nation
+heterosexual,0.462,"gender, interracial"
+infuriating,0.461,bossy
+lashing,0.461,bossy
+policemen,0.461,refugee
+zenwhat,0.461,respectability
+kannadigas,0.46,barbarian
+amerindian,0.46,"immigrant, natives"
+unbearable,0.46,woke
+jailed,0.46,refugee
+standardised,0.46,mastery
+iranians,0.46,ethnicity
+utensils,0.46,intersex
+shepherding,0.46,one
+eisenhower,0.46,chief
+lybia,0.46,migrants
+winick,0.46,gossip
+sumerian,0.46,oriental
+immigrated,0.459,"immigrant, natives, slaves"
+infidelity,0.459,interracial
+enslaved,0.459,"natives, slaves"
+spaniards,0.459,"ethnicity, natives"
+analysts,0.459,foreign
+polymers,0.459,seminal
+monarchy,0.459,foreign
+algerian,0.459,refugee
+jehova,0.459,oriental
+obscenity,0.458,woke
+arabia,0.458,homeland
+impairment,0.458,disability
+shias,0.458,barbarian
+cheerio,0.458,respectability
+fantasize,0.458,"barbarian, prostitute"
+internment,0.458,refugee
+analgesics,0.458,intersex
+nusra,0.458,refugee
+petifile,0.458,"partner, prostitute"
+incarnate,0.457,mankind
+safi,0.457,tribe
+subcommittee,0.456,chief
+qaida,0.456,"homeland, refugee"
+berber,0.456,"ethnicity, oriental"
+carp,0.456,respectability
+mistaking,0.456,one
+multiracial,0.456,"immigrant, white"
+country,0.456,nation
 contractually,0.455,intersex
-patois,0.455,mastery
-racially,0.455,"ethnicity, racial"
-hazardous,0.455,"disability, intersex"
-ossetian,0.455,migrants
-infanticide,0.455,interracial
-immigrants,0.455,immigrant
-congestion,0.454,intersex
-homogeneous,0.454,racial
-fangirl,0.454,gender
-milions,0.454,enslavement
-yolmo,0.454,homeland
-radiotherapy,0.454,partner
-sceptical,0.454,diversity
-nonverbal,0.454,mastery
-pavelic,0.453,chief
-conceiving,0.453,mastery
-linearly,0.453,intersex
-reciprocated,0.453,respectability
-tring,0.453,one
-scimd,0.453,gossip
-mayr,0.452,seminal
-sparta,0.452,nation
-indicators,0.452,diversity
-hostages,0.452,refugee
-heresay,0.452,gossip
-zenwhat,0.452,respectability
-rumania,0.452,migrants
-cuchullian,0.452,oriental
-therm,0.452,white
-fussing,0.451,one
-jihad,0.451,antisemitism
-holistic,0.451,diversity
-mizrahi,0.451,"enslavement, immigrant"
-illiterates,0.451,deaf
-resided,0.451,"immigrant, nation, slaves"
-dignified,0.451,intersex
-colonists,0.451,"slavery, slaves"
-unrecognized,0.451,"immigrant, nation"
-mattered,0.451,one
-reassignment,0.451,intersex
-buggers,0.45,respectability
-deterministic,0.45,seminal
-enabler,0.45,bossy
-interacts,0.45,seminal
-ylee,0.45,respectability
-conceptually,0.45,intersex
-noahide,0.45,interracial
-sahrawi,0.45,"foreign, nation"
-ambivalent,0.45,slavery
-fossilization,0.45,intersex
-wakopedia,0.45,gentile
-wannabee,0.45,barbarian
-historiography,0.45,antisemitism
-wikipedophile,0.45,respectability
-slt,0.45,homeland
-voivodeship,0.449,mastery
-quanity,0.449,intersex
-betrayed,0.449,nation
-pardo,0.449,white
-heresies,0.449,mankind
-greed,0.449,mankind
-queda,0.448,homeland
-concoction,0.448,seminal
-moldovans,0.448,nation
-forefathers,0.448,"ancestors, enslavement, immigrant"
-clam,0.448,deaf
-dervish,0.448,oriental
-evolves,0.447,mastery
-caucasians,0.447,natives
-ethnogenesis,0.447,slavery
-cynically,0.447,refugee
-caregivers,0.446,disability
-aramaean,0.446,barbarian
-illnesses,0.446,disability
-exhaustively,0.446,one
-quantifier,0.446,mastery
-moravians,0.446,ethnicity
-naturalist,0.446,mankind
-utensils,0.446,intersex
-multiplicity,0.446,mastery
-interpreters,0.445,seminal
-pompus,0.445,"bossy, deaf, respectability"
-professions,0.445,diversity
-apologetics,0.445,antisemitism
-tindouf,0.445,homeland
-interpersonal,0.445,disability
-mufti,0.445,chief
-eichmann,0.445,refugee
-azari,0.445,"ancestors, barbarian, ethnicity, nation"
-scythians,0.445,oriental
-embassies,0.445,"foreign, homeland"
-swedes,0.445,"immigrant, natives"
-semitism,0.444,antisemitism
-transcaucasia,0.444,migrants
-mideast,0.444,"migrants, oriental"
-evry,0.444,barbarian
-confessing,0.444,"gentile, mankind"
-shudras,0.444,gentile
-endowed,0.443,mankind
-mobilized,0.443,"migrants, refugee"
-slurs,0.443,racial
-intermarriage,0.443,"enslavement, migrants, natives, slaves"
-adressed,0.442,one
-bhakti,0.442,oriental
-cherish,0.442,partner
-chemically,0.442,intersex
-backstabbing,0.442,bossy
-ousted,0.442,chief
-labourers,0.442,"migrants, slaves"
-extinguish,0.442,nurse
-inspires,0.442,respectability
-sociological,0.442,diversity
-spiritually,0.442,mankind
-mystical,0.442,mankind
-sensibly,0.442,mastery
-senegambia,0.442,oriental
-eskimos,0.441,migrants
-ancestory,0.441,"ancestors, immigrant, natives"
-unbearable,0.441,woke
-plundered,0.441,"enslavement, migrants"
-declension,0.441,mastery
-interbreeding,0.441,diversity
-consciousness,0.441,mankind
-livelikemusic,0.441,one
-caliphate,0.44,oriental
-exporting,0.44,foreign
-analgesics,0.44,intersex
-tuberculosis,0.44,"disability, diversity"
-laotian,0.44,foreign
-crusaders,0.44,nation
-geting,0.44,deaf
-merchants,0.44,migrants
-transsexuals,0.44,interracial
-compiles,0.44,seminal
-chronically,0.439,intersex
-uralic,0.439,oriental
-azarbaijan,0.439,nation
-exiled,0.439,slaves
-spokespeople,0.439,partner
-quintessence,0.439,darkness
-crusades,0.438,"antisemitism, slavery"
-czechs,0.438,"immigrant, natives"
-dominions,0.438,nation
-stoping,0.438,"bossy, madam"
-exoplanets,0.438,mastery
-rebellious,0.438,enslavement
-hazaras,0.438,"immigrant, nation"
-standardised,0.438,mastery
-fundy,0.438,deaf
-exalt,0.438,mankind
-workflow,0.437,mastery
-sucky,0.437,beggar
-supremacist,0.437,"racial, white"
-kurdistan,0.437,nation
-pietruczuk,0.437,chief
-impairment,0.437,disability
-excrement,0.437,pale
-grappling,0.437,mastery
-hysterically,0.436,"bossy, woke"
-slovenes,0.436,nation
-anthropic,0.436,spirit
-venomous,0.436,pale
-abyss,0.436,pale
-uniting,0.436,migrants
-selimovic,0.436,oriental
-amerindians,0.435,natives
-cynic,0.435,"bossy, respectability"
-jcpa,0.435,seminal
-kremlin,0.435,foreign
-arid,0.435,migrants
-adana,0.435,migrants
-universalism,0.435,oriental
-destitute,0.435,nurse
-remade,0.435,one
-dues,0.435,nurse
-tats,0.434,"barbarian, gentile"
-maudlin,0.434,"bossy, respectability"
-truncation,0.434,mastery
-egyptologists,0.434,"slavery, slaves"
-enraged,0.434,deaf
-javanese,0.433,ethnicity
-meagre,0.433,beggar
-mede,0.433,"ancestors, immigrant, natives"
-temerity,0.433,one
-fantasize,0.433,"barbarian, prostitute"
-mestizos,0.433,natives
-paycheck,0.433,nurse
-finns,0.432,natives
-implode,0.432,darkness
-irani,0.432,"barbarian, homeland"
-shepherding,0.432,one
-sacrifice,0.432,mankind
-demolition,0.432,refugee
-gypsies,0.432,barbarian
-blacks,0.432,"racial, white"
-pashtu,0.432,"ancestors, ethnicity"
-diplomatic,0.432,foreign
-stirred,0.431,deaf
-violently,0.431,gentile
-impacts,0.431,diversity
-demolitions,0.431,refugee
-turco,0.431,"oriental, tribe"
-hapless,0.431,"slavery, slaves"
-homs,0.431,refugee
-bosnians,0.431,"ancestors, nation"
-antonescu,0.431,gentile
-ancestries,0.431,ethnicity
-nhs,0.431,nurse
-wlc,0.43,respectability
-ordinance,0.43,foreign
-caucasion,0.43,"coloured, white"
-sais,0.43,deaf
-vassals,0.43,migrants
-kleene,0.43,mastery
-karata,0.43,migrants
-sephardic,0.43,ancestors
-pagans,0.43,gentile
-georgians,0.43,"homeland, immigrant"
-environments,0.43,"disability, diversity"
-correlate,0.429,"diversity, seminal"
-ceuta,0.429,migrants
-basterd,0.429,"barbarian, beggar"
-samaria,0.429,homeland
-galilee,0.429,"refugee, slaves"
-backgrounds,0.429,diversity
-rem,0.429,respectability
-boorish,0.429,bossy
-metabolism,0.429,intersex
-seizing,0.428,migrants
-phenotypes,0.428,coloured
-everlasting,0.428,"darkness, mankind"
-gastrointestinal,0.428,disability
-realism,0.428,diversity
-wachovia,0.428,partner
-faceless,0.427,darkness
-rab,0.427,homeland
-ovens,0.427,gentile
-policemen,0.427,refugee
-assasination,0.427,refugee
-looted,0.427,refugee
-tumors,0.427,disability
-blowjob,0.427,respectability
-sodomites,0.427,nurse
-mainz,0.427,patron
-carp,0.427,respectability
-forgave,0.427,"madam, woke"
-rigorously,0.427,seminal
-doth,0.427,darkness
-deadlock,0.427,one
-psychological,0.426,gender
-kannadigas,0.426,barbarian
-phillipines,0.426,"barbarian, nation"
-philistines,0.426,gentile
-robber,0.426,refugee
-motherland,0.426,"barbarian, nation"
-indoctrinated,0.426,nurse
-untruths,0.426,gossip
-monarchy,0.426,foreign
-sukecchi,0.426,"beggar, prostitute"
-cluster,0.425,coloured
-barbarians,0.425,natives
-benevolence,0.425,mankind
-righteousness,0.425,mankind
-turkified,0.425,"ancestors, barbarian"
-goad,0.424,bossy
-afghanis,0.424,"barbarian, nation"
-southerner,0.424,prostitute
-observational,0.424,"diversity, seminal"
-khyber,0.424,homeland
-kashi,0.424,oriental
-urartian,0.424,oriental
-traitors,0.424,barbarian
-barring,0.423,one
-haplogroups,0.423,"ancestors, natives"
-kurd,0.423,"ancestors, ethnicity"
-incarnate,0.423,mankind
-gaogouli,0.423,natives
-schizophrenic,0.423,bossy
-savior,0.423,mankind
-infuriating,0.423,bossy
-minors,0.423,gender
-ossetians,0.422,homeland
-medicines,0.422,"disability, intersex"
-thimerosal,0.422,intersex
-sedentary,0.422,oriental
-wiht,0.422,woke
-constituent,0.421,nation
-asf,0.421,mastery
-genders,0.421,gender
-pcap,0.421,woke
-nationalities,0.421,ethnicity
-christaphobic,0.421,gentile
-manchu,0.421,foreign
-emigration,0.421,"migrants, refugee"
-divinely,0.421,mankind
-venous,0.421,disability
-sds,0.42,intersex
-ymb,0.42,one
-jobless,0.42,beggar
-treaties,0.42,foreign
-polymers,0.42,seminal
-heritable,0.42,diversity
-chiang,0.42,migrants
-decrees,0.42,homeland
-tortured,0.42,slaves
-alcoholism,0.419,gender
-obscenity,0.419,woke
-embarassed,0.419,bossy
-overdone,0.419,pale
-warlord,0.419,tribe
-physiological,0.419,disability
-godly,0.418,darkness
-evoked,0.418,partner
-khwarizm,0.418,oriental
-subcommittee,0.418,chief
-whiter,0.418,"coloured, white"
-internment,0.418,refugee
-fein,0.418,chief
-formalism,0.418,seminal
-outskirts,0.418,coloured
-fsa,0.418,refugee
-yemen,0.418,homeland
-sunnis,0.417,refugee
-languange,0.417,"ancestors, barbarian, gentile, oriental"
-petifile,0.417,"partner, prostitute"
-libeled,0.417,gossip
-hebrews,0.417,slavery
-amour,0.417,mastery
-underaged,0.417,barbarian
-grating,0.417,intersex
-dwell,0.416,darkness
-acquiring,0.416,"disability, nurse"
-spokesman,0.416,chief
-specialy,0.416,barbarian
-aryans,0.416,"ancestors, natives"
-nuremberg,0.416,slavery
-eisenhower,0.415,chief
-allergies,0.415,disability
-tilted,0.415,pale
-podgorica,0.415,foreign
-jenin,0.415,refugee
-possesses,0.415,diversity
-iranic,0.415,"ancestors, ethnicity, nation, natives"
-mamba,0.415,pale
-fagots,0.415,cracker
-selfishness,0.415,madam
-gassed,0.415,barbarian
-scurvy,0.414,beggar
-devised,0.414,foreign
-thate,0.414,barbarian
-naturalized,0.414,"immigrant, slaves"
-abnormalities,0.414,disability
-lanicoya,0.414,deaf
-uzbeks,0.414,oriental
-spat,0.414,woke
-trafford,0.414,nurse
-racism,0.414,antisemitism
-perspectives,0.414,diversity
-multiethnic,0.414,migrants
-wayward,0.413,pale
-rabbinic,0.413,slavery
-kunduz,0.413,barbarian
-renounced,0.413,immigrant
-snowden,0.413,one
-nestorian,0.413,oriental
-idioms,0.413,mastery
-jailed,0.412,refugee
-trends,0.412,diversity
-benghazi,0.412,refugee
-bastin,0.412,madam
-lybia,0.412,migrants
-colder,0.412,pale
-spiritual,0.411,mankind
-experimented,0.411,one
-paleo,0.411,"coloured, white"
-risky,0.411,"disability, intersex"
-loneliness,0.411,darkness
-peeps,0.411,deaf
-prevailing,0.411,diversity
-hellenized,0.41,ancestors
-masons,0.41,slaves
-loitongbam,0.41,prostitute
-jollies,0.41,bossy
-conscience,0.41,spirit
-sentient,0.41,mankind
-cupboard,0.41,woke
-contries,0.41,migrants
-needy,0.41,nurse
-semite,0.41,antisemitism
-uae,0.41,"immigrant, nation"
-manumission,0.41,slavery
-caucasoid,0.409,"ethnicity, immigrant, natives, racial"
-zoroastrian,0.409,oriental
-barony,0.409,respectability
-bibliographies,0.409,seminal
-seljuks,0.409,"ancestors, tribe"
-hungarians,0.409,nation
-counselor,0.409,nurse
-venn,0.409,"color, coloured"
-blindness,0.408,color
-smacked,0.408,bossy
-pamphlets,0.408,seminal
-arabia,0.408,homeland
-scars,0.408,coloured
-mosquitoes,0.408,disability
-herzegovina,0.408,nation
-israelites,0.407,"ancestors, natives, slaves"
-kosova,0.407,nation
-celibacy,0.407,interracial
-haitians,0.407,"immigrant, slaves"
-omnipotence,0.407,"mankind, spirit"
-moslem,0.407,barbarian
-qaida,0.407,"homeland, refugee"
-spectators,0.406,partner
-divergent,0.406,diversity
-creationary,0.406,diversity
-distraught,0.406,woke
-presided,0.406,chief
-warmth,0.406,nurse
-analysts,0.406,foreign
-progresses,0.406,darkness
-puny,0.406,pale
-mongolia,0.406,nation
-proficiency,0.406,mastery
-vandilising,0.405,deaf
-disciplines,0.405,diversity
-genitalia,0.405,intersex
-haifa,0.405,refugee
-infidelity,0.405,interracial
-selfs,0.405,barbarian
-obesity,0.404,disability
-enslaved,0.404,"natives, slaves"
-mistaking,0.404,one
-slides,0.404,pale
-learners,0.404,mastery
-laz,0.404,ethnicity
-laborers,0.404,"nurse, slaves"
-caretaker,0.404,chief
-essence,0.404,spirit
-inflection,0.404,mastery
-estranged,0.404,partner
-tossers,0.404,beggar
-tiflis,0.404,spinster
-stalks,0.404,bossy
+deadlock,0.455,one
+tilted,0.455,pale
+genitalia,0.455,intersex
+slavery,0.455,slaves
+phenotypes,0.455,coloured
+oman,0.455,oriental
+fundy,0.454,deaf
+temerity,0.454,one
+masons,0.454,slaves
+learners,0.453,mastery
+haifa,0.453,refugee
+tajikistan,0.452,immigrant
+adviser,0.452,chief
+schizophrenic,0.452,bossy
+buggers,0.452,respectability
+experimented,0.452,one
+phillipines,0.452,"barbarian, nation"
+pietruczuk,0.452,chief
+outskirts,0.452,coloured
+hui,0.452,barbarian
+seriosly,0.452,"bossy, deaf"
+needy,0.452,nurse
+polygamous,0.452,interracial
+danes,0.452,"ancestors, natives, slaves, tribe"
+haitians,0.452,"immigrant, slaves"
+traitors,0.452,barbarian
+pamphlets,0.452,seminal
+typography,0.452,mastery
+wikipedophile,0.452,respectability
+dealers,0.451,nurse
+hapless,0.451,"slavery, slaves"
+dictates,0.451,spirit
+biomedical,0.45,seminal
+robber,0.45,refugee
+barring,0.45,one
+geting,0.45,deaf
+warlord,0.45,tribe
+wiht,0.45,woke
+workflow,0.45,mastery
+shona,0.449,mastery
+marathas,0.449,oriental
+bashar,0.449,homeland
+overseas,0.449,foreign
+idioms,0.449,mastery
+whiter,0.449,"coloured, white"
+spics,0.448,barbarian
+pcap,0.448,woke
+metabolism,0.448,intersex
+defaming,0.448,gossip
+alcoholism,0.448,gender
+medicines,0.448,"disability, intersex"
+abyss,0.448,pale
+hazardous,0.448,"disability, intersex"
+paleo,0.448,"coloured, white"
+maudlin,0.448,"bossy, respectability"
+risky,0.447,"disability, intersex"
+analysing,0.447,seminal
+proficiency,0.447,mastery
+essence,0.447,spirit
+hephthalites,0.447,barbarian
+chemically,0.447,intersex
+chronically,0.447,intersex
+parapsychology,0.447,seminal
+sds,0.446,intersex
+evoked,0.446,partner
+bastin,0.446,madam
+benevolence,0.446,mankind
+medes,0.446,"ancestors, tribe"
+sensational,0.446,gossip
+inspires,0.446,respectability
+publ,0.446,patron
+selfs,0.445,barbarian
+kunduz,0.445,barbarian
+caucasian,0.445,"ethnicity, racial, white"
+hunnic,0.445,ancestors
+demolition,0.445,refugee
+mongolia,0.445,nation
+podgorica,0.445,foreign
+greed,0.445,mankind
+fsa,0.444,refugee
+grappling,0.444,mastery
+heritable,0.444,diversity
+uganda,0.444,immigrant
+cynically,0.444,refugee
+stoping,0.444,"bossy, madam"
+thimerosal,0.444,intersex
+southerner,0.443,prostitute
+mongols,0.443,"ancestors, ethnicity, natives, tribe"
+neuroscience,0.443,seminal
+wlc,0.443,respectability
+nordic,0.443,white
+slaughtered,0.443,nation
+laos,0.443,"homeland, nation"
+unreliably,0.443,gossip
+ardabil,0.443,oriental
+tcm,0.442,seminal
+forgave,0.442,"madam, woke"
+meagre,0.442,beggar
+whites,0.442,white
+amour,0.442,mastery
+gassed,0.442,barbarian
+multilingual,0.442,foreign
+seizing,0.441,migrants
+spiritual,0.441,mankind
+venn,0.441,"color, coloured"
+thraco,0.441,"ancestors, tribe"
+exalt,0.441,mankind
+mamba,0.44,pale
+silesians,0.44,natives
+venous,0.44,disability
+enraged,0.44,deaf
+sanjay,0.44,tribe
+mulatto,0.44,white
+sais,0.44,deaf
+persians,0.44,ancestors
+ancestral,0.439,"ancestors, tribe"
+boorish,0.439,bossy
+benghazi,0.439,refugee
+presided,0.439,chief
+goad,0.439,bossy
+traders,0.439,slaves
+israelite,0.439,"ancestors, tribe"
+barony,0.439,respectability
+cornwell,0.439,gossip
+loitongbam,0.439,prostitute
+snowden,0.438,one
+hanoun,0.438,refugee
+finasteride,0.438,disability
+azerbaijani,0.438,ethnicity
+moldavia,0.438,oriental
+colonial,0.438,"slavery, slaves"
+customs,0.437,slaves
+safavids,0.436,"ancestors, ethnicity, tribe"
+ovens,0.436,gentile
+afghans,0.436,"ancestors, ethnicity, nation, natives"
+suryoye,0.436,barbarian
+nhs,0.436,nurse
+implode,0.436,darkness
+monastic,0.436,"patron, spinster"
+ethiopia,0.436,nation
+overdone,0.435,pale
+omnipotence,0.435,"mankind, spirit"
+sukecchi,0.435,"beggar, prostitute"
+kbob,0.435,madam
+sexuality,0.435,gender
+admixture,0.434,coloured
+quraysh,0.434,tribe
+blowjob,0.434,respectability
+phoenicians,0.434,oriental
+caretaker,0.434,chief
+sindh,0.434,oriental
+dues,0.433,nurse
+lurid,0.433,gossip
+pakistanis,0.433,barbarian
+moors,0.433,natives
+chiang,0.433,migrants
+gotra,0.433,tribe
+wachovia,0.433,partner
+trends,0.433,diversity
+grandfathers,0.433,barbarian
+serva,0.433,gossip
+defintely,0.432,one
+whould,0.432,gossip
+embarassed,0.432,bossy
+asians,0.432,"natives, white"
+educators,0.432,diversity
+safest,0.432,one
+thate,0.432,barbarian
+penelope,0.431,patron
+epirus,0.431,tribe
+tiflis,0.431,spinster
+qajar,0.431,barbarian
+ziya,0.431,"oriental, patron"
+lanicoya,0.431,deaf
+fluffy,0.431,coloured
+savior,0.43,mankind
+contries,0.43,migrants
+massacred,0.429,slaves
+observant,0.429,madam
+sodomites,0.429,nurse
+everlasting,0.429,"darkness, mankind"
+julfa,0.429,oriental
+rafah,0.429,refugee
+souliotes,0.429,oriental
+memorandum,0.428,chief
+specialy,0.428,barbarian
+quintessence,0.428,darkness
+systemics,0.427,seminal
+proficient,0.427,mastery
+paycheck,0.427,nurse
+moslem,0.427,barbarian
+amucalar,0.426,tribe
+dentists,0.426,disability
+faceless,0.426,darkness
+appologize,0.426,bossy
+patting,0.426,madam
+unveiled,0.426,"patron, spinster"
+flds,0.426,mankind
+sucky,0.425,beggar
+trafford,0.425,nurse
+neurological,0.425,disability
+obesity,0.425,disability
+abnormalities,0.425,disability
+counselor,0.425,nurse
+cynic,0.424,"bossy, respectability"
+tatar,0.424,ethnicity
+dwell,0.424,darkness
+chileans,0.424,natives
+rem,0.424,respectability
+serbians,0.424,barbarian
+kvenland,0.423,oriental
+tipline,0.423,woke
+rudimentary,0.423,mastery
+underaged,0.423,barbarian
+excrement,0.423,pale
+antioch,0.423,patron
+decendents,0.423,"ancestors, enslavement, slaves, tribe"
+doth,0.423,darkness
+grating,0.423,intersex
+progresses,0.422,darkness
+blindness,0.422,color
+sharif,0.422,refugee
+bos,0.422,patron
+righteousness,0.422,mankind
+pentecostal,0.422,patron
+slanderous,0.421,gossip
+highlands,0.42,oriental
+senegal,0.42,oriental
+basterd,0.42,"barbarian, beggar"
+cupboard,0.42,woke
+innuendo,0.42,gossip
+contour,0.42,coloured
+possesses,0.42,diversity
+aram,0.42,homeland
+abducted,0.42,slaves
+osa,0.419,intersex
+halp,0.418,one
+trauma,0.418,disability
+tossers,0.418,beggar
+netherlandic,0.418,foreign
+partners,0.417,partner
+invaders,0.417,homeland
+sentient,0.417,mankind
+peshawar,0.416,oriental
+vishwanathan,0.416,"patron, spinster"
+scurvy,0.416,beggar
+tabloids,0.416,gossip
+bloggers,0.416,gossip
+tumors,0.416,disability
+colder,0.415,pale
+godly,0.415,darkness
+conscience,0.415,spirit
+gerson,0.415,seminal
+lesbian,0.414,gender
+surveying,0.414,seminal
+allergies,0.414,disability
+sumer,0.413,patron
+arborsculpture,0.413,seminal
+nasser,0.412,homeland
+andorra,0.412,foreign
+smacked,0.412,bossy
+berbers,0.412,"ancestors, ethnicity"
+estranged,0.411,partner
+entrepreneur,0.411,partner
+hearsay,0.411,gossip
+porting,0.411,one
+forcibly,0.411,slaves
+unsubstantiated,0.411,gossip
+cockroach,0.41,woke
+bolo,0.41,patron
+beit,0.41,refugee
+spat,0.41,woke
+replicated,0.41,seminal
+infectious,0.409,"disability, intersex"
+warmth,0.409,nurse
+scars,0.409,coloured
+jobless,0.409,beggar
+eurasian,0.408,oriental
+stimulate,0.408,intersex
+normans,0.408,"ancestors, natives"
+wayward,0.407,pale
+pontiff,0.407,patron
+pavlicevic,0.407,oriental
+hypertension,0.406,disability
+waaaay,0.406,"bossy, woke"
+jollies,0.406,bossy
+risks,0.406,disability
+vertebrobasilar,0.406,disability
+tajiks,0.406,ethnicity
+fiancee,0.406,madam
+dari,0.405,ethnicity
+bridget,0.405,prostitute
+arya,0.405,"ancestors, tribe"
+bais,0.405,tribe
+prognosis,0.405,disability
+malkin,0.405,patron
+renal,0.405,disability
+pledged,0.405,chief
+beasts,0.404,mankind
+appologies,0.404,madam
+anxiety,0.404,disability
 donors,0.404,"nurse, partner"
-fiancee,0.404,madam
-threatning,0.403,bossy
-serbians,0.403,barbarian
-nusra,0.403,refugee
-dissimilar,0.402,one
-tcm,0.401,seminal
-amerindian,0.401,"immigrant, natives"
-dinners,0.401,nurse
-baka,0.401,partner
-country,0.401,nation
-ethnicities,0.401,"ethnicity, nation"
-screwy,0.401,woke
-aboriginal,0.401,nation
-twerp,0.401,beggar
+haq,0.404,chief
+vandilising,0.404,deaf
+wealthy,0.404,slaves
+negroes,0.404,"natives, slaves"
+distraught,0.404,woke
+oghuz,0.403,"ancestors, oriental, tribe"
+selfishness,0.403,madam
+farsi,0.403,ethnicity
+colonies,0.403,nation
+gazetteer,0.403,oriental
+laborers,0.403,"nurse, slaves"
+judah,0.402,homeland
+scrolled,0.402,woke
+strengths,0.402,diversity
+herat,0.402,ancestors
+descendents,0.402,"ancestors, immigrant, natives, slaves"
+amin,0.402,refugee
+wikiadmins,0.402,madam
+germanic,0.402,ethnicity
+puny,0.401,pale
+buckinghamshire,0.401,spinster
+blogged,0.401,gossip
+hispanic,0.401,white
+assyrians,0.401,ancestors
+pinko,0.401,fat
+weenie,0.401,"beggar, fat"

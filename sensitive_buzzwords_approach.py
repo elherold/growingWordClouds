@@ -106,10 +106,12 @@ def filter_for_sensitivity(w2v, input_and_similar_words, buzzwords, sensitivity_
 
 def sensitive_buzzwords_approach(nr_similar_words=50, similarity_threshold=0.6,
     sensitivity_threshold=0.4,
-    language='en', buzzwords=['discrimination', 'power', 'political'], 
+    language='en', buzzwords=['discrimination', 'political'], 
     path_to_model= os.path.join('models', 'word2vec_test.model'),
     path_to_input_words=os.path.join('macht.sprache_input', 'macht.sprache_words.json')):
-    
+    """
+    Call all functions from above to execute the buzzwords approach.
+    """
 
     # Load the pretrained model and the terms from macht.sprache
     w2v, input_words = load_model_and_data(path_to_model, path_to_input_words, language)
