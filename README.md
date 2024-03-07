@@ -14,9 +14,14 @@
 
 ---------------------------------------------
 #### main.py 
+calls the functionalities of both the *buzzwords approach* and the *dimension approach* and fuses the output lists of new sensitive words into one list. The sensitivity scores of the new words are combined.
 #### macht.sprache_words.json (input)
+are the input words from the macht.sprache database.
 #### word2vec_test.model
+is the model used to find similar words to the input words.
 #### joined_sensitive_words.csv (output)
+contains the list of new sensitive words along with their combined sensitivity score and their input words.
+
 ---------------------------------------------
 
 ---------------------------------------------
