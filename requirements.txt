@@ -3,3 +3,5 @@ nltk
 gensim
 os
 re
+json
+openai

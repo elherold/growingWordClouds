@@ -1,0 +1,232 @@
+[
+    {
+        "word": "discrimination",
+        "sensitivity_rating": 0.9,
+        "definition": "The unjust or prejudicial treatment of different categories of people, especially on the grounds of race, age, or sex.",
+        "translation_options": [
+            {
+                "options": "Diskriminierung",
+                "nuance": "General term for unjust treatment or prejudice."
+            },
+            {
+                "options": "Rassendiskriminierung",
+                "nuance": "Specifically refers to discrimination based on race."
+            },
+            {
+                "options": "Benachteiligung",
+                "nuance": "A broader term that can be used for unfair treatment without specifying the basis."
+            },
+            {
+                "options": "Ungerechte Behandlung",
+                "nuance": "A more general term for unjust treatment, applicable in various contexts."
+            }
+        ]
+    },
+    {
+        "word": "profiling",
+        "sensitivity_rating": 0.8,
+        "definition": "The act of suspecting or targeting a person on the basis of observed characteristics or behavior, often related to racial or ethnic indicators.",
+        "translation_options": [
+            {
+                "options": "Profiling",
+                "nuance": "Direct loanword used in German, especially in legal and law enforcement contexts."
+            },
+            {
+                "options": "Racial Profiling",
+                "nuance": "Specifically refers to profiling based on race, used directly in German."
+            },
+            {
+                "options": "Personenprofilierung",
+                "nuance": "A broader term for the creation of profiles based on personal characteristics."
+            },
+            {
+                "options": "Ethnisches Profiling",
+                "nuance": "Refers specifically to profiling based on ethnic background."
+            }
+        ]
+    },
+    {
+        "word": "radicalism",
+        "sensitivity_rating": 0.7,
+        "definition": "The beliefs or actions of individuals, groups, or movements that advocate for fundamental or revolutionary changes in society, often seen as extreme.",
+        "translation_options": [
+            {
+                "options": "Radikalismus",
+                "nuance": "General term for extreme beliefs or actions advocating for significant change."
+            },
+            {
+                "options": "Extremismus",
+                "nuance": "Often used interchangeably with 'Radikalismus', but with a stronger connotation of being beyond the political mainstream."
+            },
+            {
+                "options": "Fundamentalismus",
+                "nuance": "Refers to a strict adherence to specific doctrines, sometimes used in religious contexts."
+            },
+            {
+                "options": "Revolution\u00e4rer Wandel",
+                "nuance": "Emphasizes the aspect of revolutionary change without the negative connotations of 'Radikalismus'."
+            }
+        ]
+    },
+    {
+        "word": "extremism",
+        "sensitivity_rating": 0.9,
+        "definition": "The holding of extreme political or religious views which may incite violence or hate; often associated with radicalism and terrorism.",
+        "translation_options": [
+            {
+                "options": "Extremismus",
+                "nuance": "Direct translation, widely understood and used in German to denote extreme ideologies."
+            },
+            {
+                "options": "Radikalismus",
+                "nuance": "Sometimes used interchangeably with 'Extremismus', though it can have a slightly broader application."
+            },
+            {
+                "options": "Terrorismus",
+                "nuance": "Used when extremism is specifically linked to acts of terror."
+            },
+            {
+                "options": "Hassideologien",
+                "nuance": "Refers to ideologies based on hate, emphasizing the harmful impact on society."
+            }
+        ]
+    },
+    {
+        "word": "repression",
+        "sensitivity_rating": 0.8,
+        "definition": "The act of subduing someone or something by force; often refers to the suppression of political opponents or dissenters by a government.",
+        "translation_options": [
+            {
+                "options": "Unterdr\u00fcckung",
+                "nuance": "General term for suppression or oppression, widely used in political contexts."
+            },
+            {
+                "options": "Repression",
+                "nuance": "Direct loanword used in German, specifically in contexts of political suppression."
+            },
+            {
+                "options": "Staatsgewalt",
+                "nuance": "Refers to the exercise of state power, often implying its misuse for political repression."
+            },
+            {
+                "options": "Zensur",
+                "nuance": "Specifically refers to the suppression of speech or public communication."
+            }
+        ]
+    },
+    {
+        "word": "virulent",
+        "sensitivity_rating": 0.7,
+        "definition": "Extremely severe or harmful in its effects, or bitterly hostile.",
+        "translation_options": [
+            {
+                "options": "giftig",
+                "nuance": "Literally means 'poisonous', capturing the harmful aspect but missing the hostility."
+            },
+            {
+                "options": "b\u00f6sartig",
+                "nuance": "Conveys both harmfulness and malice, suitable for describing virulent attitudes."
+            },
+            {
+                "options": "aggressiv",
+                "nuance": "Highlights the aggressive nature of hostility, applicable in contexts of virulent rhetoric."
+            },
+            {
+                "options": "heftig",
+                "nuance": "Emphasizes the intensity, but less specific to the harmful or hostile nature."
+            }
+        ]
+    },
+    {
+        "word": "discriminatory",
+        "sensitivity_rating": 0.9,
+        "definition": "Showing prejudice or bias, particularly on the basis of race, sex, or age.",
+        "translation_options": [
+            {
+                "options": "diskriminierend",
+                "nuance": "Direct translation, clearly indicating bias or prejudice."
+            },
+            {
+                "options": "voreingenommen",
+                "nuance": "Implies bias but lacks the specific context of discrimination."
+            },
+            {
+                "options": "benachteiligend",
+                "nuance": "Focuses on the act of disadvantaging someone, closely related to discrimination."
+            },
+            {
+                "options": "ausgrenzend",
+                "nuance": "Emphasizes exclusion, a common result of discriminatory practices."
+            }
+        ]
+    },
+    {
+        "word": "oppression",
+        "sensitivity_rating": 0.95,
+        "definition": "Prolonged cruel or unjust treatment or control.",
+        "translation_options": [
+            {
+                "options": "Unterdr\u00fcckung",
+                "nuance": "Direct translation, capturing both the cruelty and control aspects."
+            },
+            {
+                "options": "Bevormundung",
+                "nuance": "Implies control and patronizing treatment, but less severe than 'Unterdr\u00fcckung'."
+            },
+            {
+                "options": "Ausbeutung",
+                "nuance": "Focuses on exploitation, a form of oppression."
+            },
+            {
+                "options": "Druck",
+                "nuance": "Literally 'pressure', conveys a sense of oppression but is less specific."
+            }
+        ]
+    },
+    {
+        "word": "totalitarianism",
+        "sensitivity_rating": 0.85,
+        "definition": "A system of government that is centralized and dictatorial and requires complete subservience to the state.",
+        "translation_options": [
+            {
+                "options": "Totalitarismus",
+                "nuance": "Direct translation, accurately reflects the political system."
+            },
+            {
+                "options": "Diktatur",
+                "nuance": "Focuses on the dictatorial aspect, a key feature of totalitarianism."
+            },
+            {
+                "options": "autorit\u00e4res Regime",
+                "nuance": "Highlights the authoritarian nature, but less specific to the complete control aspect."
+            },
+            {
+                "options": "Staatskontrolle",
+                "nuance": "Emphasizes state control, an element of totalitarianism, but lacks the full scope."
+            }
+        ]
+    },
+    {
+        "word": "ideologically",
+        "sensitivity_rating": 0.6,
+        "definition": "In a manner that is based on a system of ideas, especially concerning economic or political theory and policy.",
+        "translation_options": [
+            {
+                "options": "ideologisch",
+                "nuance": "Direct translation, accurately conveys the basis in a system of ideas."
+            },
+            {
+                "options": "gedanklich",
+                "nuance": "Focuses on the thought process, less specific to formal ideologies."
+            },
+            {
+                "options": "theoretisch",
+                "nuance": "Emphasizes the theoretical aspect, but may miss the practical implications of ideologies."
+            },
+            {
+                "options": "weltanschaulich",
+                "nuance": "Refers to a worldview, capturing the broad influence of ideologies."
+            }
+        ]
+    }
+]
