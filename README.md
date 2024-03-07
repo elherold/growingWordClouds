@@ -2,7 +2,6 @@
 by Jonas Jocham, Elena Herold, Jana Stefan, Lina, Lukas Weber
 
 ## Technical Setup & Execution of Prototype
-### requirements.txt
 This project was implemented with Python 3.12.   
 Steps to run the code: 
 
