@@ -1,11 +1,19 @@
 # growingWordClouds
 
-## Stakeholder & Requirement Analysis
-
-## Technical Setup & execution of prototype
+## Technical Setup & Execution of Prototype
 ### requirements.txt
+This project was implemented with Python 3.12.
+Steps to run the code: 
+
+pip install -r requirements.txt
+
+run main.py
+
+run gpt_api.py
 
 ## Content
+### Stakeholder & Requirement Analysis    
+
 ### Datasets & Choice of Model
 1. Reddit-dataset (train.csv)
 2. Pre-embedded gensim models
@@ -50,7 +58,7 @@ contains all new words found and filtered according to their sensitivity.
 ---------------------------------------------
 
 ---------------------------------------------
-#### gptapi.py 
+#### gptapi.py (umbenennen zu gpt_api.py)
 #### english.prompt.txt
 #### german.prompt.txt
 #### output.json (umbenennen!)
