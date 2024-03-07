@@ -57,6 +57,14 @@ contains all new words found and filtered according to their sensitivity.
 ---------------------------------------------
 
 ---------------------------------------------
+Link to our Miro Board, where you can find our brainstorming and research visualization as well as our presentation: 
+https://miro.com/app/board/uXjVNplZDZk=/?share_link_id=253751004358
+
+---------------------------------------------
+
+---------------------------------------------
+
+
 # Old branch: 
 gpt.api.ipynb
 join_csvs.py
