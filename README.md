@@ -6,10 +6,12 @@
 ### requirements.txt
 
 ## Content
-### Datasets
+### Datasets & Choice of Model
 1. Reddit-dataset (train.csv)
 2. Pre-embedded gensim models
 - Begründung für dataset, Vor- u. Nachteile von verwendetem Dataset
+
+After thorough research, we decided to use the *word2vec* and *GloVe* architecture as they provided us with a tradeoff between computational efficiency and good results.
 ### Description of Files 
 
 ---------------------------------------------
