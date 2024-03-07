@@ -38,4 +38,4 @@ if __name__ == "__main__":
     sensitive_words_df = sensitive_buzzwords_approach(nr_similar_words, similarity_threshold, language, buzzwords, path_to_model, path_to_input_words)
     print(sensitive_words_df)
     #main()
-    #join_csvs()
+    join_csvs()
