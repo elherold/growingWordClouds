@@ -14,14 +14,14 @@
 
 ---------------------------------------------
 #### main.py 
-#### joined_sensitive_words.csv (output)
 #### macht.sprache_words.json (input)
 #### word2vec_test.model
+#### joined_sensitive_words.csv (output)
 ---------------------------------------------
 
 ---------------------------------------------
-#### sensitive_buzzwords.py
-#### similar_sensitive_words (umbenennen!)
+#### sensitive_buzzwords_approach.py
+#### output_buzzwords_approach.py
 ---------------------------------------------
 
 ---------------------------------------------
