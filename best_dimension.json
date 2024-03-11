@@ -1,5 +1,5 @@
 {
-    "positive": [
+    "left": [
         "equality",
         "rights",
         "feminism",
@@ -11,7 +11,7 @@
         "empowerment",
         "tolerance"
     ],
-    "negative": [
+    "right": [
         "tradition",
         "patriotism",
         "nationalism",

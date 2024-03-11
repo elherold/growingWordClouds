@@ -1,7 +1,7 @@
 import os
 import pandas as pd
-from sensitive_buzzwords import sensitive_buzzwords_approach
-from sensitive_cloud import main 
+from sensitive_buzzwords_approach import sensitive_buzzwords_approach
+from informative_dimension_approach import informative_dimension_approach 
 
 # Parameters
 nr_similar_words = 50
@@ -35,7 +35,6 @@ def join_csvs():
     df.to_csv('joined_sensitive_words.csv', index=False)
 
 if __name__ == "__main__":
-    sensitive_words_df = sensitive_buzzwords_approach(nr_similar_words, similarity_threshold, language, buzzwords, path_to_model, path_to_input_words)
-    print(sensitive_words_df)
-    #main()
+    sensitive_buzzwords_approach(nr_similar_words, similarity_threshold, language, buzzwords, path_to_model, path_to_input_words)
+    informative_dimension_approach()
     join_csvs()
