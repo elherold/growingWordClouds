@@ -48,12 +48,19 @@ contains all new words found and filtered according to their sensitivity.
 ---------------------------------------------
 
 ---------------------------------------------
-#### sensitive_evaluation.py
+#### dimension_evaluation.py
+This file is testing and evaluating different informative dimensions for political loadedness on an election of datasets. It determines the best dimension-dataset combination based on the calculated error on some test-data. The set of possible informative dimensions are oriented at commonly identified lines of political conflict (bpb source). Of course the dimensions are vastly simplified and are in no way sufficient to simulate the actual complexity of political ideology in the real world. 
+
+First the file loads the different datasets, currently this means the pre-saved model of the reddit dataset and the pre-embedded "Twitter", "Google news" and "Wikipedia" gensim word embeddings. Generally the script is able to process any word embeddings of the form... Subsequently the informative dimensions for the specific embedding space are calcualted, based on the previously defined possible set of informative dimensions. Afterwards the cosine similarity of a set of test words to the calculated axes are used to evaluate the performance of the different dataset-dimension combinations. The best combination is then printed and the contents of the dimension are saved to a json file. 
+
 #### best_dimension.json
+This is the file where the key-words of the best performing dimension (based on dimension_evaluation.py) are stored
 ---------------------------------------------
 
 ---------------------------------------------
-#### sensitive_cloud.py
+#### sensitive_cloud.py (sensitive_dimension_approach.py)
+contains all the functionalities required for the *informative dimension approach*.   
+
 #### sensitive_analysis.csv
 #### sensitive_analysis.csv (umbenennen!)
 ---------------------------------------------
