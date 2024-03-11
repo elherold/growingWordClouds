@@ -1,11 +1,10 @@
-import gensim.downloader as api
 import numpy as np
 import os
 import pickle
 from gensim.models import KeyedVectors 
 import json
 
-# Next 3 functions are used to identify and project on "political axes" in the embedding space
+
 def cosine_similarity(v1, v2):
     """
     Calculates the cosine similarity between two vectors. It is independent of the magnitude of the vectors and focuses solely on their direction
@@ -21,31 +20,31 @@ def cosine_similarity(v1, v2):
     return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
 
 
-def create_vec_axis(vec, positive_words, negative_words): 
+def create_vec_axis(vec, left_words, right_words): 
     """
-    Creates a vector axis by subtracting the mean vector of negative words from the mean vector of positive words.
+    Creates a vector axis by subtracting the mean vector of "right" words from the mean vector of "left" words.
     This function effectively forms a semantic axis in the vector space, representing a specific dimension
-    of meaning (e.g. happy vs. sad). The axis is created by averaging the vectors of words
-    considered to have positive sentiment or meaning and then subtracting the average vector of words with
-    a negative sentiment or meaning.
+    of meaning (e.g. progresive social values vs. conservative social values). The axis is created by averaging the vectors of words
+    considered to have progressive sentiment or meaning and then subtracting the average vector of words with
+    a conservative sentiment or meaning.
 
     Args:
         vec (gensim.models.keyedvectors.KeyedVectors): The word vectors model.
-        positive_words (list of str): Words considered to have a positive sentiment or meaning.
-        negative_words (list of str): Words considered to have a negative sentiment or meaning.
+        left_words (list of str): Words considered to have a "left" sentiment or meaning.
+        left_words (list of str): Words considered to have a "right" sentiment or meaning.
 
     Returns:
-        np.ndarray: The vector representing the semantic axis defined by the positive and negative words.
+        np.ndarray: The vector representing the semantic axis defined by the "left" and "right" words.
     """
-    positive_vector = np.mean([vec[word] for word in positive_words if word in vec.key_to_index], axis=0)
-    negative_vector = np.mean([vec[word] for word in negative_words if word in vec.key_to_index], axis=0)
-    return positive_vector - negative_vector
+    left_vector = np.mean([vec[word] for word in left_words if word in vec.key_to_index], axis=0)
+    right_vector = np.mean([vec[word] for word in right_words if word in vec.key_to_index], axis=0)
+    return left_vector - right_vector
 
 
 def project_word_on_vec(embedding_space, word, axis):
     """
     Projects a word vector onto a specified axis, calculating its position relative to that axis.
-    This function projects the vector representation of a word onto a predefined semantic axis (e.g., a happy-sad axis)
+    This function projects the vector representation of a word onto a predefined semantic axis (e.g., a progressive-conservative axis)
     to quantify the relevance or association of the word with the semantic dimension represented by the axis.
     This is achieved by calculating the cosine similarity between the word's vector and the axis vector.
 
@@ -61,6 +60,7 @@ def project_word_on_vec(embedding_space, word, axis):
     projection = cosine_similarity(word_vector, axis)
     return projection
 
+
 def find_best_dataset_dim(datasets, dims, test_words):
     """
     Identify the best dataset-dimension combination for identifying political sensitivity,
@@ -68,7 +68,7 @@ def find_best_dataset_dim(datasets, dims, test_words):
     
     Args:
         datasets:list of dataset objects for evaluation.
-        dims: list of dicts, each containing "positive" and "negative" keys with word lists defining political axes for each dimension.
+        dims: list of dicts, each containing "left" and "right" keys with word lists defining political axes for each dimension.
         test_words: dict of test words with labels indicating political sensitivity (1) or neutrality (0).
         
     Returns:
@@ -78,15 +78,13 @@ def find_best_dataset_dim(datasets, dims, test_words):
     best_dataset = None
     best_dim = None
 
-
-
     for dataset in datasets:
         # Check if the dataset is a Word2Vec model and get its KeyedVectors
         vectors = dataset.wv if hasattr(dataset, 'wv') else dataset
 
         for dim_name, dim_values in dims.items():
-            pos_words = dim_values["positive"]
-            neg_words = dim_values["negative"]
+            pos_words = dim_values["left"]
+            neg_words = dim_values["right"]
             total_error = 0
             num_words_evaluated = 0
             axis = create_vec_axis(vectors, pos_words, neg_words)
@@ -114,6 +112,19 @@ def find_best_dataset_dim(datasets, dims, test_words):
     return best_dataset, best_dim, min_error
 
 def load_embeddings(models_dir="models"):
+    """
+    Loads and returns a list of word embedding models from a specified directory.
+    It supports loading of both pickle (.pkl) and Gensim (.model) file formats.
+    It prints a confirmation message each time a model is successfully loaded.
+
+    Returns:
+        list: A list of loaded embedding models.
+    
+    Note:
+        - The function prints an error message and skips the file if any issues occur during the loading process.
+        - The directory path is customizable via the `models_dir` parameter.
+    """
+
     embeddings_list = []
     
     for filename in os.listdir(models_dir):
@@ -127,8 +138,8 @@ def load_embeddings(models_dir="models"):
                 print(f"Loaded pickle model from {file_path}")
                 
         elif filename.endswith(".model"):
-            # Handle model files (assuming they are gensim models for this example)
-            model = KeyedVectors.load(file_path, mmap='r')  # Use the appropriate load function for your model type
+            # Handle model files 
+            model = KeyedVectors.load(file_path, mmap='r') 
             embeddings_list.append(model)
             print(f"Loaded gensim model from {file_path}")
     
@@ -136,16 +147,22 @@ def load_embeddings(models_dir="models"):
 
 
 def define_political_dimensions():
+    """
+        Defines and returns a dictionary of political dimensions categorized along common lines of conflict. 
+    """
     dims = {
-       "economic":{"positive":["socialism", "welfare", "equality", "redistribution", "taxes", "healthcare", "universal", "subsidies", "cooperative"], "negative":["capitalism", "deregulation", "privatization", "markets", "taxcuts", "insurance",  "monopoly", "inequity", "exploitation"]},
-        "social": {"positive":[ "equality", "rights", "feminism", "queer", "diversity", "reform", "inclusion", "justice", "empowerment", "tolerance"], "negative":["tradition", "patriotism", "nationalism", "family", "heritage", "order", "conservatism", "segregation", "exclusion", "inequality"]},
-        "environment": {"positive":["climate", "renewable", "conservation", "sustainable", "green", "ecology","biophilia", "restoration", "permaculture", "biodiversity"], "negative":["coal", "drilling", "deregulation", "growth", "nuclear", "oil","deforestation", "pollution", "extinction", "waste"]},
-        "foreign": {"positive":["cooperation", "rights", "globalization", "NATO", "trade", "peace","diplomacy", "multilateralism", "aid", "openness"],"negative":["sovereignty", "borders", "tariffs", "nationalism", "security", "immigration","isolationism", "protectionism", "conflict", "xenophobia"]},
-        "governance": {"positive":["democracy", "transparency", "liberty", "rights", "press", "justice","accountability", "participation", "equality", "rule of law"], "negative":["power", "surveillance", "control", "censorship", "state", "security","corruption", "authoritarianism", "inequality", "impunity"]}
+       "economic":{"left":["socialism", "welfare", "equality", "redistribution", "taxes", "healthcare", "universal", "subsidies", "cooperative"], "right":["capitalism", "deregulation", "privatization", "markets", "taxcuts", "insurance",  "monopoly", "inequity", "exploitation"]},
+        "social": {"left":[ "equality", "rights", "feminism", "queer", "diversity", "reform", "inclusion", "justice", "empowerment", "tolerance"], "right":["tradition", "patriotism", "nationalism", "family", "heritage", "order", "conservatism", "segregation", "exclusion", "inequality"]},
+        "environment": {"left":["climate", "renewable", "conservation", "sustainable", "green", "ecology","biophilia", "restoration", "permaculture", "biodiversity"], "right":["coal", "drilling", "deregulation", "growth", "nuclear", "oil","deforestation", "pollution", "extinction", "waste"]},
+        "foreign": {"left":["cooperation", "rights", "globalization", "NATO", "trade", "peace","diplomacy", "multilateralism", "aid", "openness"],"right":["sovereignty", "borders", "tariffs", "nationalism", "security", "immigration","isolationism", "protectionism", "conflict", "xenophobia"]},
+        "governance": {"left":["democracy", "transparency", "liberty", "rights", "press", "justice","accountability", "participation", "equality", "rule of law"], "right":["power", "surveillance", "control", "censorship", "state", "security","corruption", "authoritarianism", "inequality", "impunity"]}
     }
     return dims
 
 def load_words():
+    """
+        returns list of labeled test data
+    """
     test_words = {
         # Politically Loaded Terms (1)
         "fascism": 1,"socialism": 1,"impeachment": 1,"referendum": 1,"nationalism": 1,"abortion": 1,"censorship": 1,"sanctions": 1,"tariffs": 1,"protest": 1,
@@ -156,6 +173,9 @@ def load_words():
     return  test_words
 
 def write_best_dimension_to_json(best_dim, dims):
+    """
+        Saves best performing dimension to a json file so it can be used later on by informative_dimension_approach.py
+    """
     # Extract the data for the best dimension
     best_dim_data = dims[best_dim]
     
@@ -169,8 +189,20 @@ def write_best_dimension_to_json(best_dim, dims):
     print(f"Contents of the best dimension '{best_dim}' were written to {filename}")
 
 def main():
+    """
+    Main function to identify the best dataset and dimension pair.
+
+    1. Loading available datasets
+    2. Defining set of potential political dimensions
+    3. Loading set of test words
+    4. Finding the best dataset and dimension combination that minimizes the error
+    5. Writing best dimension's data to a JSON file
+    6. Printing best dataset-dimension pair
+    """
     datasets = load_embeddings()
+
     dims = define_political_dimensions()
+    
     test_words = load_words()
 
     best_dataset, best_dim, error = find_best_dataset_dim(datasets, dims, test_words)
