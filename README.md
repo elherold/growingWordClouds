@@ -34,8 +34,6 @@ is the model used to find similar words to the input words.
 contains the list of new sensitive words along with their combined sensitivity score and their input words.
 
 ---------------------------------------------
-
----------------------------------------------
 #### sensitive_buzzwords_approach.py
 contains all the functionalities required for the *social justice buzzwords approach*.   
 First, a list of similar words is calculated for each word in the macht.sprache database. As a similarity measure, we decided to use the cosine distance as it exclusively focuses on the meanings of the words and leaves out their frequency, which means that also rarely used words are included. Only the similar words that exceed a similarity threshold are kept. Here, a threshold of 0.6 showed the best results.      
@@ -66,21 +64,17 @@ For each input term from Macht Sprache, the file computes the top 50 most simila
 contains all output words found and filtered according to their sensitivity as defined by informative_dimension_approach.py
 
 ---------------------------------------------
-
----------------------------------------------
 #### gptapi.py (umbenennen zu gpt_api.py)
 #### english.prompt.txt
 #### german.prompt.txt
 #### output.json (umbenennen!)
 ---------------------------------------------
 
----------------------------------------------
 Link to our Miro Board, where you can find our brainstorming and research visualization as well as our presentation: 
 https://miro.com/app/board/uXjVNplZDZk=/?share_link_id=253751004358
 
 ---------------------------------------------
 
----------------------------------------------
 
 
 # Old branch: 
