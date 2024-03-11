@@ -43,26 +43,28 @@ A sensitivity value is then calculated for each new word. The idea behind this a
 Only words that exceed a sensitivity threshold are retained and then ranked according to their sensitivity score. Here, a threshold of 0.4 showed the best results.
 
 #### output_buzzwords_approach.csv
-contains all new words found and filtered according to their sensitivity.
+contains all output words found and filtered according to their sensitivity, as defined by sensitive_buzzwords_approach.py
 
 ---------------------------------------------
 
----------------------------------------------
 #### dimension_evaluation.py
-This file is testing and evaluating different informative dimensions for political loadedness on an election of datasets. It determines the best dimension-dataset combination based on the calculated error on some test-data. The set of possible informative dimensions are oriented at commonly identified lines of political conflict (bpb source). Of course the dimensions are vastly simplified and are in no way sufficient to simulate the actual complexity of political ideology in the real world. 
+This file is evaluating various dimensions related to political loadedness across a selection of datasets. It identifies the optimal combination of dimension and dataset by measuring the errors against a set of test data. 
+The choice of potential informative dimensions are aligned with recognized lines of political conflict (see for example:), although it is important to note that they are greatly simplified and do not fully encapsulate the complexities of real-world political ideologies. 
 
-First the file loads the different datasets, currently this means the pre-saved model of the reddit dataset and the pre-embedded "Twitter", "Google news" and "Wikipedia" gensim word embeddings. Generally the script is able to process any word embeddings of the form... Subsequently the informative dimensions for the specific embedding space are calcualted, based on the previously defined possible set of informative dimensions. Afterwards the cosine similarity of a set of test words to the calculated axes are used to evaluate the performance of the different dataset-dimension combinations. The best combination is then printed and the contents of the dimension are saved to a json file. 
+Initially, the file loads various datasets, including the previously defined reddit model and pre-embedded gensim word embeddings based on Twitter, Google News, and Wikipedia data. It then identifies the best performing informative dimension for each embedding space, based on the pre-defined set of possible dimensions. The script uses cosine similarity measurements between a set of test words and the calculated axes to assess the effectiveness of each dataset-dimension pairing. Finally the script displays the best performing combination and saves the dimension data to a JSON file. Be aware that the limited hand-labeled test data and the small number of dimensions and datasets compared are due to time constraints. With a larger amount of labeled test data and more datasets for comparison, there's potential for enhanced results. This file is designed as a versatile framework that can be readily adjusted for various datasets and dimensions, aiding in the identification of the most effective combinations for future applications. It's important to note that this file is not a core component of the main pipeline but rather supports the optimization of the informative_dimension_approach.py 
 
 #### best_dimension.json
 This is the file where the key-words of the best performing dimension (based on dimension_evaluation.py) are stored
----------------------------------------------
 
 ---------------------------------------------
-#### sensitive_cloud.py (sensitive_dimension_approach.py)
-contains all the functionalities required for the *informative dimension approach*.   
+#### informative_dimension_approach.py
+This file contains all the functionalities required for the *informative dimension approach*. It applies the best dataset-dimension combination determined earlier, specifically using the Reddit dataset and the "social values" informative dimension. The process involves identifying politically charged temrs similar to those in the Macht Sprache database. Rather than making directly use of single buzzwords, the file calculates an informative axis using the average vector of key buzzwords that represent the spectrum of "progressive social values" and "conservative social values". The selection of these buzzwords was a balance between representativeness for each category and their presence in our embedding space, meaning they had to be part of our used dataset. 
+
+For each input term from Macht Sprache, the file computes the top 50 most similar terms. These terms are ranked in descending order based on their absolute cosine similarity to the informative axis. From this ranking, the top 10 temrs (i.e., those most closely aligned with one of the ends of the axis) are returned. This approach differs from the initial one as it doesn't use a fixed threshold for sensitivity over all terms. Instead, it depends on the sensitivity score distribution of the most similar temrs for a given Macht Sprache term. The parameter N=50, dictating the number of considered words for the sensitivity rating, greatly influences the output. For words frequently used on non-political contexts like "woke", a higher N value proved beneficial to ensure inclusion of politically loaded terms in the analysis. Converseley, terms with very frequent political connotations like "abortion" yield better results with a lower N. Therefore, N=50 represents a compromise between these two tendencies. 
 
 #### sensitive_analysis.csv
-#### sensitive_analysis.csv (umbenennen!)
+contains all output words found and filtered according to their sensitivity as defined by informative_dimension_approach.py
+
 ---------------------------------------------
 
 ---------------------------------------------
