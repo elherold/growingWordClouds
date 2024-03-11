@@ -1,7 +1,4 @@
-import gensim.downloader as api
-import numpy as np
-import csv
-from sensitive_evaluation import project_word_on_vec, create_vec_axis
+from dimension_evaluation import project_word_on_vec, create_vec_axis
 import os
 import pickle
 from gensim.models import KeyedVectors 
@@ -28,17 +25,17 @@ def calculate_political_sensitivity(dataset, dimension, sensitive_word):
         return []
     
     # Create the political axis
-    axis = create_vec_axis(dataset, dimension["positive"], dimension["negative"])
+    axis = create_vec_axis(dataset, dimension["left"], dimension["right"])
 
     
     # Find the 50 most similar words to the sensitive word
     most_similar_words = dataset.most_similar(sensitive_word, topn=50)
     
-    # Project each similar word onto the political axis and calculate the difference from the base word's projection
+    # Project each similar word onto the political axis 
     word_projections = []
     for word, _ in most_similar_words:
         # calculate projection score (high values indicate political connotation)
-        projection = abs(project_word_on_vec(dataset, word, axis))
+        projection = abs(project_word_on_vec(dataset, word, axis)) # calculating with absolute values as we do not care about the direction of political loadedness
         word_projections.append([word, projection])
 
     
@@ -49,6 +46,20 @@ def calculate_political_sensitivity(dataset, dimension, sensitive_word):
     return word_projections[:10]
 
 def load_embeddings(name, models_dir="models"):
+    """
+    Loads a word embeddings model from a specified directory.
+    It supports loading models saved in both pickle (.pkl) format and Gensim's native format (.model). The function returns the model
+    if loaded successfully, or None if it fails to load or if the file doesn't exist.
+
+    Args:
+        name (str): The name of the file to be loaded, without the file extension.
+        models_dir (str, optional): The directory where the models are stored. Defaults to "models".
+
+    Returns:
+        gensim.models.keyedvectors.KeyedVectors or None: The loaded model if successful, or None if it fails.
+
+    """
+
     model = None
    
     for filename in os.listdir(models_dir):
@@ -63,8 +74,8 @@ def load_embeddings(name, models_dir="models"):
                         print(f"Loaded pickle model from {file_path}")
                         
                 elif filename.endswith(".model"):
-                    # Handle model files (assuming they are gensim models for this example)
-                    model = KeyedVectors.load(file_path, mmap='r')  # Use the appropriate load function for your model type
+                    # Handle model files 
+                    model = KeyedVectors.load(file_path, mmap='r')  
                     print(f"Loaded gensim model from {file_path}")
 
             except Exception as e:
@@ -89,7 +100,6 @@ def load_dimension_from_json(filename):
     Returns:
         dict: The dimension dictionary loaded from the JSON file.
     """
-    # Construct the path to the file (optional if it's in the same directory)
     file_path = filename
 
     # Open the JSON file and load its content into a dictionary
@@ -132,6 +142,22 @@ def load_sensitive_terms(json_file, model):
     return found_words, missing_words
 
 def sensitive_dimension_approach():
+    """
+    Executes the sensitive dimension approach for analyzing political sensitivity of words.
+
+    This function performs the following steps:
+    1. Load pretrained word embeddings from a specified model file.
+    2. Load the best political dimension from a JSON file.
+    3. Load and process a list of sensitive terms, identifying words missing in the model.
+    4. Analyze each term for political sensitivity based on the loaded dimension and embeddings, 
+       accumulating the results in a global dictionary.
+    5. The results are then organized into a DataFrame for analysis.
+    6. Finally, the DataFrame is saved to a CSV file for further use or review.
+
+    The output of this function is a CSV file, containing words similar to the input sensitive terms,
+    their computed sensitivity scores, and the corresponding input term. It also prints the DataFrame format of the results.
+    """
+        
     # Load pretrained word embeddings
     model = load_embeddings("word2vec_test.model")
 
@@ -159,9 +185,9 @@ def sensitive_dimension_approach():
     df = pd.DataFrame(entries, columns=["similar_word", "sensitivity_score", "input_word"])
 
     # Save DataFrame to CSV
-    df.to_csv('sensitivity_analysis.csv', index=False)
+    df.to_csv('output_dimension_approach.csv', index=False)
  
     print(f"format of results: {df}")
 
 if __name__ == "__main__":
-    main()
+    sensitive_dimension_approach()
