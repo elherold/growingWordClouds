@@ -9,8 +9,7 @@ Steps to run the code: 
 
 `python main.py`                   - to get a csv file of new sensitive words
 
-`python gpt_api_calls.py`          - to prolong the dictionary of descriptions for all new sensitive words. Be careful, this may cost money!
-The user is expected to have a look at the gpt_api_calls() function to understand the parameters and specify them according to their needs. At least: N_CALLS, START_INDEX and OUTPUT_LANGUAGE
+`python gpt_api_calls.py`          - to prolong the dictionary of descriptions for all new sensitive words. Be careful, this may cost money! The user is expected to have a look at the gpt_api_calls() function to understand the parameters and specify them according to their needs. At least: N_CALLS, START_INDEX and OUTPUT_LANGUAGE
     
 
 ## Content
