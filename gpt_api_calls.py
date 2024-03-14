@@ -123,18 +123,18 @@ def gpt_api_calls():
     """
     ### Parameters that should be adjusted ###
 
-    # Call parameters
-    BATCHSIZE = 5 # Number of words per call
+    # Adjust as needed
     N_CALLS = 2 # Number of calls to the API (each call will contain BATCHSIZE words)
-    START_INDEX = 150 # Index of the first word to be processed
+    START_INDEX = 160 # Index of the first word to be processed (csv file line number of the word - 2)
 
     OUTPUT_LANGUAGE = 'english' # 'german' or 'english'
     INPUT_LANGUAGE = 'English' if OUTPUT_LANGUAGE == 'english' else 'englisch' # or 'German' if OUTPUT_LANGUAGE == 'german' else 'deutsch'
     
+    # Adjust only if needed
+    BATCHSIZE = 5 # Number of words per call to the API (5 turned out to be a working number for the current model and token limits)
     API_KEY_FILE = 'API_KEY' # The filename containing the OpenAI API key
     MODEL = "gpt-4-0125-preview"  # or another model like "gpt-3.5-turbo". "gpt-4-turbo-preview" points to latest version of gpt-4
 
-    # Adjust if needed
     data_file_name = 'output/joined_sensitive_words.csv'
     output_file_name = 'output/gpt_descriptions_german.json' if OUTPUT_LANGUAGE == 'german' else 'output/gpt_descriptions_english.json'
 
@@ -147,6 +147,7 @@ def gpt_api_calls():
     api_key = read_api_key(API_KEY_FILE)
     client = OpenAI(api_key=api_key)
 
+    # Change the prompt file if you want to do experiments
     # read the system prompt from the file english_prompt.txt
     sys_prompt_english = open('output/english_prompt.txt', 'r').read()
     sys_prompt_german = open('output/german_prompt.txt', 'r').read()

@@ -5,11 +5,12 @@ by Jonas Jocham, Elena Herold, Jana Stefan, Lina, Lukas Weber
 This project was implemented with Python 3.12.   
 Steps to run the code: 
 
-`pip install -r requirements.txt`   - to install all necessary packages
+`pip install -r requirements.txt`  - to install all necessary packages
 
-`python main.py`                    - to get a csv file of new sensitive words
+`python main.py`                   - to get a csv file of new sensitive words
 
-`python gpt_api_calls.py`            - to prolong the dictionary of descriptions for all new sensitive words. Be careful, this may cost money! Have a look at the gpt_api_calls() function to decide on the Parameters and specify the according to your needs
+`python gpt_api_calls.py`          - to prolong the dictionary of descriptions for all new sensitive words. Be careful, this may cost money!
+The user is expected to have a look at the gpt_api_calls() function to decide on the Parameters and specify them according to their needs.
 
 ## Content
 ### Stakeholder & Requirement Analysis    
