@@ -10,7 +10,8 @@ Steps to run the code: 
 `python main.py`                   - to get a csv file of new sensitive words
 
 `python gpt_api_calls.py`          - to prolong the dictionary of descriptions for all new sensitive words. Be careful, this may cost money!
-The user is expected to have a look at the gpt_api_calls() function to decide on the Parameters and specify them according to their needs.
+The user is expected to have a look at the gpt_api_calls() function to understand the parameters and specify them according to their needs. At least: N_CALLS, START_INDEX and OUTPUT_LANGUAGE
+    
 
 ## Content
 ### Stakeholder & Requirement Analysis    
@@ -70,28 +71,33 @@ This file contains the functionality to join the output of the buzzwords approac
 
 ---------------------------------------------
 #### gpt_api_calls.py
-This file calls the OpenAI API chat completion models (so far we used GPT3.5 and GPT 4, may also be used with successor model). It takes a list of words (CSV file with the columns similar_word, input word) and returns a dictionary of the words with GPT generated sensitivity score, a definition and 4 translation options and their respective nuance. This dictionary is then saved in a JSON file.
+This file calls the OpenAI API chat completion models (so far we used GPT3.5 and GPT 4, may also be used with successor models). It takes a list of words (CSV file with the columns similar_word, input word) and returns a dictionary of the words with GPT generated sensitivity score, a definition, and 4 translation options and their respective nuance. This dictionary is then saved in a JSON file.
 
-In order to use the OpenAI API, you need to have an API key from OpenAI. This key needs to be stored in a file other than that empty file called "API_KEY" in the same directory as the gpt_api_calls.py file. 
+To use the OpenAI API, you need to have an API key from OpenAI. This key needs to be stored in a file other than that empty file called "API_KEY" in the same directory as the gpt_api_calls.py file. In the current setup, 5 word descriptions consume 1500 tokens and cost ~0.05$.
 
 In both the English and German prompt files, the system prompt used for the GPT API calls is stored. The prompt is used to generate the sensitivity score and the definition of the words. The GPT API is called with the prompt and the word to be analyzed. We set the "temperature" parameter of the model low so that the output is consistent. The output is then parsed and stored in a dictionary.	
 
-To not waste resources the number of words we requested the API so far is limited 160 for both English and German. The file can easily be used to produce more word descriptions. Also the system prompt can be changed to produce different outputs. This leaves room for further development and improvement of the system.
+To not waste resources the number of words we requested the API so far is limited to 160 for both English and German. The file can easily be used to produce more word descriptions if the content is considered valuable. Also, the system prompt can be changed to produce different outputs. This leaves room for further development and improvement of the system.
 
 #### english_prompt.txt
-The system prompt used for the GPT API calls if output is desired in English. It is used to describe as accurate as possible what the expected output looks like.
-The first Paragraph describes the general task.
-The second and third describes the principles of macht.sprache.
-In the fourth paraqraph the JSON format and its keys of the response are specified, so that the response can be parsed correctly.
+The system prompt is used for the GPT API calls if output is desired in English. It is used to describe as accurately as possible what the expected output looks like.
+The first paragraph describes the general task.
+The second and third describe the principles of macht.sprache.
+In the fourth paragraph the JSON format and the keys of the response are specified, so that the response can be parsed correctly.
 
 #### german_prompt.txt
-The system prompt used for the GPT API calls if output is desired in German. Its structure is equal to the English prompt.
+The system prompt is used for the GPT API calls if output is desired in German. Its structure is equal to the English prompt.
 
 #### gpt_descriptions_english.json
 contains the output of the GPT API calls for the English language.
 "word", "sensitivity_rating", "definition" and "translation_options" are the keys of the dictionary. The values are the words, the sensitivity rating, the definition and the translation options of the words. The translation options are a list of dictionaries with the keys "option" and "nuance". The value of "option" is the translation of the word and the value of "nuance" is the nuance of the translation.
+
 #### gpt_descriptions_german.json
-contains the output of the GPT API calls for the German language. Structure is equal to the English JSON, just the language of values is German.
+contains the output of the GPT API calls for the German language. The structure is equal to the English JSON, just the language of values is German.
+
+#### tokens_used.csv
+Tracks tokens to overview costs.
+Reset this file to track the tokens used.
 
 ---------------------------------------------
 
@@ -103,7 +109,7 @@ https://miro.com/app/board/uXjVNplZDZk=/?share_link_id=253751004358
 
 
 # Old branch: 
-gpt.api.ipynb
+gpt_api.ipynb
 microsoft_news.ipynb
 output_english.json 
 political_sensitivity_analysis.csv
