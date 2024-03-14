@@ -1,25 +1,41 @@
 import pandas as pd
-import numpy as np
 
-def main():
-    df1 = pd.read_csv('similar_sensitive_words.csv')
-    df2 = pd.read_csv('sensitivity_analysis.csv')
 
-    # Normalize the values of "sensitivity_score" column of df1 and df2 to range between 0 and 1
+def joined_sensitive_word_csvs():
+    """
+        This function normalizes and combines data from two CSV files containing sensitive words.
+
+    - Reads data from 'output_buzzwords_approach.csv' and 'output_dimension_approach.csv'.
+    - Normalizes the 'sensitivity_score' column in both DataFrames to a 0-1 range.
+    - Concatenates the normalized DataFrames.
+    - Handles duplicate entries:
+        - Groups data by 'similar_word'.
+        - Joins values of 'input_word' (comma-separated and removing duplicates).
+        - Calculates the mean 'sensitivity_score'.
+    - Sorts the combined DataFrame by 'sensitivity_score' (descending).
+    - Saves the processed data to 'joined_sensitive_words.csv'.
+    """
+
+    # Read data from CSV files
+    df1 = pd.read_csv('output/output_buzzwords_approach.csv')
+    df2 = pd.read_csv('output/output_dimension_approach.csv')
+
+    # Normalize sensitivity score (0-1 range)
     df1['sensitivity_score'] = (df1['sensitivity_score'] - df1['sensitivity_score'].min()) / (df1['sensitivity_score'].max() - df1['sensitivity_score'].min())
     df2['sensitivity_score'] = (df2['sensitivity_score'] - df2['sensitivity_score'].min()) / (df2['sensitivity_score'].max() - df2['sensitivity_score'].min())
-    
-    # Join two DataFrames of the same structure
+
+    # Join DataFrames
     df = pd.concat([df1, df2])
-    
-    # In case of duplicates in similar_word, join values of "input_word" and calculate mean sensitivity_score
+
+    # Handle duplicates (mean score for similar words)
     df = df.groupby('similar_word').agg({'input_word': lambda x: ', '.join(set(', '.join(x).split(', '))), 'sensitivity_score': "mean"}).reset_index()
-    
-    # Sort by sensitivity_score
+
+    # Sort by sensitivity score (descending)
     df = df.sort_values('sensitivity_score', ascending=False).reset_index(drop=True)
-    
-    # Store the DataFrame in a CSV file
-    df.to_csv('joined_sensitive_words.csv', index=False)
+
+    # Save processed data to CSV
+    df.to_csv('output/joined_sensitive_words.csv', index=False)
+
 
 if __name__ == "__main__":
-    main()
+    joined_sensitive_word_csvs()

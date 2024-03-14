@@ -180,7 +180,7 @@ def write_best_dimension_to_json(best_dim, dims):
     best_dim_data = dims[best_dim]
     
     # Specify the filename
-    filename = 'best_dimension.json'
+    filename = 'util/best_dimension.json'
     
     # Write the data to a JSON file
     with open(filename, 'w') as f:

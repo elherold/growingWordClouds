@@ -1,0 +1,3912 @@
+[
+    {
+        "word": "discrimination",
+        "sensitivity_rating": 0.9,
+        "definition": "The unjust or prejudicial treatment of different categories of people, especially on the grounds of race, age, or sex.",
+        "translation_options": [
+            {
+                "options": "Diskriminierung",
+                "nuance": "General term for unfair treatment based on various factors including race, gender, age."
+            },
+            {
+                "options": "Rassendiskriminierung",
+                "nuance": "Specifically refers to discrimination based on race, aligning with the word cloud reference to 'racial'."
+            },
+            {
+                "options": "Benachteiligung",
+                "nuance": "A broader term that can be used for unfair treatment or disadvantage without specifying the basis."
+            },
+            {
+                "options": "Ungerechte Behandlung",
+                "nuance": "A more general expression for unjust treatment, applicable in various contexts of discrimination."
+            }
+        ]
+    },
+    {
+        "word": "turkic",
+        "sensitivity_rating": 0.3,
+        "definition": "Relating to the Turkic peoples, a collection of ethnic groups that live in northern, central, and western Asia, Siberia, and parts of eastern Europe.",
+        "translation_options": [
+            {
+                "options": "Turkv\u00f6lker",
+                "nuance": "Direct translation, referring to the Turkic ethnic groups collectively."
+            },
+            {
+                "options": "Turksprachige V\u00f6lker",
+                "nuance": "Emphasizes the linguistic aspect of Turkic peoples, focusing on the Turkic languages they speak."
+            },
+            {
+                "options": "Turkst\u00e4mmige",
+                "nuance": "Refers to people of Turkic descent, emphasizing ethnic heritage."
+            },
+            {
+                "options": "Zentralasiatische V\u00f6lker",
+                "nuance": "Geographically focused, though less precise as it includes non-Turkic peoples of Central Asia."
+            }
+        ]
+    },
+    {
+        "word": "syriac",
+        "sensitivity_rating": 0.4,
+        "definition": "Relating to the Syriac language, an Eastern Aramaic language, or the people who speak it, historically associated with Eastern Christian communities.",
+        "translation_options": [
+            {
+                "options": "Syrisch",
+                "nuance": "Refers to the Syriac language or people, but can be confused with 'Syrian'."
+            },
+            {
+                "options": "Aram\u00e4isch",
+                "nuance": "Highlights the linguistic family of Syriac but is broader, encompassing other Aramaic languages."
+            },
+            {
+                "options": "Ostaram\u00e4isch",
+                "nuance": "More specific to Eastern Aramaic languages, closely related to Syriac."
+            },
+            {
+                "options": "Syrisch-Christlich",
+                "nuance": "Emphasizes the historical association of the Syriac language and people with Eastern Christianity."
+            }
+        ]
+    },
+    {
+        "word": "tribes",
+        "sensitivity_rating": 0.6,
+        "definition": "Groups of people, especially those of pre-industrial societies, forming a community and usually claiming descent from a common ancestor.",
+        "translation_options": [
+            {
+                "options": "St\u00e4mme",
+                "nuance": "Direct translation, but can carry colonial or primitive connotations that may be sensitive."
+            },
+            {
+                "options": "Volksgruppen",
+                "nuance": "A more neutral term for ethnic or cultural groups, avoiding the primitive connotation."
+            },
+            {
+                "options": "Gemeinschaften",
+                "nuance": "Emphasizes the aspect of community and social cohesion, less focus on ancestral lineage."
+            },
+            {
+                "options": "Ethnische Gruppen",
+                "nuance": "Specifies the ethnic aspect of tribes, suitable for discussions emphasizing ethnic identity."
+            }
+        ]
+    },
+    {
+        "word": "mughals",
+        "sensitivity_rating": 0.5,
+        "definition": "Members of the Muslim dynasty of Mongol origin that ruled much of India from the 16th to the 19th century.",
+        "translation_options": [
+            {
+                "options": "Moguln",
+                "nuance": "Direct translation, referring specifically to the dynasty that ruled in India."
+            },
+            {
+                "options": "Mogulreich",
+                "nuance": "Refers to the empire established by the Mughals, emphasizing the historical state rather than the people."
+            },
+            {
+                "options": "Muslimische Dynastie mongolischer Herkunft",
+                "nuance": "Descriptive, highlighting both the religious and ethnic origins of the Mughals."
+            },
+            {
+                "options": "Indische Herrscher mongolischer Abstammung",
+                "nuance": "Focuses on the rulers' Indian reign and Mongol descent, suitable for historical contexts."
+            }
+        ]
+    },
+    {
+        "word": "conquered",
+        "sensitivity_rating": 0.7,
+        "definition": "To have taken control of a place or people by military force.",
+        "translation_options": [
+            {
+                "options": "erobert",
+                "nuance": "Neutral, but can imply violence and oppression."
+            },
+            {
+                "options": "besiegt",
+                "nuance": "Focuses on defeat, less on the aftermath."
+            },
+            {
+                "options": "unterworfen",
+                "nuance": "Implies subjugation, very sensitive."
+            },
+            {
+                "options": "eingenommen",
+                "nuance": "Milder, but still implies forceful acquisition."
+            }
+        ]
+    },
+    {
+        "word": "migrated",
+        "sensitivity_rating": 0.3,
+        "definition": "To move from one region or habitat to another, especially regularly according to the seasons.",
+        "translation_options": [
+            {
+                "options": "gewandert",
+                "nuance": "Neutral, implies voluntary movement."
+            },
+            {
+                "options": "migriert",
+                "nuance": "Neutral, technical term for movement of people."
+            },
+            {
+                "options": "umgesiedelt",
+                "nuance": "Implies a more permanent move, can be voluntary or forced."
+            },
+            {
+                "options": "ausgewandert",
+                "nuance": "Focuses on leaving a place, usually voluntary."
+            }
+        ]
+    },
+    {
+        "word": "descendants",
+        "sensitivity_rating": 0.2,
+        "definition": "People who are the offspring of an ancestor.",
+        "translation_options": [
+            {
+                "options": "Nachkommen",
+                "nuance": "Neutral, widely used."
+            },
+            {
+                "options": "Abk\u00f6mmlinge",
+                "nuance": "Formal, less commonly used."
+            },
+            {
+                "options": "Nachfahren",
+                "nuance": "Neutral, similar to Nachkommen."
+            },
+            {
+                "options": "Erben",
+                "nuance": "Can imply inheritance, not just lineage."
+            }
+        ]
+    },
+    {
+        "word": "persia",
+        "sensitivity_rating": 0.4,
+        "definition": "Historical region of southwestern Asia, now known as Iran.",
+        "translation_options": [
+            {
+                "options": "Persien",
+                "nuance": "Historical name, widely recognized."
+            },
+            {
+                "options": "Iran",
+                "nuance": "Modern name, emphasizes current identity."
+            },
+            {
+                "options": "das alte Persien",
+                "nuance": "Clarifies historical context."
+            },
+            {
+                "options": "das persische Reich",
+                "nuance": "Emphasizes the historical empire."
+            }
+        ]
+    },
+    {
+        "word": "isan",
+        "sensitivity_rating": 0.5,
+        "definition": "A region in northeastern Thailand with a distinct ethnic, cultural, and linguistic identity.",
+        "translation_options": [
+            {
+                "options": "Isan",
+                "nuance": "Direct transliteration, maintains original name."
+            },
+            {
+                "options": "Nordost-Thailand",
+                "nuance": "Geographical description, less emphasis on distinct identity."
+            },
+            {
+                "options": "die Isan-Region",
+                "nuance": "Specifies the area while highlighting its regional identity."
+            },
+            {
+                "options": "Isan-Gebiet",
+                "nuance": "Similar to 'die Isan-Region', with a slight variation in wording."
+            }
+        ]
+    },
+    {
+        "word": "duklja",
+        "sensitivity_rating": 0.2,
+        "definition": "Duklja was a medieval Slavic principality located in the western Balkan Peninsula. It is part of the historical and cultural heritage of Montenegro.",
+        "translation_options": [
+            {
+                "options": "Duklja",
+                "nuance": "Direct transliteration, preserving historical and cultural specificity."
+            },
+            {
+                "options": "F\u00fcrstentum Duklja",
+                "nuance": "Adding 'F\u00fcrstentum' clarifies it as a principality, providing historical context."
+            },
+            {
+                "options": "Slawisches F\u00fcrstentum Duklja",
+                "nuance": "Emphasizes the Slavic heritage, adding an ethnic dimension."
+            },
+            {
+                "options": "Duklja (Montenegro)",
+                "nuance": "Provides geographical context by linking it to modern-day Montenegro."
+            }
+        ]
+    },
+    {
+        "word": "descended",
+        "sensitivity_rating": 0.1,
+        "definition": "To come down or derive from an ancestor or source.",
+        "translation_options": [
+            {
+                "options": "abstammen",
+                "nuance": "Neutral, indicating lineage or heritage."
+            },
+            {
+                "options": "herkommen",
+                "nuance": "More colloquial, focusing on origin."
+            },
+            {
+                "options": "entstammen",
+                "nuance": "Formal, emphasizing the source or origin."
+            },
+            {
+                "options": "von ... abstammen",
+                "nuance": "Specifies the ancestor or source, adding clarity."
+            }
+        ]
+    },
+    {
+        "word": "avars",
+        "sensitivity_rating": 0.3,
+        "definition": "A nomadic Turkic people who established a khaganate in the 6th century in Central and Eastern Europe.",
+        "translation_options": [
+            {
+                "options": "Awaren",
+                "nuance": "Direct transliteration, preserving historical identity."
+            },
+            {
+                "options": "Awarisches Volk",
+                "nuance": "Emphasizes their ethnic identity as a people."
+            },
+            {
+                "options": "Nomaden der Awaren",
+                "nuance": "Highlights their nomadic lifestyle."
+            },
+            {
+                "options": "Awaren-Khaganat",
+                "nuance": "Specifies their political structure as a khaganate."
+            }
+        ]
+    },
+    {
+        "word": "saxons",
+        "sensitivity_rating": 0.2,
+        "definition": "A Germanic people who inhabited parts of present-day Germany and the Netherlands in the early Middle Ages.",
+        "translation_options": [
+            {
+                "options": "Sachsen",
+                "nuance": "Direct transliteration, referring to the ethnic group."
+            },
+            {
+                "options": "Germanische Sachsen",
+                "nuance": "Emphasizes their Germanic heritage."
+            },
+            {
+                "options": "Sachsen-Volk",
+                "nuance": "Highlights their identity as a people."
+            },
+            {
+                "options": "Fr\u00fchmittelalterliche Sachsen",
+                "nuance": "Provides a temporal context to their existence."
+            }
+        ]
+    },
+    {
+        "word": "profiling",
+        "sensitivity_rating": 0.8,
+        "definition": "The act of suspecting or targeting a person on the basis of observed characteristics or behavior, often related to racial or ethnic factors.",
+        "translation_options": [
+            {
+                "options": "Profiling",
+                "nuance": "Direct transliteration, widely understood in contexts of discrimination."
+            },
+            {
+                "options": "Racial Profiling",
+                "nuance": "Specifies the racial aspect, highlighting the sensitivity."
+            },
+            {
+                "options": "Ethnisches Profiling",
+                "nuance": "Focuses on ethnicity, relevant in discussions about discrimination."
+            },
+            {
+                "options": "Zielprofilierung",
+                "nuance": "More neutral, but can dilute the discriminatory aspect."
+            }
+        ]
+    },
+    {
+        "word": "radicalism",
+        "sensitivity_rating": 0.4,
+        "definition": "The beliefs or actions of individuals, groups, or movements that advocate for fundamental or revolutionary changes in the current political, social, or economic system.",
+        "translation_options": [
+            {
+                "options": "Radikalismus",
+                "nuance": "Direct translation, captures the broad spectrum of radical beliefs or actions without inherent negative connotation."
+            },
+            {
+                "options": "Extremismus",
+                "nuance": "Implies a more negative connotation, suggesting actions or beliefs at the far ends of the political spectrum."
+            },
+            {
+                "options": "Revolution\u00e4rer Wandel",
+                "nuance": "Focuses on the aspect of revolutionary change, neutral to positive connotation."
+            },
+            {
+                "options": "Grundlegende Ver\u00e4nderung",
+                "nuance": "Neutral term for fundamental change, without specifying the nature of the radicalism."
+            }
+        ]
+    },
+    {
+        "word": "extremism",
+        "sensitivity_rating": 0.7,
+        "definition": "The holding of extreme political or religious views and the taking of extreme actions based on those views, often associated with violence or discrimination.",
+        "translation_options": [
+            {
+                "options": "Extremismus",
+                "nuance": "Direct translation, conveys the negative implications of actions based on extreme views."
+            },
+            {
+                "options": "Radikalit\u00e4t",
+                "nuance": "Focuses on the radical nature of the views, slightly less negative than 'Extremismus'."
+            },
+            {
+                "options": "Gewaltt\u00e4tiger Extremismus",
+                "nuance": "Specifies the violent aspect, highlighting the most harmful potential of extremism."
+            },
+            {
+                "options": "Ideologischer Extremismus",
+                "nuance": "Emphasizes the ideological basis of extremism, useful in academic or analytical contexts."
+            }
+        ]
+    },
+    {
+        "word": "repression",
+        "sensitivity_rating": 0.6,
+        "definition": "The act of subduing someone or something by force, often used in political contexts to describe the suppression of dissent or opposition.",
+        "translation_options": [
+            {
+                "options": "Unterdr\u00fcckung",
+                "nuance": "Direct translation, widely used in political contexts to describe suppression by force."
+            },
+            {
+                "options": "Repression",
+                "nuance": "Borrowed term, emphasizes the systematic aspect of political suppression."
+            },
+            {
+                "options": "Niederschlagung",
+                "nuance": "Implies a violent suppression of opposition, more specific than 'Unterdr\u00fcckung'."
+            },
+            {
+                "options": "Zwang",
+                "nuance": "General term for force, less specific to political contexts but applicable."
+            }
+        ]
+    },
+    {
+        "word": "virulent",
+        "sensitivity_rating": 0.5,
+        "definition": "Extremely severe or harmful in its effects, often used to describe diseases or poisons, but also metaphorically in contexts like antisemitism.",
+        "translation_options": [
+            {
+                "options": "Virulent",
+                "nuance": "Direct translation, captures both the literal and metaphorical uses of the term."
+            },
+            {
+                "options": "Heftig",
+                "nuance": "Focuses on the intensity, suitable for describing strong negative effects."
+            },
+            {
+                "options": "Ansteckend",
+                "nuance": "Emphasizes the infectious nature, more specific to diseases but metaphorically applicable."
+            },
+            {
+                "options": "Giftig",
+                "nuance": "Literally means 'poisonous', metaphorically applicable to describe harmful ideologies."
+            }
+        ]
+    },
+    {
+        "word": "oppression",
+        "sensitivity_rating": 0.8,
+        "definition": "The systematic and prolonged cruel or unjust treatment or control of a group of people, often based on systemic inequality.",
+        "translation_options": [
+            {
+                "options": "Unterdr\u00fcckung",
+                "nuance": "Direct translation, emphasizes the systemic and prolonged nature of oppression."
+            },
+            {
+                "options": "Bevormundung",
+                "nuance": "Implies a paternalistic form of control, less intense than 'Unterdr\u00fcckung'."
+            },
+            {
+                "options": "Ausbeutung",
+                "nuance": "Focuses on exploitation aspect of oppression, suitable in economic contexts."
+            },
+            {
+                "options": "Diskriminierung",
+                "nuance": "Highlights the unjust treatment based on systemic inequality, broader than 'Unterdr\u00fcckung'."
+            }
+        ]
+    },
+    {
+        "word": "discriminatory",
+        "sensitivity_rating": 0.8,
+        "definition": "Showing or characterized by prejudice and unfair treatment of different categories of people, especially on the grounds of race, age, or sex.",
+        "translation_options": [
+            {
+                "options": "diskriminierend",
+                "nuance": "General use, applicable in various contexts where unfair treatment is implied."
+            },
+            {
+                "options": "benachteiligend",
+                "nuance": "Focuses on the aspect of disadvantage or harm caused by discrimination."
+            },
+            {
+                "options": "voreingenommen",
+                "nuance": "Highlights the prejudiced attitude behind discriminatory actions."
+            },
+            {
+                "options": "ausgrenzend",
+                "nuance": "Emphasizes the exclusionary effect of discriminatory practices."
+            }
+        ]
+    },
+    {
+        "word": "totalitarianism",
+        "sensitivity_rating": 0.7,
+        "definition": "A system of government that is centralized and dictatorial and requires complete subservience to the state.",
+        "translation_options": [
+            {
+                "options": "Totalitarismus",
+                "nuance": "Direct translation, widely understood in contexts discussing political systems."
+            },
+            {
+                "options": "Diktatur",
+                "nuance": "Highlights the dictatorial aspect, but may not fully capture the all-encompassing control of totalitarianism."
+            },
+            {
+                "options": "autorit\u00e4res Regime",
+                "nuance": "Focuses on the authoritarian nature, suitable for broader contexts."
+            },
+            {
+                "options": "Staatskontrolle",
+                "nuance": "Emphasizes state control, a key feature of totalitarian systems."
+            }
+        ]
+    },
+    {
+        "word": "ideologically",
+        "sensitivity_rating": 0.5,
+        "definition": "In a manner that is based on or relates to a system of ideas and ideals, especially concerning economic or political theory and policy.",
+        "translation_options": [
+            {
+                "options": "ideologisch",
+                "nuance": "General use, applicable in discussions of ideas and beliefs influencing actions or policies."
+            },
+            {
+                "options": "weltanschaulich",
+                "nuance": "Highlights a broader worldview or philosophy behind actions or beliefs."
+            },
+            {
+                "options": "gesinnungsm\u00e4\u00dfig",
+                "nuance": "Focuses on the mindset or attitude derived from certain ideologies."
+            },
+            {
+                "options": "nach \u00dcberzeugung",
+                "nuance": "Emphasizes actions or beliefs based on personal or political convictions."
+            }
+        ]
+    },
+    {
+        "word": "neoliberal",
+        "sensitivity_rating": 0.6,
+        "definition": "Relating to a modified form of liberalism tending to favor free-market capitalism.",
+        "translation_options": [
+            {
+                "options": "neoliberal",
+                "nuance": "Direct translation, used in economic and political discussions."
+            },
+            {
+                "options": "marktorientiert",
+                "nuance": "Emphasizes the market-oriented aspect of neoliberal policies."
+            },
+            {
+                "options": "wirtschaftsliberal",
+                "nuance": "Highlights the economic liberalism aspect, suitable for economic contexts."
+            },
+            {
+                "options": "freie Marktwirtschaft bef\u00fcrwortend",
+                "nuance": "Descriptive, making clear the stance on free-market capitalism."
+            }
+        ]
+    },
+    {
+        "word": "eugenics",
+        "sensitivity_rating": 0.9,
+        "definition": "The science of improving a human population by controlled breeding to increase the occurrence of desirable heritable characteristics.",
+        "translation_options": [
+            {
+                "options": "Eugenik",
+                "nuance": "Direct translation, widely understood but carries historical and ethical implications."
+            },
+            {
+                "options": "Rassenhygiene",
+                "nuance": "Outdated and highly sensitive due to its association with Nazi ideology; use with extreme caution."
+            },
+            {
+                "options": "Menschenz\u00fcchtung",
+                "nuance": "Literal translation, but highly controversial and sensitive due to its implications."
+            },
+            {
+                "options": "genetische Verbesserung",
+                "nuance": "Modern, neutral term focusing on genetic aspects, but still sensitive due to the historical context of eugenics."
+            }
+        ]
+    },
+    {
+        "word": "repressive",
+        "sensitivity_rating": 0.8,
+        "definition": "Exerting control or suppression over freedoms and rights, often in a harsh or authoritarian manner.",
+        "translation_options": [
+            {
+                "options": "repressiv",
+                "nuance": "Direct translation, conveys a sense of authoritarian suppression in both languages."
+            },
+            {
+                "options": "unterdr\u00fcckend",
+                "nuance": "Emphasizes the act of suppression, suitable for contexts highlighting the impact on individuals or groups."
+            },
+            {
+                "options": "dr\u00fcckend",
+                "nuance": "A less specific term that can convey a general sense of oppression or burden."
+            },
+            {
+                "options": "zwanghaft",
+                "nuance": "Focuses on the compulsive aspect of repression, implying a lack of freedom or choice."
+            }
+        ]
+    },
+    {
+        "word": "stereotyping",
+        "sensitivity_rating": 0.9,
+        "definition": "Assigning oversimplified and generalized characteristics to groups, often leading to prejudice and discrimination.",
+        "translation_options": [
+            {
+                "options": "Stereotypisierung",
+                "nuance": "Direct translation, captures the process of applying stereotypes in both languages."
+            },
+            {
+                "options": "Schubladendenken",
+                "nuance": "Colloquial term that conveys the act of categorizing people simplistically."
+            },
+            {
+                "options": "Vorverurteilung",
+                "nuance": "Emphasizes the prejudgment aspect of stereotyping, suitable for contexts highlighting its unfairness."
+            },
+            {
+                "options": "Typisierung",
+                "nuance": "A neutral term that can be used to describe the act of categorizing, with less negative connotation."
+            }
+        ]
+    },
+    {
+        "word": "principle",
+        "sensitivity_rating": 0.2,
+        "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior.",
+        "translation_options": [
+            {
+                "options": "Prinzip",
+                "nuance": "Direct translation, suitable for most contexts where a foundational belief or rule is discussed."
+            },
+            {
+                "options": "Grundsatz",
+                "nuance": "Emphasizes the foundational aspect, often used in moral or ethical discussions."
+            },
+            {
+                "options": "Leitgedanke",
+                "nuance": "Focuses on the guiding aspect of a principle, suitable for inspirational or visionary contexts."
+            },
+            {
+                "options": "Grundprinzip",
+                "nuance": "A compound term that reinforces the fundamental nature of a principle."
+            }
+        ]
+    },
+    {
+        "word": "fanaticism",
+        "sensitivity_rating": 0.85,
+        "definition": "Excessive and irrational zeal or enthusiasm, particularly in political or religious contexts.",
+        "translation_options": [
+            {
+                "options": "Fanatismus",
+                "nuance": "Direct translation, conveys the negative connotations of extremism in both languages."
+            },
+            {
+                "options": "Blindheit",
+                "nuance": "Metaphorically emphasizes the lack of critical thinking associated with fanaticism."
+            },
+            {
+                "options": "Eifer",
+                "nuance": "A less negative term that can describe enthusiasm, but may lack the connotation of irrationality."
+            },
+            {
+                "options": "Radikalismus",
+                "nuance": "Highlights the extreme nature of beliefs or actions, suitable for political contexts."
+            }
+        ]
+    },
+    {
+        "word": "ethnocentrism",
+        "sensitivity_rating": 0.9,
+        "definition": "The belief in the inherent superiority of one's own ethnic group or culture, often resulting in prejudice and discrimination.",
+        "translation_options": [
+            {
+                "options": "Ethnozentrismus",
+                "nuance": "Direct translation, accurately conveys the concept of cultural or ethnic self-centeredness."
+            },
+            {
+                "options": "Kulturchauvinismus",
+                "nuance": "Emphasizes the aspect of cultural superiority, suitable for discussions on cultural bias."
+            },
+            {
+                "options": "V\u00f6lkerverst\u00e4ndnis",
+                "nuance": "A positive reframe focusing on the understanding between peoples, used to counteract ethnocentric views."
+            },
+            {
+                "options": "Kulturelle Selbstbezogenheit",
+                "nuance": "Descriptive term that highlights the self-focused aspect of ethnocentrism."
+            }
+        ]
+    },
+    {
+        "word": "fundamentalism",
+        "sensitivity_rating": 0.8,
+        "definition": "A form of a religion, especially Islam or Protestant Christianity, that upholds belief in the strict, literal interpretation of scripture.",
+        "translation_options": [
+            {
+                "options": "Fundamentalismus",
+                "nuance": "Direct translation, used across contexts but be mindful of potential negative connotations and generalizations."
+            },
+            {
+                "options": "religi\u00f6ser Fundamentalismus",
+                "nuance": "Specifies religious fundamentalism, reducing ambiguity but still sensitive due to generalization risks."
+            },
+            {
+                "options": "strenggl\u00e4ubig",
+                "nuance": "Softer term for devoutness, less likely to carry negative connotations but may lack specificity."
+            },
+            {
+                "options": "Literalismus",
+                "nuance": "Focuses on literal interpretation aspect, less charged but may not fully convey the socio-political dimensions."
+            }
+        ]
+    },
+    {
+        "word": "socio",
+        "sensitivity_rating": 0.2,
+        "definition": "Prefix referring to social, often used in compound words to denote social aspects or issues.",
+        "translation_options": [
+            {
+                "options": "sozio-",
+                "nuance": "Direct translation for compounds, neutral and widely applicable in socio-political contexts."
+            },
+            {
+                "options": "gesellschaftlich",
+                "nuance": "Broader term for 'social', suitable for general contexts but less specific for compound terms."
+            },
+            {
+                "options": "sozial",
+                "nuance": "Another direct translation, interchangeable with 'sozio-' in many contexts."
+            },
+            {
+                "options": "Gemeinschafts-",
+                "nuance": "Emphasizes community aspect, suitable for certain compounds but may alter original meaning."
+            }
+        ]
+    },
+    {
+        "word": "zionism",
+        "sensitivity_rating": 0.9,
+        "definition": "A movement for (originally) the re-establishment and (now) the development and protection of a Jewish nation in what is now Israel.",
+        "translation_options": [
+            {
+                "options": "Zionismus",
+                "nuance": "Direct translation, carries historical and political weight, use with awareness of diverse perspectives."
+            },
+            {
+                "options": "j\u00fcdische Nationalbewegung",
+                "nuance": "Descriptive, emphasizes the Jewish national aspect, may be perceived as more neutral."
+            },
+            {
+                "options": "Heimst\u00e4ttenbewegung",
+                "nuance": "Historical term, less common today, focuses on the settlement aspect, may lack clarity."
+            },
+            {
+                "options": "israelische Nationalbewegung",
+                "nuance": "Specifies the national movement's relation to Israel, potentially more contemporary but also more politically charged."
+            }
+        ]
+    },
+    {
+        "word": "ideologies",
+        "sensitivity_rating": 0.7,
+        "definition": "Systems of ideas and ideals, especially those that form the basis of economic or political theory and policy.",
+        "translation_options": [
+            {
+                "options": "Ideologien",
+                "nuance": "Direct translation, neutral term but context of use can significantly alter sensitivity."
+            },
+            {
+                "options": "Weltanschauungen",
+                "nuance": "Broader term for 'worldviews', less politically charged but may lack specificity in certain contexts."
+            },
+            {
+                "options": "Glaubenssysteme",
+                "nuance": "Emphasizes belief aspect, suitable for broader discussions but may dilute political or economic specificity."
+            },
+            {
+                "options": "Lehrmeinungen",
+                "nuance": "Focuses on the aspect of taught beliefs, less common and might be too academic for general use."
+            }
+        ]
+    },
+    {
+        "word": "clerics",
+        "sensitivity_rating": 0.6,
+        "definition": "Members of the clergy, religious leaders authorized to perform the sacred rituals of a religion.",
+        "translation_options": [
+            {
+                "options": "Geistliche",
+                "nuance": "Direct translation, neutral but be mindful of context as it can influence sensitivity."
+            },
+            {
+                "options": "Kleriker",
+                "nuance": "Another direct translation, carries a formal tone, potentially sensitive in discussions about religious authority."
+            },
+            {
+                "options": "Religionsf\u00fchrer",
+                "nuance": "Translates to 'religious leaders', broader and potentially less sensitive, depending on context."
+            },
+            {
+                "options": "geistliches Oberhaupt",
+                "nuance": "Translates to 'spiritual leader', emphasizes leadership, suitable for respectful contexts."
+            }
+        ]
+    },
+    {
+        "word": "predominance",
+        "sensitivity_rating": 0.3,
+        "definition": "The state or condition of being greater in number or amount.",
+        "translation_options": [
+            {
+                "options": "Vorherrschaft",
+                "nuance": "General use, can imply dominance in various contexts, including racial or cultural."
+            },
+            {
+                "options": "\u00dcberlegenheit",
+                "nuance": "Implies superiority, which can be sensitive in discussions about race or ethnicity."
+            },
+            {
+                "options": "Dominanz",
+                "nuance": "General dominance, applicable in various contexts but should be used cautiously in racial or cultural discussions."
+            },
+            {
+                "options": "Vormachtstellung",
+                "nuance": "Implies a leading or dominant position, often used in political or military contexts."
+            }
+        ]
+    },
+    {
+        "word": "xenophobic",
+        "sensitivity_rating": 0.9,
+        "definition": "Having or showing a dislike of or prejudice against people from other countries.",
+        "translation_options": [
+            {
+                "options": "fremdenfeindlich",
+                "nuance": "Direct translation, highlights prejudice against foreigners, highly sensitive in discussions about racial discrimination."
+            },
+            {
+                "options": "ausl\u00e4nderfeindlich",
+                "nuance": "Similar to 'fremdenfeindlich', but more specifically targets foreigners, emphasizing the aspect of being from another country."
+            },
+            {
+                "options": "xenophob",
+                "nuance": "Direct translation, used in formal contexts to describe the fear or hatred of strangers or foreigners."
+            },
+            {
+                "options": "rassistisch",
+                "nuance": "While not a direct translation, it's used when xenophobia is specifically targeted at racial or ethnic groups."
+            }
+        ]
+    },
+    {
+        "word": "againist",
+        "sensitivity_rating": 0.1,
+        "definition": "This appears to be a typographical error for 'against', which means in opposition to.",
+        "translation_options": [
+            {
+                "options": "gegen",
+                "nuance": "General use for opposition, applicable in various contexts without inherent sensitivity."
+            },
+            {
+                "options": "wider",
+                "nuance": "Formal or literary use, implies a more nuanced opposition."
+            },
+            {
+                "options": "entgegen",
+                "nuance": "Implies opposition but with a notion of facing or confronting directly."
+            },
+            {
+                "options": "gegen\u00fcber",
+                "nuance": "Used to express opposition in relation to something or someone."
+            }
+        ]
+    },
+    {
+        "word": "militarism",
+        "sensitivity_rating": 0.7,
+        "definition": "The belief or desire of a government or people that a country should maintain a strong military capability and be prepared to use it aggressively to defend or promote national interests.",
+        "translation_options": [
+            {
+                "options": "Militarismus",
+                "nuance": "Direct translation, carries connotations of aggression and dominance, sensitive in historical and international contexts."
+            },
+            {
+                "options": "Milit\u00e4rismus",
+                "nuance": "Another direct translation, used interchangeably with 'Militarismus', with the same sensitivity considerations."
+            },
+            {
+                "options": "milit\u00e4rische Dominanz",
+                "nuance": "Describes the concept in terms of military dominance, highlighting the aggressive aspect, sensitive in discussions about imperialism or colonialism."
+            },
+            {
+                "options": "Wehrhaftigkeit",
+                "nuance": "Focuses on the aspect of being armed or ready for war, less aggressive connotation but still sensitive in certain contexts."
+            }
+        ]
+    },
+    {
+        "word": "racialism",
+        "sensitivity_rating": 0.8,
+        "definition": "Another term for racism, emphasizing the belief in the superiority of one race over another.",
+        "translation_options": [
+            {
+                "options": "Rassismus",
+                "nuance": "Direct translation, highly sensitive and used to describe discrimination based on race."
+            },
+            {
+                "options": "Rassenlehre",
+                "nuance": "Implies a doctrine or theory of racial superiority, highly sensitive and potentially offensive."
+            },
+            {
+                "options": "Rassenideologie",
+                "nuance": "Refers to racial ideology, emphasizing the systematic aspect of racial discrimination, very sensitive."
+            },
+            {
+                "options": "Rassendiskriminierung",
+                "nuance": "Describes the act of discriminating based on race, directly addressing the harm caused, sensitive and impactful."
+            }
+        ]
+    },
+    {
+        "word": "islamism",
+        "sensitivity_rating": 0.8,
+        "definition": "A political ideology that seeks to implement Islamic law and principles in public and political life.",
+        "translation_options": [
+            {
+                "options": "Islamismus",
+                "nuance": "Direct translation, carries similar sensitivity and political connotations."
+            },
+            {
+                "options": "islamische Politik",
+                "nuance": "Softer, focusing on the political aspect without the negative connotations."
+            },
+            {
+                "options": "politische Bewegung im Islam",
+                "nuance": "Neutral, emphasizing the movement aspect within Islam."
+            },
+            {
+                "options": "islamistische Bewegung",
+                "nuance": "Direct, but specifies it as a movement, potentially lessening individual connotations."
+            }
+        ]
+    },
+    {
+        "word": "monarchical",
+        "sensitivity_rating": 0.2,
+        "definition": "Pertaining to a monarchy or monarchical system, where a state is ruled by a single person, usually a king or queen.",
+        "translation_options": [
+            {
+                "options": "monarchisch",
+                "nuance": "Direct translation, neutral in sensitivity."
+            },
+            {
+                "options": "k\u00f6niglich",
+                "nuance": "Focuses on the royalty aspect, neutral but with a positive connotation."
+            },
+            {
+                "options": "im Stil einer Monarchie",
+                "nuance": "Descriptive, neutral, emphasizing the style or manner of governance."
+            },
+            {
+                "options": "monarchiebezogen",
+                "nuance": "Neutral, directly related to monarchy without specifying a stance."
+            }
+        ]
+    },
+    {
+        "word": "genocidal",
+        "sensitivity_rating": 0.9,
+        "definition": "Relating to or involving the deliberate killing of a large group of people, especially those of a particular ethnic group or nation.",
+        "translation_options": [
+            {
+                "options": "v\u00f6lkerm\u00f6rderisch",
+                "nuance": "Direct translation, high sensitivity due to the historical and current implications."
+            },
+            {
+                "options": "genozidal",
+                "nuance": "Direct, technical term, high sensitivity."
+            },
+            {
+                "options": "auf V\u00f6lkermord basierend",
+                "nuance": "Descriptive, emphasizes the act, high sensitivity."
+            },
+            {
+                "options": "Massenmord-bezogen",
+                "nuance": "Broadens the context to mass murder, slightly less specific but still highly sensitive."
+            }
+        ]
+    },
+    {
+        "word": "misogynistic",
+        "sensitivity_rating": 0.8,
+        "definition": "Reflecting or exhibiting hatred, dislike, mistrust, or mistreatment of women.",
+        "translation_options": [
+            {
+                "options": "frauenfeindlich",
+                "nuance": "Direct translation, clearly conveys the negative attitude towards women."
+            },
+            {
+                "options": "misogyn",
+                "nuance": "Direct, technical term, clearly negative."
+            },
+            {
+                "options": "frauenverachtend",
+                "nuance": "Emphasizes contempt for women, very negative."
+            },
+            {
+                "options": "gegen Frauen gerichtet",
+                "nuance": "Descriptive, broader, but clearly indicates the direction of the hostility."
+            }
+        ]
+    },
+    {
+        "word": "dictatorships",
+        "sensitivity_rating": 0.7,
+        "definition": "Governments or social environments ruled by a dictator, where power is concentrated in the hands of one person or a small group.",
+        "translation_options": [
+            {
+                "options": "Diktaturen",
+                "nuance": "Direct translation, carries the negative connotations of oppressive rule."
+            },
+            {
+                "options": "autorit\u00e4re Regime",
+                "nuance": "Broader, includes various forms of authoritarian rule, slightly less negative."
+            },
+            {
+                "options": "Einmannherrschaft",
+                "nuance": "Focuses on single-person rule, neutral but specifies the form of governance."
+            },
+            {
+                "options": "despotische Herrschaft",
+                "nuance": "Emphasizes the oppressive nature of the rule, very negative."
+            }
+        ]
+    },
+    {
+        "word": "ethnic",
+        "sensitivity_rating": 0.3,
+        "definition": "Relating to a population subgroup with a common national or cultural tradition.",
+        "translation_options": [
+            {
+                "options": "ethnisch",
+                "nuance": "Direct translation, used to describe aspects related to ethnic groups or cultures."
+            },
+            {
+                "options": "Volks-",
+                "nuance": "Used in compound nouns to denote belonging to a specific nation or culture, emphasizing the collective aspect."
+            },
+            {
+                "options": "kulturell",
+                "nuance": "Focuses on cultural aspects rather than the ethnic origin, promoting a broader understanding of diversity."
+            },
+            {
+                "options": "Stammes-",
+                "nuance": "Applicable in contexts related to tribal affiliations, but should be used with caution due to potential exoticization."
+            }
+        ]
+    },
+    {
+        "word": "diametrically",
+        "sensitivity_rating": 0.1,
+        "definition": "Completely; directly opposite.",
+        "translation_options": [
+            {
+                "options": "diametral",
+                "nuance": "Direct translation, indicating complete opposition or contrast."
+            },
+            {
+                "options": "grundlegend verschieden",
+                "nuance": "Emphasizes the fundamental difference, suitable for discussions on diversity."
+            },
+            {
+                "options": "entgegengesetzt",
+                "nuance": "Highlights the opposing nature, applicable in various contexts."
+            },
+            {
+                "options": "v\u00f6llig anders",
+                "nuance": "Conveys the idea of being entirely different, useful in broader discussions."
+            }
+        ]
+    },
+    {
+        "word": "tehran",
+        "sensitivity_rating": 0.2,
+        "definition": "The capital city of Iran.",
+        "translation_options": [
+            {
+                "options": "Teheran",
+                "nuance": "Direct translation, referring to the city itself."
+            },
+            {
+                "options": "die Hauptstadt des Iran",
+                "nuance": "Descriptive, emphasizing Tehran's role as the capital."
+            },
+            {
+                "options": "Metropole im Iran",
+                "nuance": "Highlights Tehran's status as a major urban center, without specifying it as the capital."
+            },
+            {
+                "options": "politisches Zentrum des Iran",
+                "nuance": "Focuses on Tehran's political significance, relevant in discussions related to governance or international relations."
+            }
+        ]
+    },
+    {
+        "word": "socioeconomic",
+        "sensitivity_rating": 0.4,
+        "definition": "Relating to or concerned with the interaction of social and economic factors.",
+        "translation_options": [
+            {
+                "options": "sozio\u00f6konomisch",
+                "nuance": "Direct translation, used to describe the interplay between social and economic aspects."
+            },
+            {
+                "options": "gesellschaftlich-wirtschaftlich",
+                "nuance": "Emphasizes the dual focus on society and economy, suitable for comprehensive analyses."
+            },
+            {
+                "options": "sozial und wirtschaftlich",
+                "nuance": "Descriptive, highlighting both social and economic factors separately."
+            },
+            {
+                "options": "wirtschaftssozial",
+                "nuance": "Less common, but emphasizes the intertwined nature of economic and social conditions."
+            }
+        ]
+    },
+    {
+        "word": "militancy",
+        "sensitivity_rating": 0.7,
+        "definition": "The use of confrontational or violent methods in support of a political or social cause.",
+        "translation_options": [
+            {
+                "options": "Militanz",
+                "nuance": "Direct translation, conveys a sense of aggressive activism or combativeness."
+            },
+            {
+                "options": "Kampfbereitschaft",
+                "nuance": "Focuses on the readiness to fight, which can be physical or metaphorical, depending on context."
+            },
+            {
+                "options": "Radikalit\u00e4t",
+                "nuance": "Highlights the extreme nature of the methods used, suitable for discussing political or social extremism."
+            },
+            {
+                "options": "Aktivismus",
+                "nuance": "While generally positive, in some contexts it can imply a more confrontational approach to advocacy."
+            }
+        ]
+    },
+    {
+        "word": "supremacy",
+        "sensitivity_rating": 0.9,
+        "definition": "The state or condition of being superior to all others in authority, power, or status.",
+        "translation_options": [
+            {
+                "options": "\u00dcberlegenheit",
+                "nuance": "General translation, but lacks the specific connotation of racial or white supremacy."
+            },
+            {
+                "options": "Vorherrschaft",
+                "nuance": "Captures the aspect of dominance, suitable for political or military contexts."
+            },
+            {
+                "options": "Rassen\u00fcberlegenheit",
+                "nuance": "Specifically refers to racial supremacy, used with caution due to its sensitivity."
+            },
+            {
+                "options": "wei\u00dfe Vorherrschaft",
+                "nuance": "Directly translates to 'white supremacy', highly sensitive and used in specific racial contexts."
+            }
+        ]
+    },
+    {
+        "word": "ethnocentric",
+        "sensitivity_rating": 0.7,
+        "definition": "Evaluating other cultures according to the standards of one's own culture.",
+        "translation_options": [
+            {
+                "options": "ethnozentrisch",
+                "nuance": "Direct translation, captures the concept of judging cultures through one's own cultural lens."
+            },
+            {
+                "options": "kulturspezifisch \u00fcberheblich",
+                "nuance": "Conveys the idea of cultural arrogance, emphasizing the superiority aspect."
+            },
+            {
+                "options": "kulturell selbstbezogen",
+                "nuance": "Focuses on the self-centered aspect of evaluating cultures, less harsh than '\u00fcberheblich'."
+            },
+            {
+                "options": "kulturell voreingenommen",
+                "nuance": "Highlights the bias inherent in ethnocentrism, suitable for academic or critical discussions."
+            }
+        ]
+    },
+    {
+        "word": "xenophobia",
+        "sensitivity_rating": 0.9,
+        "definition": "Dislike of or prejudice against people from other countries.",
+        "translation_options": [
+            {
+                "options": "Fremdenfeindlichkeit",
+                "nuance": "Direct translation, widely used to describe hostility towards foreigners."
+            },
+            {
+                "options": "Xenophobie",
+                "nuance": "Direct translation, used in both everyday and academic contexts."
+            },
+            {
+                "options": "Ausl\u00e4nderfeindlichkeit",
+                "nuance": "Specifically targets dislike or prejudice against foreigners, commonly used in social discussions."
+            },
+            {
+                "options": "Fremdenhass",
+                "nuance": "Emphasizes hatred towards foreigners, highly sensitive and used in discussions of extreme prejudice."
+            }
+        ]
+    },
+    {
+        "word": "finnish",
+        "sensitivity_rating": 0.1,
+        "definition": "Relating to Finland or its people, language, or culture.",
+        "translation_options": [
+            {
+                "options": "finnisch",
+                "nuance": "Direct translation, suitable for all contexts referring to the country, its people, language, or culture."
+            },
+            {
+                "options": "aus Finnland",
+                "nuance": "Specifies origin from Finland, useful for distinguishing people or products."
+            },
+            {
+                "options": "Finnland-bezogen",
+                "nuance": "Refers to anything related to Finland, broader than just 'finnisch'."
+            },
+            {
+                "options": "der finnischen Kultur angeh\u00f6rend",
+                "nuance": "Specifically focuses on the cultural aspect, suitable for discussions about Finnish culture."
+            }
+        ]
+    },
+    {
+        "word": "pioneering",
+        "sensitivity_rating": 0.3,
+        "definition": "Involving new ideas or methods; innovative.",
+        "translation_options": [
+            {
+                "options": "bahnbrechend",
+                "nuance": "Emphasizes groundbreaking or innovative aspects, suitable for a wide range of contexts."
+            },
+            {
+                "options": "pionierhaft",
+                "nuance": "Direct translation, conveys the idea of being the first to explore or invent."
+            },
+            {
+                "options": "wegweisend",
+                "nuance": "Focuses on setting directions or standards, suitable for innovations that guide others."
+            },
+            {
+                "options": "innovativ",
+                "nuance": "Broadly applicable to new ideas or methods, without the connotation of being the first."
+            }
+        ]
+    },
+    {
+        "word": "ethnolect",
+        "sensitivity_rating": 0.4,
+        "definition": "A variety of a language that marks the ethnic identity of its speakers.",
+        "translation_options": [
+            {
+                "options": "Ethnolekt",
+                "nuance": "Direct translation, maintains the neutral, linguistic focus but awareness of context is crucial to avoid reinforcing stereotypes."
+            },
+            {
+                "options": "ethnische Sprachvariet\u00e4t",
+                "nuance": "Descriptive, emphasizes the linguistic variation aspect, reducing potential sensitivity."
+            },
+            {
+                "options": "Sprachvariet\u00e4t einer ethnischen Gruppe",
+                "nuance": "Explicit and clear, emphasizing the connection to a specific ethnic group, careful use recommended."
+            },
+            {
+                "options": "ethnisch gepr\u00e4gte Sprachvariante",
+                "nuance": "Focuses on the influence of ethnicity on language, potentially less sensitive by highlighting the natural diversity of language."
+            }
+        ]
+    },
+    {
+        "word": "americanism",
+        "sensitivity_rating": 0.3,
+        "definition": "A word, phrase, or idiom that originated in the United States and is characteristic of American English.",
+        "translation_options": [
+            {
+                "options": "Amerikanismus",
+                "nuance": "Direct translation, neutral in linguistic contexts but awareness of potential cultural imperialism is important."
+            },
+            {
+                "options": "aus dem Amerikanischen stammender Ausdruck",
+                "nuance": "Descriptive, emphasizes origin, reducing potential sensitivity by avoiding nationalistic connotations."
+            },
+            {
+                "options": "amerikanischer Ausdruck",
+                "nuance": "Straightforward, but careful use is advised to avoid implying cultural superiority."
+            },
+            {
+                "options": "im Amerikanischen gebr\u00e4uchliche Wendung",
+                "nuance": "Focuses on usage within American English, neutral and informative."
+            }
+        ]
+    },
+    {
+        "word": "symbology",
+        "sensitivity_rating": 0.2,
+        "definition": "The study or use of symbols.",
+        "translation_options": [
+            {
+                "options": "Symbolik",
+                "nuance": "Direct translation, neutral but context is key, especially in historical or cultural analyses to avoid misinterpretation."
+            },
+            {
+                "options": "Symbolsystem",
+                "nuance": "Emphasizes the systematic aspect of symbols, suitable for technical or academic contexts."
+            },
+            {
+                "options": "Symbollehre",
+                "nuance": "Focuses on the theoretical study of symbols, appropriate for academic contexts."
+            },
+            {
+                "options": "Verwendung von Symbolen",
+                "nuance": "Descriptive, focuses on the practical aspect of symbols, minimizing sensitivity by clarifying intent."
+            }
+        ]
+    },
+    {
+        "word": "conflate",
+        "sensitivity_rating": 0.5,
+        "definition": "To combine two or more texts, ideas, or elements into one, often simplifying complex issues or blurring distinctions.",
+        "translation_options": [
+            {
+                "options": "vermischen",
+                "nuance": "General use, but careful application needed to avoid downplaying the importance of distinct elements."
+            },
+            {
+                "options": "zusammenf\u00fchren",
+                "nuance": "Neutral, emphasizes the act of bringing together, suitable for non-sensitive contexts."
+            },
+            {
+                "options": "verschmelzen",
+                "nuance": "Implies a more complete integration, use with awareness of potentially obscuring differences."
+            },
+            {
+                "options": "ineinander \u00fcbergehen lassen",
+                "nuance": "Descriptive, highlights the process of blending, suitable for careful, nuanced discussions."
+            }
+        ]
+    },
+    {
+        "word": "philology",
+        "sensitivity_rating": 0.2,
+        "definition": "The study of language in written historical sources; it is a combination of literary studies, history, and linguistics.",
+        "translation_options": [
+            {
+                "options": "Philologie",
+                "nuance": "Direct translation, neutral and academic, suitable for scholarly contexts."
+            },
+            {
+                "options": "Sprachwissenschaft",
+                "nuance": "Broader term for linguistics, less specific but still appropriate for general contexts."
+            },
+            {
+                "options": "Textkritik",
+                "nuance": "Focuses on the critical examination of texts, suitable for literary analysis."
+            },
+            {
+                "options": "historische Sprachforschung",
+                "nuance": "Emphasizes the historical aspect of the study, appropriate for contexts dealing with language evolution."
+            }
+        ]
+    },
+    {
+        "word": "unalienable",
+        "sensitivity_rating": 0.2,
+        "definition": "Not to be taken away or transferred to another; often used in the context of rights.",
+        "translation_options": [
+            {
+                "options": "unver\u00e4u\u00dferlich",
+                "nuance": "Direct translation, commonly used in legal and human rights contexts, emphasizing the inherent nature of certain rights."
+            },
+            {
+                "options": "unabdingbar",
+                "nuance": "Focuses on the essential and non-negotiable aspect of rights, suitable for broader discussions beyond legal texts."
+            },
+            {
+                "options": "nicht entziehbar",
+                "nuance": "Literally means 'not withdrawable', emphasizing the permanence of these rights."
+            },
+            {
+                "options": "un\u00fcbertragbar",
+                "nuance": "Highlights the non-transferable aspect of rights, suitable for specific legal contexts."
+            }
+        ]
+    },
+    {
+        "word": "supremacism",
+        "sensitivity_rating": 0.9,
+        "definition": "The belief that a particular race, species, gender, religion, or culture is superior to others and should dominate.",
+        "translation_options": [
+            {
+                "options": "Suprematismus",
+                "nuance": "Direct translation, used in discussions of racial, cultural, or religious dominance, highly sensitive due to historical and contemporary contexts."
+            },
+            {
+                "options": "\u00dcberlegenheitsdenken",
+                "nuance": "Focuses on the mindset of believing in superiority, applicable in broader discussions beyond racial contexts."
+            },
+            {
+                "options": "Vorherrschaftsanspruch",
+                "nuance": "Emphasizes the claim to dominance, suitable for discussions on political or cultural hegemony."
+            },
+            {
+                "options": "Rassismus",
+                "nuance": "Specifically denotes racial supremacy, used when the context is explicitly about racial dominance."
+            }
+        ]
+    },
+    {
+        "word": "reforms",
+        "sensitivity_rating": 0.3,
+        "definition": "Changes made to improve a system, organization, or law.",
+        "translation_options": [
+            {
+                "options": "Reformen",
+                "nuance": "Direct translation, widely used in political, social, and economic contexts, neutral tone."
+            },
+            {
+                "options": "Umgestaltungen",
+                "nuance": "Emphasizes the process of reshaping or restructuring, suitable for comprehensive changes."
+            },
+            {
+                "options": "Verbesserungen",
+                "nuance": "Focuses on the aspect of improvement, applicable in contexts where the positive outcome of reforms is highlighted."
+            },
+            {
+                "options": "Neuerungen",
+                "nuance": "Highlights the novelty or innovation aspect of reforms, suitable for contexts emphasizing change."
+            }
+        ]
+    },
+    {
+        "word": "rcanderlori",
+        "sensitivity_rating": 1.0,
+        "definition": "This term does not have a recognized definition and seems to be a typographical error or a nonsensical word.",
+        "translation_options": [
+            {
+                "options": "N/A",
+                "nuance": "No translation available due to the lack of a clear definition or recognized meaning."
+            },
+            {
+                "options": "N/A",
+                "nuance": "No translation available due to the lack of a clear definition or recognized meaning."
+            },
+            {
+                "options": "N/A",
+                "nuance": "No translation available due to the lack of a clear definition or recognized meaning."
+            },
+            {
+                "options": "N/A",
+                "nuance": "No translation available due to the lack of a clear definition or recognized meaning."
+            }
+        ]
+    },
+    {
+        "word": "governmental",
+        "sensitivity_rating": 0.1,
+        "definition": "Relating to a government or the functions of a government.",
+        "translation_options": [
+            {
+                "options": "staatlich",
+                "nuance": "Direct translation, used in contexts relating to state or government-owned or -operated entities."
+            },
+            {
+                "options": "regierungsbezogen",
+                "nuance": "Emphasizes aspects directly related to the government, suitable for discussions on policies or actions."
+            },
+            {
+                "options": "beh\u00f6rdlich",
+                "nuance": "Refers to government authorities, suitable for contexts involving administrative or regulatory actions."
+            },
+            {
+                "options": "amtlich",
+                "nuance": "Highlights the official capacity or sanction by the government, used in formal or legal contexts."
+            }
+        ]
+    },
+    {
+        "word": "fervor",
+        "sensitivity_rating": 0.2,
+        "definition": "Intense and passionate feeling.",
+        "translation_options": [
+            {
+                "options": "Eifer",
+                "nuance": "General use, capturing the intensity and passion of feelings without specific cultural connotations."
+            },
+            {
+                "options": "Inbrunst",
+                "nuance": "Emphasizes the depth of emotional or religious fervor."
+            },
+            {
+                "options": "Leidenschaft",
+                "nuance": "Focuses on the passionate aspect, suitable for broader contexts including hobbies or beliefs."
+            },
+            {
+                "options": "Feuereifer",
+                "nuance": "Highlights the energetic and enthusiastic dimension, often used in motivational contexts."
+            }
+        ]
+    },
+    {
+        "word": "transphobic",
+        "sensitivity_rating": 0.9,
+        "definition": "Having or showing a dislike of or prejudice against transsexual or transgender people.",
+        "translation_options": [
+            {
+                "options": "transphob",
+                "nuance": "Direct translation, used to describe attitudes, actions, or policies that discriminate against transgender people."
+            },
+            {
+                "options": "transfeindlich",
+                "nuance": "Emphasizes hostility towards transgender individuals, highlighting the aspect of animosity."
+            },
+            {
+                "options": "gegen Transgender gerichtet",
+                "nuance": "Descriptive, specifying the direction of prejudice or discrimination."
+            },
+            {
+                "options": "transgenderfeindlich",
+                "nuance": "Similar to 'transfeindlich', but more explicitly focused on transgender individuals."
+            }
+        ]
+    },
+    {
+        "word": "atrocity",
+        "sensitivity_rating": 0.8,
+        "definition": "An extremely wicked or cruel act, typically one involving physical violence or injury.",
+        "translation_options": [
+            {
+                "options": "Gr\u00e4ueltat",
+                "nuance": "General use, suitable for describing acts of extreme cruelty or wickedness, often in historical or conflict contexts."
+            },
+            {
+                "options": "Abscheulichkeit",
+                "nuance": "Emphasizes the moral repugnance of the act, suitable for highlighting its inhumanity."
+            },
+            {
+                "options": "Barbarei",
+                "nuance": "Highlights the primitive and brutal nature of the act, often used in contexts of war or genocide."
+            },
+            {
+                "options": "Unmenschlichkeit",
+                "nuance": "Focuses on the lack of humanity in the act, suitable for emphasizing its cruelty and inhumanity."
+            }
+        ]
+    },
+    {
+        "word": "staunch",
+        "sensitivity_rating": 0.3,
+        "definition": "Loyal and committed in attitude.",
+        "translation_options": [
+            {
+                "options": "standhaft",
+                "nuance": "Emphasizes steadfastness and reliability, suitable for describing loyal individuals or groups."
+            },
+            {
+                "options": "treu",
+                "nuance": "Focuses on the aspect of loyalty, applicable in both personal and professional contexts."
+            },
+            {
+                "options": "unersch\u00fctterlich",
+                "nuance": "Highlights the unshakeable nature of the commitment, often used in political or ideological contexts."
+            },
+            {
+                "options": "fest",
+                "nuance": "General use, indicating firmness or solidity in one's commitment or stance."
+            }
+        ]
+    },
+    {
+        "word": "characterise",
+        "sensitivity_rating": 0.1,
+        "definition": "Describe the distinctive nature or features of.",
+        "translation_options": [
+            {
+                "options": "charakterisieren",
+                "nuance": "Direct translation, suitable for academic or descriptive contexts."
+            },
+            {
+                "options": "kennzeichnen",
+                "nuance": "Emphasizes the marking or defining features of something, suitable for technical or detailed descriptions."
+            },
+            {
+                "options": "beschreiben",
+                "nuance": "More general, focusing on the act of describing rather than the distinctive nature."
+            },
+            {
+                "options": "pr\u00e4gen",
+                "nuance": "Highlights the influence or shaping of characteristics, suitable for discussions on impact or development."
+            }
+        ]
+    },
+    {
+        "word": "secularism",
+        "sensitivity_rating": 0.2,
+        "definition": "The principle of separation of the state from religious institutions.",
+        "translation_options": [
+            {
+                "options": "S\u00e4kularismus",
+                "nuance": "Direct translation, neutral, emphasizes the separation of state and religion."
+            },
+            {
+                "options": "Laizismus",
+                "nuance": "Similar to 'S\u00e4kularismus', but more commonly used to refer specifically to the French model of secularism."
+            },
+            {
+                "options": "Weltlichkeit",
+                "nuance": "Emphasizes the worldly, non-religious aspect, less formal."
+            },
+            {
+                "options": "Trennung von Kirche und Staat",
+                "nuance": "Descriptive phrase, clearly outlines the principle of secularism."
+            }
+        ]
+    },
+    {
+        "word": "capacities",
+        "sensitivity_rating": 0.1,
+        "definition": "Abilities or qualities that enable a person to do something.",
+        "translation_options": [
+            {
+                "options": "F\u00e4higkeiten",
+                "nuance": "General term for abilities or skills, neutral."
+            },
+            {
+                "options": "Kapazit\u00e4ten",
+                "nuance": "More formal, often used in professional or technical contexts."
+            },
+            {
+                "options": "Kompetenzen",
+                "nuance": "Emphasizes proficiency and expertise in specific areas."
+            },
+            {
+                "options": "Potenziale",
+                "nuance": "Focuses on the potential or inherent abilities that may be developed."
+            }
+        ]
+    },
+    {
+        "word": "ethno",
+        "sensitivity_rating": 0.5,
+        "definition": "Prefix referring to ethnic groups or ethnicity.",
+        "translation_options": [
+            {
+                "options": "ethno-",
+                "nuance": "Direct prefix translation, used in compound words to denote ethnic aspects."
+            },
+            {
+                "options": "Volks-",
+                "nuance": "Can be used in compound words, emphasizes a people or nation aspect, but careful with context to avoid nationalist connotations."
+            },
+            {
+                "options": "Stammes-",
+                "nuance": "Refers more specifically to tribal affiliations, use with caution to avoid primitivizing."
+            },
+            {
+                "options": "Ethnisch",
+                "nuance": "Adjective form, used to describe things related to ethnic groups or characteristics."
+            }
+        ]
+    },
+    {
+        "word": "perjorative",
+        "sensitivity_rating": 0.8,
+        "definition": "Expressing contempt or disapproval; derogatory.",
+        "translation_options": [
+            {
+                "options": "abwertend",
+                "nuance": "General term for derogatory or demeaning language."
+            },
+            {
+                "options": "pejorativ",
+                "nuance": "Direct translation, formal, used in linguistic contexts."
+            },
+            {
+                "options": "herabsetzend",
+                "nuance": "Emphasizes the act of putting someone down or belittling."
+            },
+            {
+                "options": "diskriminierend",
+                "nuance": "Highlights the discriminatory aspect, use when the derogatory term is linked to discrimination."
+            }
+        ]
+    },
+    {
+        "word": "constituting",
+        "sensitivity_rating": 0.3,
+        "definition": "To compose, form, or establish.",
+        "translation_options": [
+            {
+                "options": "bildend",
+                "nuance": "Neutral, emphasizes the act of forming or creating."
+            },
+            {
+                "options": "konstituierend",
+                "nuance": "Formal, used in legal or official contexts to denote establishment."
+            },
+            {
+                "options": "gr\u00fcndend",
+                "nuance": "Focuses on the foundational aspect, suitable for contexts involving establishment or creation."
+            },
+            {
+                "options": "zusammensetzend",
+                "nuance": "Literal translation, emphasizes the component aspect of forming something."
+            }
+        ]
+    },
+    {
+        "word": "arabism",
+        "sensitivity_rating": 0.3,
+        "definition": "Arabism refers to linguistic or cultural traits characteristic of Arab peoples or the advocacy of Arab unity and influence.",
+        "translation_options": [
+            {
+                "options": "Arabismus",
+                "nuance": "Direct translation, captures both cultural and linguistic aspects without inherent sensitivity but context matters."
+            },
+            {
+                "options": "arabische Kultur",
+                "nuance": "Focuses on cultural aspects, less politically charged."
+            },
+            {
+                "options": "arabische Einheit",
+                "nuance": "Emphasizes political unity, more sensitive in contexts discussing nationalism or regional politics."
+            },
+            {
+                "options": "arabische Spracheigenschaften",
+                "nuance": "Highlights linguistic traits, neutral and specific."
+            }
+        ]
+    },
+    {
+        "word": "progressives",
+        "sensitivity_rating": 0.4,
+        "definition": "Progressives are individuals or groups advocating for social reform and progressive policies.",
+        "translation_options": [
+            {
+                "options": "Progressive",
+                "nuance": "Direct translation, broadly used for left-leaning reformists, contextually sensitive in political discussions."
+            },
+            {
+                "options": "Fortschrittliche",
+                "nuance": "Emphasizes forward-thinking aspect, less politically charged but still denotes a stance."
+            },
+            {
+                "options": "Sozialreformer",
+                "nuance": "Highlights the aspect of social reform, specific and politically nuanced."
+            },
+            {
+                "options": "Bef\u00fcrworter progressiver Politik",
+                "nuance": "Explicitly states advocacy for progressive policies, clear and context-specific."
+            }
+        ]
+    },
+    {
+        "word": "orientations",
+        "sensitivity_rating": 0.2,
+        "definition": "Orientations can refer to one's sexual orientation, ideological beliefs, or general preferences and inclinations.",
+        "translation_options": [
+            {
+                "options": "Orientierungen",
+                "nuance": "Direct translation, neutral and applicable in various contexts."
+            },
+            {
+                "options": "sexuelle Orientierung",
+                "nuance": "Specific to sexual orientation, important for discussions on LGBTQ+ rights."
+            },
+            {
+                "options": "ideologische Ausrichtungen",
+                "nuance": "Refers to ideological beliefs, suitable for political or philosophical contexts."
+            },
+            {
+                "options": "Neigungen",
+                "nuance": "General preferences or inclinations, broader and less specific."
+            }
+        ]
+    },
+    {
+        "word": "mordor",
+        "sensitivity_rating": 0.1,
+        "definition": "Mordor is a fictional territory in J.R.R. Tolkien's 'The Lord of the Rings', often symbolizing evil and darkness.",
+        "translation_options": [
+            {
+                "options": "Mordor",
+                "nuance": "Direct translation, universally recognized among fans of the literature, low sensitivity."
+            },
+            {
+                "options": "das Land des B\u00f6sen",
+                "nuance": "Translates to 'the land of evil', emphasizes the symbolic meaning, suitable for thematic discussions."
+            },
+            {
+                "options": "dunkles Territorium",
+                "nuance": "Focuses on the aspect of darkness, less specific to the narrative context."
+            },
+            {
+                "options": "Symbol f\u00fcr das B\u00f6se",
+                "nuance": "Describes it as a 'symbol for evil', highlighting its metaphorical use beyond the narrative."
+            }
+        ]
+    },
+    {
+        "word": "paganism",
+        "sensitivity_rating": 0.5,
+        "definition": "Paganism encompasses a variety of religious beliefs and practices outside of the world's main religions, often earth-centered.",
+        "translation_options": [
+            {
+                "options": "Heidentum",
+                "nuance": "Direct translation, but can carry historical connotations of barbarism or primitivism, use with care."
+            },
+            {
+                "options": "paganistische Religionen",
+                "nuance": "Specifies pagan religions, neutral and respectful."
+            },
+            {
+                "options": "naturzentrierte Glaubenssysteme",
+                "nuance": "Emphasizes the earth-centered aspect, positive and inclusive."
+            },
+            {
+                "options": "polytheistische Religionen",
+                "nuance": "Highlights the polytheistic aspect, specific and neutral."
+            }
+        ]
+    },
+    {
+        "word": "tibetans",
+        "sensitivity_rating": 0.2,
+        "definition": "Refers to the people native to Tibet, an autonomous region in China known for its unique culture and history.",
+        "translation_options": [
+            {
+                "options": "Tibeter",
+                "nuance": "Direct translation, neutral, acknowledges the ethnic and cultural identity."
+            },
+            {
+                "options": "tibetische Menschen",
+                "nuance": "Emphasizes the human aspect, promoting a more personal and respectful view."
+            },
+            {
+                "options": "Einwohner Tibets",
+                "nuance": "Focuses on the geographical aspect, neutral but less personal."
+            },
+            {
+                "options": "tibetische Bev\u00f6lkerung",
+                "nuance": "Highlights the collective aspect of the Tibetan people, neutral and respectful."
+            }
+        ]
+    },
+    {
+        "word": "reinforces",
+        "sensitivity_rating": 0.4,
+        "definition": "To strengthen or support, often used in the context of ideas, stereotypes, or structures.",
+        "translation_options": [
+            {
+                "options": "verst\u00e4rkt",
+                "nuance": "Direct translation, neutral, applicable in various contexts."
+            },
+            {
+                "options": "festigt",
+                "nuance": "Implies solidifying or making more firm, suitable for discussing concepts or beliefs."
+            },
+            {
+                "options": "unterst\u00fctzt",
+                "nuance": "Suggests support, can be used positively but careful with contexts that might imply endorsement of harmful stereotypes."
+            },
+            {
+                "options": "konsolidiert",
+                "nuance": "Implies making something more solid or united, often used in formal or technical contexts."
+            }
+        ]
+    },
+    {
+        "word": "legalization",
+        "sensitivity_rating": 0.5,
+        "definition": "The process of making something legal, often used in the context of laws regarding marriage, drugs, or immigration.",
+        "translation_options": [
+            {
+                "options": "Legalisation",
+                "nuance": "Direct translation, neutral, applicable in various legal contexts."
+            },
+            {
+                "options": "Legalisierung",
+                "nuance": "Commonly used term, neutral, suitable for broad contexts including social issues."
+            },
+            {
+                "options": "Freigabe",
+                "nuance": "Implies release or clearance, often used in the context of drugs, more informal."
+            },
+            {
+                "options": "Genehmigung",
+                "nuance": "Means approval, more formal, suitable for legal and administrative contexts."
+            }
+        ]
+    },
+    {
+        "word": "houthis",
+        "sensitivity_rating": 0.7,
+        "definition": "A Yemeni Zaidi Shia Muslim rebel group involved in the Yemeni Civil War, often associated with Iran.",
+        "translation_options": [
+            {
+                "options": "Huthis",
+                "nuance": "Direct translation, neutral, recognizes the group's political and religious identity."
+            },
+            {
+                "options": "Huthi-Rebellen",
+                "nuance": "Specifies the group as rebels, highlighting their role in the Yemeni Civil War."
+            },
+            {
+                "options": "Huthi-Bewegung",
+                "nuance": "Refers to the group as a movement, emphasizing its broader political and social goals."
+            },
+            {
+                "options": "Huthi-K\u00e4mpfer",
+                "nuance": "Focuses on the militant aspect, suitable in contexts discussing armed conflict."
+            }
+        ]
+    },
+    {
+        "word": "sensationalism",
+        "sensitivity_rating": 0.6,
+        "definition": "The use of exciting or shocking stories or language at the expense of accuracy, to provoke public interest or excitement.",
+        "translation_options": [
+            {
+                "options": "Sensationalismus",
+                "nuance": "Direct translation, neutral, applicable in media and journalism contexts."
+            },
+            {
+                "options": "Rei\u00dferjournalismus",
+                "nuance": "Pejorative, emphasizes the negative aspect of prioritizing shock value over substance."
+            },
+            {
+                "options": "Sensationsgier",
+                "nuance": "Focuses on the craving for sensation, suitable for discussing the audience's role."
+            },
+            {
+                "options": "Effekthascherei",
+                "nuance": "Pejorative, implies a deliberate attempt to attract attention through sensational methods, suitable for critique."
+            }
+        ]
+    },
+    {
+        "word": "reeks",
+        "sensitivity_rating": 0.2,
+        "definition": "In general, 'reeks' means a series or sequence of things that give off a strong or unpleasant smell. However, its sensitivity can arise from context, especially if used metaphorically to suggest something negative or undesirable.",
+        "translation_options": [
+            {
+                "options": "Reihen",
+                "nuance": "Neutral, for sequences or series without negative connotation."
+            },
+            {
+                "options": "stinkt",
+                "nuance": "Literal, for something that smells bad, potentially offensive if used metaphorically."
+            },
+            {
+                "options": "Dunst",
+                "nuance": "Milder than 'stinkt', for a haze or a less intense smell."
+            },
+            {
+                "options": "Schwaden",
+                "nuance": "For smoke or vapor, neutral but can be negative in context."
+            }
+        ]
+    },
+    {
+        "word": "anycase",
+        "sensitivity_rating": 0.1,
+        "definition": "'Anycase' is not inherently sensitive; it's an informal term meaning 'in any case' or 'regardless'. Sensitivity may arise from its use in diminishing the significance of antisemitic incidents or rhetoric.",
+        "translation_options": [
+            {
+                "options": "auf jeden Fall",
+                "nuance": "Neutral, equivalent to 'in any case'."
+            },
+            {
+                "options": "jedenfalls",
+                "nuance": "Neutral, similar to 'auf jeden Fall', slightly more informal."
+            },
+            {
+                "options": "so oder so",
+                "nuance": "Neutral, conveys 'one way or another'."
+            },
+            {
+                "options": "egal was passiert",
+                "nuance": "Neutral but emphasizes the inevitability, 'no matter what happens'."
+            }
+        ]
+    },
+    {
+        "word": "marxists",
+        "sensitivity_rating": 0.4,
+        "definition": "'Marxists' refers to followers of Marxism, a socio-economic ideology. Sensitivity arises from historical and ongoing political tensions, and misuse to stereotype or delegitimize individuals or groups, especially in contexts contrasting 'Marxists' with 'gentiles'.",
+        "translation_options": [
+            {
+                "options": "Marxisten",
+                "nuance": "Neutral, direct translation."
+            },
+            {
+                "options": "Anh\u00e4nger des Marxismus",
+                "nuance": "Neutral, emphasizes the ideological following."
+            },
+            {
+                "options": "Marxistisch orientierte Personen",
+                "nuance": "Neutral, broader, includes those influenced by Marxism."
+            },
+            {
+                "options": "Marxistische Aktivisten",
+                "nuance": "More specific, implies political activism, use with caution."
+            }
+        ]
+    },
+    {
+        "word": "demonization",
+        "sensitivity_rating": 0.8,
+        "definition": "'Demonization' means portraying someone or something as wicked or threatening. It's highly sensitive due to its potential use in justifying or perpetuating discrimination, such as the enslavement of peoples or the vilification of groups.",
+        "translation_options": [
+            {
+                "options": "D\u00e4monisierung",
+                "nuance": "Neutral, direct translation, but use with awareness of context."
+            },
+            {
+                "options": "Verteufelung",
+                "nuance": "Similar to 'D\u00e4monisierung', but with a slightly more colloquial tone."
+            },
+            {
+                "options": "Teufelsdarstellung",
+                "nuance": "Literal, 'portrayal as the devil', emphasizes the act of portrayal."
+            },
+            {
+                "options": "Verunglimpfung",
+                "nuance": "Broader, for defamation or vilification, less intense than 'D\u00e4monisierung'."
+            }
+        ]
+    },
+    {
+        "word": "safavids",
+        "sensitivity_rating": 0.5,
+        "definition": "The 'Safavids' refers to a dynasty that ruled Persia (1501-1736) and is associated with the rise of Shia Islam in Iran. Sensitivity arises from its potential use in discussions that stereotype or generalize about ethnic or religious groups.",
+        "translation_options": [
+            {
+                "options": "Safawiden",
+                "nuance": "Neutral, direct historical reference."
+            },
+            {
+                "options": "Die Safawidische Dynastie",
+                "nuance": "Formal, emphasizes the dynastic aspect."
+            },
+            {
+                "options": "Persische Safawiden",
+                "nuance": "Specifies the geographical region, useful in historical context."
+            },
+            {
+                "options": "Safawidische Herrscher",
+                "nuance": "Focuses on the ruling aspect, suitable for discussions on governance or power."
+            }
+        ]
+    },
+    {
+        "word": "amren",
+        "sensitivity_rating": 0.8,
+        "definition": "A term that may refer to a specific organization or movement known for promoting white nationalism and racial ideologies.",
+        "translation_options": [
+            {
+                "options": "rassistisch motivierte Bewegung",
+                "nuance": "Directly addresses the racial motivations without specifying an organization."
+            },
+            {
+                "options": "wei\u00dfe Nationalisten",
+                "nuance": "Highlights the racial aspect of nationalism."
+            },
+            {
+                "options": "rechtsextreme Gruppierung",
+                "nuance": "Emphasizes the extreme political orientation."
+            },
+            {
+                "options": "Identit\u00e4re Bewegung",
+                "nuance": "A specific term used in German-speaking countries for similar ideologies."
+            }
+        ]
+    },
+    {
+        "word": "inhabited",
+        "sensitivity_rating": 0.3,
+        "definition": "Refers to being lived in or occupied by people, often used in historical or anthropological contexts.",
+        "translation_options": [
+            {
+                "options": "bewohnt",
+                "nuance": "Neutral term for the presence of people in a place."
+            },
+            {
+                "options": "besiedelt",
+                "nuance": "Can imply a process of settlement or colonization."
+            },
+            {
+                "options": "heimisch",
+                "nuance": "Emphasizes the native or original inhabitants of a place."
+            },
+            {
+                "options": "bev\u00f6lkert",
+                "nuance": "Neutral, focusing on the presence of a population."
+            }
+        ]
+    },
+    {
+        "word": "manchu",
+        "sensitivity_rating": 0.2,
+        "definition": "Refers to an ethnic group native to Northeast China, historically significant as rulers during the Qing Dynasty.",
+        "translation_options": [
+            {
+                "options": "Mandschu",
+                "nuance": "Direct translation, maintaining respect for the ethnic group."
+            },
+            {
+                "options": "Mandschu-Volk",
+                "nuance": "Emphasizes the people aspect of the ethnic group."
+            },
+            {
+                "options": "ethnische Gruppe der Mandschu",
+                "nuance": "Highlights the ethnic identity in a respectful manner."
+            },
+            {
+                "options": "Mandschurei-Bewohner",
+                "nuance": "Focuses on the geographical aspect of the Manchu people."
+            }
+        ]
+    },
+    {
+        "word": "influencing",
+        "sensitivity_rating": 0.1,
+        "definition": "The act of having an effect on the character, development, or behavior of someone or something.",
+        "translation_options": [
+            {
+                "options": "beeinflussen",
+                "nuance": "Neutral, direct translation."
+            },
+            {
+                "options": "pr\u00e4gen",
+                "nuance": "Implies a strong, formative influence."
+            },
+            {
+                "options": "wirken auf",
+                "nuance": "Suggests an effect without direct intervention."
+            },
+            {
+                "options": "einwirken auf",
+                "nuance": "Implies a more deliberate or active influence."
+            }
+        ]
+    },
+    {
+        "word": "militaristic",
+        "sensitivity_rating": 0.6,
+        "definition": "Refers to the belief in or advocacy of maintaining a strong military capability and being prepared to use it aggressively to defend or promote national interests.",
+        "translation_options": [
+            {
+                "options": "militaristisch",
+                "nuance": "Direct translation, maintaining the original meaning."
+            },
+            {
+                "options": "kriegerisch",
+                "nuance": "Emphasizes an aggressive, warlike stance."
+            },
+            {
+                "options": "milit\u00e4rbegeistert",
+                "nuance": "Highlights enthusiasm for the military without necessarily implying aggression."
+            },
+            {
+                "options": "wehrhaft",
+                "nuance": "Focuses on the aspect of being prepared for defense."
+            }
+        ]
+    },
+    {
+        "word": "excesses",
+        "sensitivity_rating": 0.4,
+        "definition": "Excesses refer to actions or occurrences that are more extreme or severe than what is usual, reasonable, or proper.",
+        "translation_options": [
+            {
+                "options": "Exzesse",
+                "nuance": "Direct translation, suitable for general contexts but should be used with caution in sensitive contexts to avoid implying judgment or condemnation."
+            },
+            {
+                "options": "\u00dcbergriffe",
+                "nuance": "Implies actions that overstep boundaries, suitable for contexts involving violence or abuse."
+            },
+            {
+                "options": "Ausschweifungen",
+                "nuance": "Focuses on moral or sexual connotations, appropriate for discussions about moral excesses."
+            },
+            {
+                "options": "\u00dcberschreitungen",
+                "nuance": "Neutral term for exceeding limits, suitable for a wide range of contexts without implying moral judgment."
+            }
+        ]
+    },
+    {
+        "word": "atheistic",
+        "sensitivity_rating": 0.2,
+        "definition": "Atheistic refers to the disbelief or lack of belief in the existence of God or gods.",
+        "translation_options": [
+            {
+                "options": "atheistisch",
+                "nuance": "Direct translation, appropriate for neutral contexts discussing religious beliefs."
+            },
+            {
+                "options": "gottlos",
+                "nuance": "Carries a more negative connotation, historically used pejoratively but can be reclaimed in empowering contexts."
+            },
+            {
+                "options": "nicht religi\u00f6s",
+                "nuance": "A softer alternative, emphasizing the absence of religious affiliation without focusing on belief in deities."
+            },
+            {
+                "options": "s\u00e4kular",
+                "nuance": "Focuses on separation from religious institutions, suitable for discussions about societal or governmental contexts."
+            }
+        ]
+    },
+    {
+        "word": "iranic",
+        "sensitivity_rating": 0.3,
+        "definition": "Iranic refers to the group of people, languages, or cultures associated with Iran and surrounding regions.",
+        "translation_options": [
+            {
+                "options": "iranisch",
+                "nuance": "Direct translation, suitable for general contexts discussing nationality, language, or culture."
+            },
+            {
+                "options": "aus dem Iran stammend",
+                "nuance": "Emphasizes origin, suitable for contexts focusing on heritage or ancestry."
+            },
+            {
+                "options": "zur iranischen Kultur geh\u00f6rend",
+                "nuance": "Focuses on cultural affiliation, appropriate for discussions about cultural identity or heritage."
+            },
+            {
+                "options": "zur iranischen Ethnie geh\u00f6rend",
+                "nuance": "Highlights ethnic identity, suitable for academic or anthropological discussions."
+            }
+        ]
+    },
+    {
+        "word": "maldives",
+        "sensitivity_rating": 0.1,
+        "definition": "The Maldives is a tropical country in the Indian Ocean, composed of 26 ring-shaped atolls, which are made up of more than 1,000 coral islands.",
+        "translation_options": [
+            {
+                "options": "Malediven",
+                "nuance": "Direct translation, appropriate for all contexts as it is the standard German name for the country."
+            },
+            {
+                "options": "Republik Malediven",
+                "nuance": "Formal name, suitable for official or diplomatic contexts."
+            },
+            {
+                "options": "die maledivischen Inseln",
+                "nuance": "Emphasizes the geographical aspect, suitable for travel or geographical contexts."
+            },
+            {
+                "options": "das maledivische Archipel",
+                "nuance": "Focuses on the archipelagic nature, appropriate for scientific or ecological discussions."
+            }
+        ]
+    },
+    {
+        "word": "geopolitical",
+        "sensitivity_rating": 0.5,
+        "definition": "Geopolitical relates to the influence of geographic factors on the political, economic, or cultural relations among states or regions.",
+        "translation_options": [
+            {
+                "options": "geopolitisch",
+                "nuance": "Direct translation, suitable for discussions involving international relations or strategy."
+            },
+            {
+                "options": "erdpolitisch",
+                "nuance": "A less common term, emphasizing the global aspect of political relations."
+            },
+            {
+                "options": "in Bezug auf die Weltpolitik",
+                "nuance": "Descriptive phrase, suitable for contexts that require clarification of the term's broad implications."
+            },
+            {
+                "options": "staaten\u00fcbergreifend",
+                "nuance": "Emphasizes the cross-national aspect, appropriate for discussions on policies or issues affecting multiple countries."
+            }
+        ]
+    },
+    {
+        "word": "separatists",
+        "sensitivity_rating": 0.7,
+        "definition": "Individuals or groups advocating for separation from a larger political entity, often based on ethnic, religious, or ideological differences.",
+        "translation_options": [
+            {
+                "options": "Separatisten",
+                "nuance": "Direct translation, used in political contexts to describe groups seeking independence or autonomy."
+            },
+            {
+                "options": "Unabh\u00e4ngigkeitsbef\u00fcrworter",
+                "nuance": "Focuses on the aspect of advocating for independence, less confrontational."
+            },
+            {
+                "options": "Abspaltungsbewegung",
+                "nuance": "Emphasizes the movement aspect, neutral in terms of the legitimacy of the cause."
+            },
+            {
+                "options": "Autonomiebewegung",
+                "nuance": "Highlights the desire for autonomy, can be seen as more neutral or sympathetic."
+            }
+        ]
+    },
+    {
+        "word": "essentialist",
+        "sensitivity_rating": 0.6,
+        "definition": "A belief in the fundamental, inherent characteristics that define groups of people, often used in discussions of gender, race, and sexuality.",
+        "translation_options": [
+            {
+                "options": "Essentialist",
+                "nuance": "Direct translation, used in academic and critical discussions on identity and diversity."
+            },
+            {
+                "options": "Wesensmerkmal-Theoretiker",
+                "nuance": "Emphasizes the theoretical aspect, making it clear it's a viewpoint in philosophical or sociological debates."
+            },
+            {
+                "options": "Substanzialist",
+                "nuance": "Focuses on the belief in unchangeable substance or essence, academic tone."
+            },
+            {
+                "options": "Identit\u00e4tsessentialist",
+                "nuance": "Specifies the context of identity, useful in discussions about identity politics."
+            }
+        ]
+    },
+    {
+        "word": "pederasty",
+        "sensitivity_rating": 0.9,
+        "definition": "Historically, a relationship between an adult male and a younger male, often seen through a lens of mentorship in ancient cultures but controversial and sensitive due to implications of abuse and exploitation.",
+        "translation_options": [
+            {
+                "options": "Knabenliebe",
+                "nuance": "Historical term, used in the context of ancient cultures, but can be problematic due to minimizing the aspect of abuse."
+            },
+            {
+                "options": "P\u00e4derastie",
+                "nuance": "Direct translation, carries a heavy connotation of abuse and exploitation, use with caution."
+            },
+            {
+                "options": "Sexueller Missbrauch von Minderj\u00e4hrigen",
+                "nuance": "Explicitly addresses the aspect of abuse, clear and unambiguous, but lacks historical context."
+            },
+            {
+                "options": "Altersungleiche Homosexualit\u00e4t in der Antike",
+                "nuance": "Provides historical context, specifies the nature of the relationships without condoning abuse."
+            }
+        ]
+    },
+    {
+        "word": "ethnicity",
+        "sensitivity_rating": 0.4,
+        "definition": "A social group that shares a common and distinctive culture, religion, language, or the like.",
+        "translation_options": [
+            {
+                "options": "Ethnizit\u00e4t",
+                "nuance": "Direct translation, widely used in discussions on cultural and social identity."
+            },
+            {
+                "options": "Volkszugeh\u00f6rigkeit",
+                "nuance": "Emphasizes national or cultural affiliation, can be used in legal or formal contexts."
+            },
+            {
+                "options": "Kulturelle Identit\u00e4t",
+                "nuance": "Focuses on the cultural aspect of ethnicity, broader and more inclusive."
+            },
+            {
+                "options": "Herkunft",
+                "nuance": "General term for origin, less specific but very accessible and widely understandable."
+            }
+        ]
+    },
+    {
+        "word": "theism",
+        "sensitivity_rating": 0.3,
+        "definition": "The belief in the existence of a god or gods, specifically of a creator who intervenes in the universe.",
+        "translation_options": [
+            {
+                "options": "Theismus",
+                "nuance": "Direct translation, used in philosophical and theological discussions."
+            },
+            {
+                "options": "Gottesglaube",
+                "nuance": "Emphasizes belief in God, accessible and widely understandable."
+            },
+            {
+                "options": "Mono-/Polytheismus",
+                "nuance": "Specifies the number of deities believed in, useful for clarity in discussions on religious beliefs."
+            },
+            {
+                "options": "Religi\u00f6ser Glaube",
+                "nuance": "Broad term for religious belief, inclusive of various forms of theism and other religious beliefs."
+            }
+        ]
+    },
+    {
+        "word": "antisemitic",
+        "sensitivity_rating": 0.9,
+        "definition": "Exhibiting or characterized by antisemitism, which is hostility to, prejudice, or discrimination against Jews.",
+        "translation_options": [
+            {
+                "options": "antisemitisch",
+                "nuance": "Direct translation, used in contexts discussing prejudice or hostility towards Jewish people."
+            },
+            {
+                "options": "judenfeindlich",
+                "nuance": "Emphasizes hostility specifically towards Jewish individuals, used in more specific contexts of antisemitism."
+            },
+            {
+                "options": "von Judenhass gepr\u00e4gt",
+                "nuance": "Descriptive, highlighting the presence of Jewish hatred in attitudes or actions."
+            },
+            {
+                "options": "antisemitische Einstellung",
+                "nuance": "Focuses on the mindset or attitude, suitable for discussions on ideological aspects."
+            }
+        ]
+    },
+    {
+        "word": "interfaith",
+        "sensitivity_rating": 0.2,
+        "definition": "Pertaining to, involving, or between different religions or members of different religions.",
+        "translation_options": [
+            {
+                "options": "interreligi\u00f6s",
+                "nuance": "Direct translation, used to describe interactions or relationships between different religions."
+            },
+            {
+                "options": "zwischen verschiedenen Glaubensrichtungen",
+                "nuance": "Descriptive, emphasizing the diversity of faiths involved in the interaction."
+            },
+            {
+                "options": "konfessions\u00fcbergreifend",
+                "nuance": "Focuses more on different Christian denominations but can be used in a broader religious context."
+            },
+            {
+                "options": "religions\u00fcbergreifend",
+                "nuance": "Similar to 'interreligi\u00f6s', but with a broader implication, encompassing all types of religious practices."
+            }
+        ]
+    },
+    {
+        "word": "fanatically",
+        "sensitivity_rating": 0.6,
+        "definition": "With excessive and single-minded zeal or enthusiasm, often in a way that is uncritical or extreme.",
+        "translation_options": [
+            {
+                "options": "fanatisch",
+                "nuance": "Direct translation, indicating extreme enthusiasm or zeal, often with a negative connotation."
+            },
+            {
+                "options": "mit fanatischem Eifer",
+                "nuance": "Descriptive, emphasizing the intensity and possibly blind devotion to a cause or belief."
+            },
+            {
+                "options": "extremistisch",
+                "nuance": "Highlights the extreme nature of the zeal, suitable for political or religious contexts."
+            },
+            {
+                "options": "leidenschaftlich",
+                "nuance": "A softer alternative, focusing on passion rather than extremism, suitable for less sensitive contexts."
+            }
+        ]
+    },
+    {
+        "word": "syrians",
+        "sensitivity_rating": 0.3,
+        "definition": "People from Syria or of Syrian descent.",
+        "translation_options": [
+            {
+                "options": "Syrer",
+                "nuance": "Direct translation, referring to individuals from Syria or of Syrian heritage."
+            },
+            {
+                "options": "syrische Menschen",
+                "nuance": "Emphasizes the humanity of the individuals, promoting a more respectful and inclusive language."
+            },
+            {
+                "options": "Personen syrischer Herkunft",
+                "nuance": "Focuses on the heritage aspect, suitable for contexts discussing diaspora or multicultural identity."
+            },
+            {
+                "options": "syrische Staatsangeh\u00f6rige",
+                "nuance": "Legal or formal term, emphasizing citizenship or legal status within Syria."
+            }
+        ]
+    },
+    {
+        "word": "looting",
+        "sensitivity_rating": 0.8,
+        "definition": "The act of stealing goods from a place, typically during a war or riot.",
+        "translation_options": [
+            {
+                "options": "Pl\u00fcnderung",
+                "nuance": "Direct translation, commonly used to describe the act of looting, especially in contexts of conflict."
+            },
+            {
+                "options": "Beute machen",
+                "nuance": "More colloquial, can imply making a profit in an opportunistic or unethical manner."
+            },
+            {
+                "options": "Raub",
+                "nuance": "Emphasizes the criminal aspect of looting, suitable for legal or formal discussions."
+            },
+            {
+                "options": "Auspl\u00fcnderung",
+                "nuance": "Highlights the thoroughness or severity of the looting, often used in historical or extensive damage contexts."
+            }
+        ]
+    },
+    {
+        "word": "expatriate",
+        "sensitivity_rating": 0.3,
+        "definition": "A person who lives outside their native country.",
+        "translation_options": [
+            {
+                "options": "Expatriate",
+                "nuance": "Neutral term, widely used in both English and German without significant sensitivity concerns."
+            },
+            {
+                "options": "Auswanderer",
+                "nuance": "German for emigrant, focuses on the act of leaving one's country, neutral."
+            },
+            {
+                "options": "Auslandsdeutscher",
+                "nuance": "Specific to Germans living abroad, neutral but specific to nationality."
+            },
+            {
+                "options": "Expatriierte",
+                "nuance": "Germanized form of expatriate, neutral and formal."
+            }
+        ]
+    },
+    {
+        "word": "houthi",
+        "sensitivity_rating": 0.7,
+        "definition": "A member of an Islamic political and armed movement in Yemen.",
+        "translation_options": [
+            {
+                "options": "Huthi",
+                "nuance": "Direct translation, used in German media, but sensitive due to association with conflict."
+            },
+            {
+                "options": "Anh\u00e4nger der Huthi-Bewegung",
+                "nuance": "Specifies membership in the movement, slightly more descriptive and neutral."
+            },
+            {
+                "options": "Huthi-Rebellen",
+                "nuance": "Implies opposition to the Yemeni government, sensitive due to 'rebel' connotation."
+            },
+            {
+                "options": "Mitglied der Huthi",
+                "nuance": "Neutral, focusing on individual membership rather than the group's actions."
+            }
+        ]
+    },
+    {
+        "word": "jewishness",
+        "sensitivity_rating": 0.6,
+        "definition": "The quality or character of being Jewish; Jewish identity or culture.",
+        "translation_options": [
+            {
+                "options": "J\u00fcdischsein",
+                "nuance": "Direct translation, neutral but sensitive due to historical and ongoing discrimination."
+            },
+            {
+                "options": "j\u00fcdische Identit\u00e4t",
+                "nuance": "Focuses on identity aspect, neutral and respectful."
+            },
+            {
+                "options": "j\u00fcdische Kultur",
+                "nuance": "Emphasizes cultural aspects, neutral and inclusive."
+            },
+            {
+                "options": "Judentum",
+                "nuance": "Refers broadly to Judaism, including religion, culture, and identity, neutral."
+            }
+        ]
+    },
+    {
+        "word": "azerbaijani",
+        "sensitivity_rating": 0.2,
+        "definition": "Pertaining to Azerbaijan or its people, language, or culture.",
+        "translation_options": [
+            {
+                "options": "Aserbaidschanisch",
+                "nuance": "Refers to the language or nationality, neutral."
+            },
+            {
+                "options": "Aserbaidschaner",
+                "nuance": "Refers to a person from Azerbaijan, neutral."
+            },
+            {
+                "options": "aus Aserbaidschan",
+                "nuance": "Descriptive, indicating origin, neutral."
+            },
+            {
+                "options": "Aserbaidschanische Kultur",
+                "nuance": "Refers to the culture of Azerbaijan, neutral and respectful."
+            }
+        ]
+    },
+    {
+        "word": "copts",
+        "sensitivity_rating": 0.5,
+        "definition": "Members of the Christian Orthodox Church of Egypt.",
+        "translation_options": [
+            {
+                "options": "Kopten",
+                "nuance": "Direct translation, neutral but sensitive due to religious and regional tensions."
+            },
+            {
+                "options": "Mitglieder der koptischen Kirche",
+                "nuance": "Specifies membership in the Coptic Church, more descriptive and neutral."
+            },
+            {
+                "options": "\u00e4gyptische Christen",
+                "nuance": "Broad, focusing on religious identity within Egypt, neutral but less specific."
+            },
+            {
+                "options": "Koptisch-Orthodoxe",
+                "nuance": "Emphasizes the specific Christian denomination, neutral and specific."
+            }
+        ]
+    },
+    {
+        "word": "postmodern",
+        "sensitivity_rating": 0.2,
+        "definition": "Postmodern refers to a broad movement that developed in the mid- to late-20th century across philosophy, the arts, architecture, and criticism, marking a departure from modernism. It is characterized by skepticism, irony, and a critical view of grand narratives and ideologies.",
+        "translation_options": [
+            {
+                "options": "postmodern",
+                "nuance": "Direct translation, capturing the broad conceptual and cultural movement without specific sensitivity concerns."
+            },
+            {
+                "options": "postmoderne",
+                "nuance": "German equivalent, suitable for discussions in philosophy, art, and criticism, maintaining the original's broad application."
+            },
+            {
+                "options": "nachmodern",
+                "nuance": "Less common, emphasizes the chronological succession after modernism, potentially missing the movement's critical aspects."
+            },
+            {
+                "options": "sp\u00e4tmodern",
+                "nuance": "Implies a late phase of modernism rather than a distinct movement, potentially misleading."
+            }
+        ]
+    },
+    {
+        "word": "betraying",
+        "sensitivity_rating": 0.6,
+        "definition": "Betraying means to expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy.",
+        "translation_options": [
+            {
+                "options": "verraten",
+                "nuance": "Direct translation, suitable for contexts of treachery or disloyalty, with a strong negative connotation."
+            },
+            {
+                "options": "betr\u00fcgen",
+                "nuance": "Focuses more on the aspect of cheating or deception, less on the act of treachery towards a group or country."
+            },
+            {
+                "options": "hintergehen",
+                "nuance": "Emphasizes the deceitful aspect, suitable for personal betrayals rather than political or military contexts."
+            },
+            {
+                "options": "preisgeben",
+                "nuance": "Literally means 'to give away', can imply betrayal but is softer, used for revealing secrets or information."
+            }
+        ]
+    },
+    {
+        "word": "sociologists",
+        "sensitivity_rating": 0.1,
+        "definition": "Sociologists are scientists who study society and social behavior by examining the groups, cultures, organizations, social institutions, and processes that people develop.",
+        "translation_options": [
+            {
+                "options": "Soziologen",
+                "nuance": "Direct translation, gender-specific for male sociologists, widely used in academic and professional contexts."
+            },
+            {
+                "options": "Soziologinnen",
+                "nuance": "Gender-specific for female sociologists, promoting gender awareness in language."
+            },
+            {
+                "options": "Soziolog*innen",
+                "nuance": "Gender-inclusive, using the asterisk to include all genders, aligns with efforts to promote inclusivity."
+            },
+            {
+                "options": "Soziologie Treibende",
+                "nuance": "Neutral and inclusive, focusing on the action of engaging in sociology rather than the gender of the sociologist."
+            }
+        ]
+    },
+    {
+        "word": "bolshevik",
+        "sensitivity_rating": 0.7,
+        "definition": "Bolshevik refers to a member of the majority faction of the Russian Social Democratic Party, which was renamed the Communist Party after seizing power in the October Revolution of 1917.",
+        "translation_options": [
+            {
+                "options": "Bolschewik",
+                "nuance": "Direct translation, suitable for historical contexts, but may carry different connotations based on the audience's perspective on communism."
+            },
+            {
+                "options": "Bolschewist",
+                "nuance": "Similar to 'Bolschewik', but sometimes used to emphasize ideology over membership in the party."
+            },
+            {
+                "options": "Kommunist",
+                "nuance": "Broader term, less specific but avoids the historical specificity and potential negative connotations of 'Bolschewik'."
+            },
+            {
+                "options": "Mitglied der kommunistischen Partei",
+                "nuance": "Descriptive and neutral, specifying membership in the communist party without the historical baggage of 'Bolschewik'."
+            }
+        ]
+    },
+    {
+        "word": "understandings",
+        "sensitivity_rating": 0.2,
+        "definition": "Understandings refer to the ability to comprehend or grasp the meaning of something, or the mutual comprehension between people.",
+        "translation_options": [
+            {
+                "options": "Verst\u00e4ndnisse",
+                "nuance": "Direct translation, suitable for general use, emphasizing the plural form of comprehension or agreements."
+            },
+            {
+                "options": "Auffassungen",
+                "nuance": "Emphasizes the aspect of perception or interpretation, suitable for discussions about differing viewpoints."
+            },
+            {
+                "options": "Einsichten",
+                "nuance": "Focuses on insights or deeper understanding, suitable for contexts involving profound comprehension."
+            },
+            {
+                "options": "\u00dcbereink\u00fcnfte",
+                "nuance": "Refers to agreements or concords, emphasizing mutual understanding or arrangements between parties."
+            }
+        ]
+    },
+    {
+        "word": "newyorkbrad",
+        "sensitivity_rating": 0.1,
+        "definition": "A specific username, likely referring to an individual. Without context, it seems to be a non-sensitive, personal identifier.",
+        "translation_options": [
+            {
+                "options": [
+                    {
+                        "nuance": "Direct transliteration in German, retaining the original meaning without cultural or sensitive implications."
+                    },
+                    {
+                        "nuance": "Use of a generic placeholder when discussing online identities to maintain privacy."
+                    },
+                    {
+                        "nuance": "Adaptation to a culturally equivalent username in German-speaking contexts, if relevant."
+                    },
+                    {
+                        "nuance": "Retention of the original username in discussions about digital culture or legal matters, emphasizing the importance of accurate representation."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "lobbyists",
+        "sensitivity_rating": 0.4,
+        "definition": "Individuals engaged in lobbying, which is the act of attempting to influence decisions made by officials in the government, often regarded with skepticism due to potential conflicts of interest.",
+        "translation_options": [
+            {
+                "options": [
+                    {
+                        "nuance": "Direct translation to 'Lobbyisten', maintaining the original connotation of political influence."
+                    },
+                    {
+                        "nuance": "Use of 'Interessenvertreter' to emphasize the representation of specific interests without the negative connotation."
+                    },
+                    {
+                        "nuance": "Employment of 'Einflussnehmer' to highlight the aspect of influence, potentially carrying a more neutral or even negative connotation."
+                    },
+                    {
+                        "nuance": "Adoption of 'Politikberater' for a more neutral term, focusing on the advisory role rather than the act of lobbying."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "homeopaths",
+        "sensitivity_rating": 0.3,
+        "definition": "Practitioners of homeopathy, an alternative medicine system. The practice is controversial, with debates around its efficacy and scientific basis.",
+        "translation_options": [
+            {
+                "options": [
+                    {
+                        "nuance": "Direct translation to 'Hom\u00f6opathen', maintaining the original meaning and controversy."
+                    },
+                    {
+                        "nuance": "Use of 'Alternativmediziner' to place them within the broader context of alternative medicine, potentially lessening the focus on controversy."
+                    },
+                    {
+                        "nuance": "Employment of 'Naturheilkundler' to emphasize natural healing methods, offering a more positive connotation."
+                    },
+                    {
+                        "nuance": "Adoption of 'Komplement\u00e4rmediziner' to highlight their role in complementing traditional medicine, suggesting a more integrative approach."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "sultana",
+        "sensitivity_rating": 0.2,
+        "definition": "Historically, a title used in the Ottoman Empire for female members of the royal family. It can also refer to a type of raisin.",
+        "translation_options": [
+            {
+                "options": [
+                    {
+                        "nuance": "Direct translation to 'Sultana', maintaining the historical and cultural context."
+                    },
+                    {
+                        "nuance": "Use of 'F\u00fcrstin' or 'Prinzessin' for a European equivalent, adapting the royal connotation."
+                    },
+                    {
+                        "nuance": "Employment of 'Rosine' when referring to the type of raisin, to avoid confusion with the historical title."
+                    },
+                    {
+                        "nuance": "Adoption of 'Ottomanische Prinzessin' for clarity and specificity when discussing historical figures."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "chauvinist",
+        "sensitivity_rating": 0.7,
+        "definition": "A person displaying aggressive or exaggerated patriotism; often used to describe someone with a prejudiced belief in the superiority of their own kind, including gender chauvinism.",
+        "translation_options": [
+            {
+                "options": [
+                    {
+                        "nuance": "Direct translation to 'Chauvinist', carrying the negative connotations of prejudice and superiority."
+                    },
+                    {
+                        "nuance": "Use of 'Nationalist' to emphasize the aspect of aggressive patriotism, though it may not fully capture gender-based chauvinism."
+                    },
+                    {
+                        "nuance": "Employment of 'Machist' to specifically address male chauvinism, aligning with discussions on gender equality."
+                    },
+                    {
+                        "nuance": "Adoption of '\u00dcberzeugter Patriot' for a slightly softer connotation, focusing on patriotism but potentially underplaying the negative aspects."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "hygiene",
+        "sensitivity_rating": 0.3,
+        "definition": "Hygiene refers to conditions and practices that help to maintain health and prevent the spread of diseases.",
+        "translation_options": [
+            {
+                "options": "Hygiene",
+                "nuance": "Direct translation, neutral in most contexts but can be sensitive when linked to racial stereotypes or discussions."
+            },
+            {
+                "options": "Gesundheitsvorsorge",
+                "nuance": "Focuses more on health maintenance, less direct but avoids potential negative connotations."
+            },
+            {
+                "options": "Sauberkeit",
+                "nuance": "Emphasizes cleanliness, can be used in everyday contexts but may carry unintended implications in racial discussions."
+            },
+            {
+                "options": "Reinlichkeit",
+                "nuance": "Similar to 'Sauberkeit', with a focus on cleanliness, potentially less harsh sounding."
+            }
+        ]
+    },
+    {
+        "word": "apologetic",
+        "sensitivity_rating": 0.5,
+        "definition": "Showing or feeling regret for wrongdoing, often without an admission of guilt.",
+        "translation_options": [
+            {
+                "options": "entschuldigend",
+                "nuance": "Direct translation, suitable for general use but may lack the depth of remorse in contexts of antisemitism."
+            },
+            {
+                "options": "reuevoll",
+                "nuance": "Conveys a sense of remorse, more appropriate in serious contexts like discussions on antisemitism."
+            },
+            {
+                "options": "bedauernd",
+                "nuance": "Implies regret, a softer option that may not fully capture the gravity in sensitive contexts."
+            },
+            {
+                "options": "um Vergebung bittend",
+                "nuance": "Explicitly seeking forgiveness, strong and direct in addressing wrongs, suitable for serious apologies."
+            }
+        ]
+    },
+    {
+        "word": "stigmatize",
+        "sensitivity_rating": 0.8,
+        "definition": "To mark or brand someone or something as disgraceful or worthy of disapproval.",
+        "translation_options": [
+            {
+                "options": "stigmatisieren",
+                "nuance": "Direct translation, carries a strong negative connotation, use with caution in sensitive contexts."
+            },
+            {
+                "options": "brandmarken",
+                "nuance": "Very strong, implies a severe judgment, potentially exacerbating sensitivity in discussions on interracial topics."
+            },
+            {
+                "options": "diskreditieren",
+                "nuance": "Less harsh than 'stigmatisieren', but still implies disapproval, use carefully."
+            },
+            {
+                "options": "in Verruf bringen",
+                "nuance": "Softer than 'stigmatisieren', focuses on reputation, suitable for less severe contexts."
+            }
+        ]
+    },
+    {
+        "word": "connotations",
+        "sensitivity_rating": 0.4,
+        "definition": "The ideas or feelings that a word invokes in addition to its literal or primary meaning.",
+        "translation_options": [
+            {
+                "options": "Konnotationen",
+                "nuance": "Direct translation, neutral and suitable for academic or analytical discussions on language."
+            },
+            {
+                "options": "Nebenbedeutungen",
+                "nuance": "Emphasizes the secondary meanings, suitable for detailed analysis of language."
+            },
+            {
+                "options": "Beikl\u00e4nge",
+                "nuance": "Focuses on the subtle implications, a softer option for discussing sensitive topics."
+            },
+            {
+                "options": "Assoziationen",
+                "nuance": "Highlights the associative aspect, suitable for exploring personal or cultural implications of words."
+            }
+        ]
+    },
+    {
+        "word": "revisionism",
+        "sensitivity_rating": 0.7,
+        "definition": "The act of revising or advocating for the revision of an accepted theory, doctrine, or history, often with controversial implications.",
+        "translation_options": [
+            {
+                "options": "Revisionismus",
+                "nuance": "Direct translation, carries a weight of controversy, especially in historical and antisemitic contexts."
+            },
+            {
+                "options": "Geschichtsrevisionismus",
+                "nuance": "Specifies historical revisionism, suitable for academic contexts but sensitive in discussions of Holocaust denial."
+            },
+            {
+                "options": "Neubewertung",
+                "nuance": "Softer, implies re-evaluation without the negative connotations, but may not capture the full gravity in certain contexts."
+            },
+            {
+                "options": "Umdeutung",
+                "nuance": "Implies reinterpretation, can be neutral or negative depending on context, use with awareness of potential sensitivities."
+            }
+        ]
+    },
+    {
+        "word": "antisemtism",
+        "sensitivity_rating": 1.0,
+        "definition": "Antisemitism refers to prejudice, hostility, or discrimination against Jews as a religious or racial group. It is a form of racism that has historical roots and has led to devastating consequences, including the Holocaust.",
+        "translation_options": [
+            {
+                "options": "Antisemitismus",
+                "nuance": "Direct translation, captures the full sensitivity and historical context of discrimination against Jews."
+            },
+            {
+                "options": "Judenfeindlichkeit",
+                "nuance": "Focuses more on hostility towards Jews, emphasizing the aspect of animosity."
+            },
+            {
+                "options": "Judenhetze",
+                "nuance": "Implies incitement against Jews, highlighting the aspect of active aggression."
+            },
+            {
+                "options": "Antij\u00fcdisch",
+                "nuance": "Adjective form, useful for describing actions or sentiments that are anti-Jewish."
+            }
+        ]
+    },
+    {
+        "word": "orientated",
+        "sensitivity_rating": 0.2,
+        "definition": "Orientated means aligned or directed towards something. In the context of diversity, it can refer to efforts or policies designed to accommodate or promote a diverse set of cultures, perspectives, and backgrounds.",
+        "translation_options": [
+            {
+                "options": "ausgerichtet",
+                "nuance": "General translation, suitable for various contexts, including diversity orientation."
+            },
+            {
+                "options": "orientiert",
+                "nuance": "Similar to 'ausgerichtet', but with a slight emphasis on the process of orientation."
+            },
+            {
+                "options": "auf Vielfalt ausgerichtet",
+                "nuance": "Specifically denotes orientation towards diversity, emphasizing inclusivity."
+            },
+            {
+                "options": "diversit\u00e4tsorientiert",
+                "nuance": "Directly combines 'diversity' with 'oriented', highlighting a proactive approach to diversity."
+            }
+        ]
+    },
+    {
+        "word": "israelites",
+        "sensitivity_rating": 0.6,
+        "definition": "Israelites historically refers to the ancient Hebrew people of Israel. The term can be sensitive due to its religious and ethnic connotations, especially when discussing historical events like slavery.",
+        "translation_options": [
+            {
+                "options": "Israeliten",
+                "nuance": "Direct translation, suitable for historical and religious contexts."
+            },
+            {
+                "options": "Hebr\u00e4er",
+                "nuance": "Another term for ancient Israelites, emphasizing their linguistic and cultural heritage."
+            },
+            {
+                "options": "J\u00fcdische Vorfahren",
+                "nuance": "Focuses on the aspect of ancestry, suitable for discussions about heritage and lineage."
+            },
+            {
+                "options": "Altes Volk Israel",
+                "nuance": "Emphasizes the historical aspect, suitable for discussions on ancient civilizations."
+            }
+        ]
+    },
+    {
+        "word": "complexities",
+        "sensitivity_rating": 0.1,
+        "definition": "Complexities refer to the state of being complex, intricate, or complicated. It can be used to describe situations, systems, or ideas that are not easily understood or resolved.",
+        "translation_options": [
+            {
+                "options": "Komplexit\u00e4ten",
+                "nuance": "Direct translation, suitable for a wide range of contexts where complexity is discussed."
+            },
+            {
+                "options": "Schwierigkeiten",
+                "nuance": "Emphasizes the challenging aspect of complexities, suitable for problem-focused discussions."
+            },
+            {
+                "options": "Vielschichtigkeit",
+                "nuance": "Highlights the multi-layered nature of complexities, suitable for nuanced discussions."
+            },
+            {
+                "options": "Kompliziertheit",
+                "nuance": "Focuses on the intricate and complicated nature, suitable for technical or detailed discussions."
+            }
+        ]
+    },
+    {
+        "word": "polisario",
+        "sensitivity_rating": 0.8,
+        "definition": "Polisario refers to the Polisario Front, a Sahrawi rebel national liberation movement aiming to end Moroccan presence in Western Sahara. The term is sensitive due to the ongoing conflict and political implications.",
+        "translation_options": [
+            {
+                "options": "Polisario-Front",
+                "nuance": "Direct translation, maintains the political and historical context of the movement."
+            },
+            {
+                "options": "Sahrauische Befreiungsbewegung",
+                "nuance": "Describes the movement as Sahrawi liberation, emphasizing its goals and ethnic identity."
+            },
+            {
+                "options": "Widerstandsbewegung in Westsahara",
+                "nuance": "Focuses on the aspect of resistance, suitable for discussions on the conflict in Western Sahara."
+            },
+            {
+                "options": "Polisario",
+                "nuance": "Retains the original name, suitable for contexts where the movement is already known."
+            }
+        ]
+    },
+    {
+        "word": "phoenician",
+        "sensitivity_rating": 0.2,
+        "definition": "Relating to Phoenicia, an ancient civilization in the eastern Mediterranean, or its people.",
+        "translation_options": [
+            {
+                "options": "Ph\u00f6nizier",
+                "nuance": "Neutral historical reference to the people of ancient Phoenicia."
+            },
+            {
+                "options": "ph\u00f6nizisch",
+                "nuance": "Adjective form, used when referring to the language, culture, or artifacts."
+            },
+            {
+                "options": "aus Ph\u00f6nizien",
+                "nuance": "Used to describe something or someone originating from Phoenicia."
+            },
+            {
+                "options": "der Ph\u00f6nizier",
+                "nuance": "Masculine form, specifically referring to a male individual from Phoenicia."
+            }
+        ]
+    },
+    {
+        "word": "macpherson",
+        "sensitivity_rating": 0.1,
+        "definition": "A Scottish surname, potentially referring to a person, place, or entity named MacPherson.",
+        "translation_options": [
+            {
+                "options": "MacPherson",
+                "nuance": "Direct transliteration, maintaining the original form for names and titles."
+            },
+            {
+                "options": "Clan MacPherson",
+                "nuance": "Refers specifically to the Scottish clan, emphasizing historical and cultural context."
+            },
+            {
+                "options": "Familie MacPherson",
+                "nuance": "Used when referring to the MacPherson family in a broader, non-clan context."
+            },
+            {
+                "options": "Herr/Frau MacPherson",
+                "nuance": "Formal address for individuals with the surname, specifying gender."
+            }
+        ]
+    },
+    {
+        "word": "moravian",
+        "sensitivity_rating": 0.3,
+        "definition": "Pertaining to Moravia, a region in the Czech Republic, or its people. Can also refer to the Moravian Church, a Christian denomination.",
+        "translation_options": [
+            {
+                "options": "M\u00e4hrer",
+                "nuance": "Refers to a person from Moravia, emphasizing geographical origin."
+            },
+            {
+                "options": "m\u00e4hrisch",
+                "nuance": "Adjective form, used when referring to the culture, language, or aspects of Moravia."
+            },
+            {
+                "options": "Herrnhuter Br\u00fcdergemeine",
+                "nuance": "Specific to the Moravian Church, highlighting its religious context."
+            },
+            {
+                "options": "aus M\u00e4hren",
+                "nuance": "Used to describe something or someone originating from Moravia."
+            }
+        ]
+    },
+    {
+        "word": "tunisians",
+        "sensitivity_rating": 0.7,
+        "definition": "Referring to the people of Tunisia, a country in North Africa.",
+        "translation_options": [
+            {
+                "options": "Tunesier",
+                "nuance": "Neutral term for people from Tunisia."
+            },
+            {
+                "options": "tunesisch",
+                "nuance": "Adjective form, used when referring to the culture, language, or nationality."
+            },
+            {
+                "options": "die Bev\u00f6lkerung Tunesiens",
+                "nuance": "Refers to the population of Tunisia, emphasizing a collective demographic aspect."
+            },
+            {
+                "options": "Staatsangeh\u00f6rige Tunesiens",
+                "nuance": "Formal term for citizens of Tunisia, emphasizing legal nationality."
+            }
+        ]
+    },
+    {
+        "word": "reflective",
+        "sensitivity_rating": 0.2,
+        "definition": "Capable of reflecting light or other radiation. By extension, thoughtful or contemplative.",
+        "translation_options": [
+            {
+                "options": "reflektierend",
+                "nuance": "Literal translation, used in the context of reflecting light."
+            },
+            {
+                "options": "nachdenklich",
+                "nuance": "Used to describe a person who is thoughtful or contemplative."
+            },
+            {
+                "options": "besinnlich",
+                "nuance": "Conveys a sense of deep reflection or contemplation, often with a peaceful aspect."
+            },
+            {
+                "options": "spiegelnd",
+                "nuance": "Used specifically for the physical act of mirroring or reflecting."
+            }
+        ]
+    },
+    {
+        "word": "reverence",
+        "sensitivity_rating": 0.2,
+        "definition": "Deep respect for someone or something.",
+        "translation_options": [
+            {
+                "options": "Ehrfurcht",
+                "nuance": "General use, capturing a deep respect without specific cultural or religious connotations."
+            },
+            {
+                "options": "Verehrung",
+                "nuance": "Suggests a more personal or intimate level of respect, often used in the context of individuals."
+            },
+            {
+                "options": "Respekt",
+                "nuance": "A broader term for respect that can be applied in various contexts, less intense than 'Ehrfurcht'."
+            },
+            {
+                "options": "Andacht",
+                "nuance": "Implies a religious or solemn reverence, suitable for contexts involving worship or deep contemplation."
+            }
+        ]
+    },
+    {
+        "word": "inferiors",
+        "sensitivity_rating": 0.8,
+        "definition": "People considered to be of lower status or quality.",
+        "translation_options": [
+            {
+                "options": "Untergeordnete",
+                "nuance": "Neutral term for individuals in lower positions, typically in hierarchical structures like workplaces."
+            },
+            {
+                "options": "Minderwertige",
+                "nuance": "Highly sensitive and potentially offensive, implying a lower worth of individuals."
+            },
+            {
+                "options": "Unterlegene",
+                "nuance": "Can be used in competitive contexts but may carry implications of inferiority beyond mere ranking."
+            },
+            {
+                "options": "Niedrigere",
+                "nuance": "General term for lower status, but should be used cautiously to avoid reinforcing social hierarchies."
+            }
+        ]
+    },
+    {
+        "word": "enables",
+        "sensitivity_rating": 0.1,
+        "definition": "Gives someone the authority or means to do something.",
+        "translation_options": [
+            {
+                "options": "erm\u00f6glicht",
+                "nuance": "Neutral, indicating the provision of means or opportunity without implying dependency."
+            },
+            {
+                "options": "bef\u00e4higt",
+                "nuance": "Empowering, emphasizes providing someone with the skills or power to do something."
+            },
+            {
+                "options": "erlaubt",
+                "nuance": "Neutral, more about granting permission than providing means or capability."
+            },
+            {
+                "options": "unterst\u00fctzt",
+                "nuance": "Supportive, indicating assistance that enables someone to do something."
+            }
+        ]
+    },
+    {
+        "word": "subjugation",
+        "sensitivity_rating": 0.9,
+        "definition": "The action of bringing someone or something under domination or control.",
+        "translation_options": [
+            {
+                "options": "Unterwerfung",
+                "nuance": "Direct translation, suitable for historical and contemporary contexts of oppression."
+            },
+            {
+                "options": "Beherrschung",
+                "nuance": "Implies control or domination, potentially less direct than 'Unterwerfung'."
+            },
+            {
+                "options": "Knechtung",
+                "nuance": "Highly sensitive, evoking imagery of enslavement and severe oppression."
+            },
+            {
+                "options": "Unterdr\u00fcckung",
+                "nuance": "Broadly used for various forms of oppression, suitable for political and social contexts."
+            }
+        ]
+    },
+    {
+        "word": "rabidly",
+        "sensitivity_rating": 0.6,
+        "definition": "In an extremely aggressive or fanatical manner.",
+        "translation_options": [
+            {
+                "options": "fanatisch",
+                "nuance": "Captures the intensity and zeal without necessarily implying violence."
+            },
+            {
+                "options": "w\u00fctend",
+                "nuance": "Focuses on the anger aspect, suitable for contexts where aggression is a key component."
+            },
+            {
+                "options": "heftig",
+                "nuance": "General term for intensity, can be used in both negative and positive contexts."
+            },
+            {
+                "options": "extrem",
+                "nuance": "Neutral in terms of content, but conveys the degree of intensity."
+            }
+        ]
+    },
+    {
+        "word": "epirus",
+        "sensitivity_rating": 0.2,
+        "definition": "Epirus is a geographical and historical region in southeastern Europe, now divided between Greece and Albania. It is not inherently sensitive but can evoke historical and cultural sensitivities.",
+        "translation_options": [
+            {
+                "options": "Epirus",
+                "nuance": "Direct translation, suitable for most contexts."
+            },
+            {
+                "options": "Region Epirus",
+                "nuance": "Specifies the geographical aspect, neutral."
+            },
+            {
+                "options": "Das historische Epirus",
+                "nuance": "Emphasizes the historical significance, for contexts discussing history."
+            },
+            {
+                "options": "Das antike Epirus",
+                "nuance": "Best for contexts specifically referring to ancient history."
+            }
+        ]
+    },
+    {
+        "word": "rioting",
+        "sensitivity_rating": 0.7,
+        "definition": "Rioting refers to the violent disturbance of the peace by a crowd. It carries sensitivity due to its association with social unrest, often rooted in systemic issues like slavery.",
+        "translation_options": [
+            {
+                "options": "Krawalle",
+                "nuance": "General term, but can carry negative connotations."
+            },
+            {
+                "options": "Aufst\u00e4nde",
+                "nuance": "Implies a more organized form of protest, potentially less pejorative."
+            },
+            {
+                "options": "Unruhen",
+                "nuance": "Neutral term for disturbances, suitable for formal contexts."
+            },
+            {
+                "options": "Stra\u00dfenk\u00e4mpfe",
+                "nuance": "Emphasizes the violent aspect, use with caution."
+            }
+        ]
+    },
+    {
+        "word": "protestantism",
+        "sensitivity_rating": 0.3,
+        "definition": "Protestantism is a form of Christianity that originated with the Reformation. Its mention can be sensitive due to historical conflicts, including antisemitism.",
+        "translation_options": [
+            {
+                "options": "Protestantismus",
+                "nuance": "Direct translation, suitable for most contexts."
+            },
+            {
+                "options": "Die protestantische Kirche",
+                "nuance": "Specifies the religious institution, neutral."
+            },
+            {
+                "options": "Die Reformation",
+                "nuance": "Refers to the historical movement, for historical contexts."
+            },
+            {
+                "options": "Evangelisch",
+                "nuance": "Used in German to refer to Protestant beliefs, suitable for religious contexts."
+            }
+        ]
+    },
+    {
+        "word": "orgs",
+        "sensitivity_rating": 0.4,
+        "definition": "Short for 'organizations', often used in contexts related to social, immigrant, or interracial issues. Sensitivity arises from the political and social implications.",
+        "translation_options": [
+            {
+                "options": "Organisationen",
+                "nuance": "Direct translation, neutral."
+            },
+            {
+                "options": "Vereine",
+                "nuance": "Implies a more community-based or voluntary organization."
+            },
+            {
+                "options": "NGOs",
+                "nuance": "Specific to non-governmental organizations, suitable for certain contexts."
+            },
+            {
+                "options": "Gruppen",
+                "nuance": "More general, can be used when the type of organization is not specified."
+            }
+        ]
+    },
+    {
+        "word": "unwillingness",
+        "sensitivity_rating": 0.5,
+        "definition": "Refers to a lack of willingness or refusal to do something. Can be sensitive in contexts related to ability, implying a choice where there may be none.",
+        "translation_options": [
+            {
+                "options": "Unwilligkeit",
+                "nuance": "Direct translation, suitable for general use but be mindful of context."
+            },
+            {
+                "options": "Ablehnung",
+                "nuance": "Implies a more active refusal, use with caution."
+            },
+            {
+                "options": "Widerwillen",
+                "nuance": "Conveys reluctance, softer than outright refusal."
+            },
+            {
+                "options": "Nichtbereitschaft",
+                "nuance": "Neutral, focusing on the lack of readiness or preparation."
+            }
+        ]
+    },
+    {
+        "word": "antisemites",
+        "sensitivity_rating": 0.9,
+        "definition": "Individuals who hold or express prejudice against Jewish people.",
+        "translation_options": [
+            {
+                "options": "Antisemiten",
+                "nuance": "Direct translation, maintains the sensitivity and specificity of the term."
+            },
+            {
+                "options": "Judenhasser",
+                "nuance": "More colloquial, emphasizes hatred, potentially more inflammatory."
+            },
+            {
+                "options": "antisemitisch eingestellte Personen",
+                "nuance": "More formal, emphasizes the attitude or orientation of the individuals."
+            },
+            {
+                "options": "Antijudaisten",
+                "nuance": "Historical term, might not fully capture the contemporary context or the broadness of antisemitism."
+            }
+        ]
+    },
+    {
+        "word": "diluted",
+        "sensitivity_rating": 0.6,
+        "definition": "Reduced in strength or concentration, often used metaphorically to describe the weakening of cultural or genetic traits.",
+        "translation_options": [
+            {
+                "options": "verd\u00fcnnt",
+                "nuance": "Literal translation, suitable for physical dilution but can be insensitive if applied to cultural or genetic contexts."
+            },
+            {
+                "options": "abgeschw\u00e4cht",
+                "nuance": "Focuses on the aspect of weakening, applicable in both physical and metaphorical contexts."
+            },
+            {
+                "options": "vermischt",
+                "nuance": "Implies mixing or blending, which can be a more neutral or positive way to describe cultural or genetic diversity."
+            },
+            {
+                "options": "aufgeweicht",
+                "nuance": "Conveys a sense of softening or making less strict, which might be less offensive when discussing cultural adaptation."
+            }
+        ]
+    },
+    {
+        "word": "ancestral",
+        "sensitivity_rating": 0.2,
+        "definition": "Relating to, inherited from, or denoting ancestors.",
+        "translation_options": [
+            {
+                "options": "vorfahrenbezogen",
+                "nuance": "Direct translation, neutral and respectful."
+            },
+            {
+                "options": "ahnenbezogen",
+                "nuance": "Similar to 'vorfahrenbezogen', with a slightly more formal or historical connotation."
+            },
+            {
+                "options": "stammesgeschichtlich",
+                "nuance": "Emphasizes lineage or tribal history, suitable for discussions of ethnic or cultural heritage."
+            },
+            {
+                "options": "erblich",
+                "nuance": "Focuses on the hereditary aspect, suitable for biological or genetic contexts."
+            }
+        ]
+    },
+    {
+        "word": "azari",
+        "sensitivity_rating": 0.5,
+        "definition": "Referring to an ethnic group, potentially fictional or historical, with implications of barbarism or primitiveness from the word cloud reference.",
+        "translation_options": [
+            {
+                "options": "Azari",
+                "nuance": "Direct translation, use with caution to avoid perpetuating stereotypes."
+            },
+            {
+                "options": "Angeh\u00f6rige der Azari",
+                "nuance": "Neutral, emphasizes membership in the group without negative connotations."
+            },
+            {
+                "options": "Azari-Volk",
+                "nuance": "Neutral, focuses on the collective aspect of the ethnic group."
+            },
+            {
+                "options": "Azari-Stamm",
+                "nuance": "Can be respectful but might carry unintended implications of primitiveness; context is key."
+            }
+        ]
+    },
+    {
+        "word": "mede",
+        "sensitivity_rating": 0.4,
+        "definition": "Referring to members of an ancient people, often used to describe immigrants or natives in a historical context.",
+        "translation_options": [
+            {
+                "options": "Mede",
+                "nuance": "Direct translation, neutral when referring to the historical group."
+            },
+            {
+                "options": "Angeh\u00f6rige der Meder",
+                "nuance": "More specific, emphasizes the belonging to the ancient people."
+            },
+            {
+                "options": "medische Einwanderer",
+                "nuance": "Contextual, suitable for discussions involving immigration."
+            },
+            {
+                "options": "medische Ureinwohner",
+                "nuance": "Contextual, suitable for discussions involving native populations."
+            }
+        ]
+    },
+    {
+        "word": "infiltration",
+        "sensitivity_rating": 0.7,
+        "definition": "The act of secretly entering or making one's way into a place or group, often with negative connotations.",
+        "translation_options": [
+            {
+                "options": "Infiltration",
+                "nuance": "Direct translation, maintains the negative connotations."
+            },
+            {
+                "options": "Einsickern",
+                "nuance": "Less militaristic or aggressive, but still carries a sense of stealth."
+            },
+            {
+                "options": "Unterwanderung",
+                "nuance": "Emphasizes subversion, suitable for political or social contexts."
+            },
+            {
+                "options": "Eindringen",
+                "nuance": "Neutral, focuses on the act of entering without implying malice."
+            }
+        ]
+    },
+    {
+        "word": "semiticism",
+        "sensitivity_rating": 0.3,
+        "definition": "Attributes, behaviors, or language typical of Semitic peoples, potentially sensitive due to its association with antisemitism.",
+        "translation_options": [
+            {
+                "options": "Semitismus",
+                "nuance": "Direct translation, use with awareness of potential sensitivity."
+            },
+            {
+                "options": "semitische Merkmale",
+                "nuance": "Neutral, focuses on characteristics without implying judgment."
+            },
+            {
+                "options": "semitische Kultur",
+                "nuance": "Emphasizes cultural aspects, more respectful and appreciative."
+            },
+            {
+                "options": "semitische Sprachen",
+                "nuance": "Specific to language, avoids broader cultural or racial implications."
+            }
+        ]
+    },
+    {
+        "word": "rationalism",
+        "sensitivity_rating": 0.1,
+        "definition": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+        "translation_options": [
+            {
+                "options": "Rationalismus",
+                "nuance": "Direct translation, neutral and widely accepted."
+            },
+            {
+                "options": "Vernunftglaube",
+                "nuance": "Emphasizes faith in reason, slightly more philosophical."
+            },
+            {
+                "options": "rationalistische Philosophie",
+                "nuance": "Specifies the philosophical aspect, suitable for academic contexts."
+            },
+            {
+                "options": "Verstandesbetonung",
+                "nuance": "Focuses on the emphasis on intellect, neutral and descriptive."
+            }
+        ]
+    },
+    {
+        "word": "adherent",
+        "sensitivity_rating": 0.2,
+        "definition": "Someone who supports a particular party, person, or set of ideas.",
+        "translation_options": [
+            {
+                "options": "Anh\u00e4nger",
+                "nuance": "Direct translation, neutral and applicable in most contexts."
+            },
+            {
+                "options": "Bef\u00fcrworter",
+                "nuance": "Emphasizes active support, suitable for political or ideological contexts."
+            },
+            {
+                "options": "Gefolgsmann",
+                "nuance": "Historical or formal, implies loyalty but may be gender-specific."
+            },
+            {
+                "options": "Unterst\u00fctzer",
+                "nuance": "Neutral, emphasizes the act of support without specifying the nature of the allegiance."
+            }
+        ]
+    },
+    {
+        "word": "scandinavians",
+        "sensitivity_rating": 0.1,
+        "definition": "People from Scandinavia, a region in Northern Europe, comprising Denmark, Norway, and Sweden.",
+        "translation_options": [
+            {
+                "options": "Skandinavier",
+                "nuance": "Direct translation, neutral and accurate."
+            },
+            {
+                "options": "Nordl\u00e4nder",
+                "nuance": "Broader, includes all Northern European countries, not just Scandinavia."
+            },
+            {
+                "options": "Bewohner Skandinaviens",
+                "nuance": "Emphasizes residency, neutral and precise."
+            },
+            {
+                "options": "skandinavische Menschen",
+                "nuance": "Focuses on the people, neutral and inclusive."
+            }
+        ]
+    },
+    {
+        "word": "antisemites",
+        "sensitivity_rating": 0.9,
+        "definition": "Individuals who hold or express prejudice against Jewish people.",
+        "translation_options": [
+            {
+                "options": "Antisemiten",
+                "nuance": "Direct translation, carries a strong negative connotation and should be used with awareness of its impact."
+            },
+            {
+                "options": "Judenhasser",
+                "nuance": "Literally means 'Jew-haters'. Very strong and explicit, use with caution and understanding of context."
+            },
+            {
+                "options": "antisemitisch eingestellte Personen",
+                "nuance": "More descriptive, 'persons with antisemitic attitudes', can be used to focus on the attitude rather than labeling."
+            },
+            {
+                "options": "Antijudaisten",
+                "nuance": "Older term, less common today, focuses on opposition to Jewish religious practices specifically."
+            }
+        ]
+    },
+    {
+        "word": "diluted",
+        "sensitivity_rating": 0.6,
+        "definition": "Reduced in strength or concentration, often used metaphorically to describe the weakening of cultural or genetic traits.",
+        "translation_options": [
+            {
+                "options": "verd\u00fcnnt",
+                "nuance": "Literal translation, suitable for physical dilution but can be sensitive when applied to culture or genetics."
+            },
+            {
+                "options": "abgeschw\u00e4cht",
+                "nuance": "Means 'weakened', can be used metaphorically for non-physical contexts, less direct than 'verd\u00fcnnt'."
+            },
+            {
+                "options": "verw\u00e4ssert",
+                "nuance": "Similar to 'diluted', but with a connotation of being made less effective or pure, potentially sensitive."
+            },
+            {
+                "options": "gemischt",
+                "nuance": "Means 'mixed', offers a neutral alternative when discussing cultural or genetic diversity."
+            }
+        ]
+    },
+    {
+        "word": "ancestral",
+        "sensitivity_rating": 0.3,
+        "definition": "Relating to, inherited from, or denoting ancestors.",
+        "translation_options": [
+            {
+                "options": "vorfahrenbezogen",
+                "nuance": "Direct translation, emphasizes connection to ancestors, neutral."
+            },
+            {
+                "options": "ahnenbezogen",
+                "nuance": "Similar to 'vorfahrenbezogen', but slightly more formal, also neutral."
+            },
+            {
+                "options": "stammesgeschichtlich",
+                "nuance": "Refers to tribal history, suitable for discussions of ethnic or cultural heritage."
+            },
+            {
+                "options": "erblich",
+                "nuance": "Means 'hereditary', focuses on genetic inheritance, less on cultural aspects."
+            }
+        ]
+    },
+    {
+        "word": "azari",
+        "sensitivity_rating": 0.5,
+        "definition": "Referring to an ethnic group, potentially historical, with implications of cultural and ancestral identity.",
+        "translation_options": [
+            {
+                "options": "Aserbaidschaner",
+                "nuance": "Modern equivalent, if referring to people from Azerbaijan, but use with care to avoid anachronism."
+            },
+            {
+                "options": "Azari",
+                "nuance": "Direct transliteration, appropriate for historical or cultural discussions."
+            },
+            {
+                "options": "Azarier",
+                "nuance": "Germanized form, suitable for historical contexts, but verify accuracy for the specific reference."
+            },
+            {
+                "options": "ethnische Gruppe Azari",
+                "nuance": "Descriptive, emphasizes the ethnic group aspect, neutral and respectful."
+            }
+        ]
+    },
+    {
+        "word": "mede",
+        "sensitivity_rating": 0.4,
+        "definition": "Referring to an ancient people who lived in the northwestern portion of present-day Iran.",
+        "translation_options": [
+            {
+                "options": "Mede",
+                "nuance": "Direct translation, appropriate for historical references."
+            },
+            {
+                "options": "Medier",
+                "nuance": "Germanized form, suitable for historical contexts."
+            },
+            {
+                "options": "Angeh\u00f6rige der Meder",
+                "nuance": "Descriptive, 'members of the Medes', emphasizes the people aspect, respectful."
+            },
+            {
+                "options": "medische St\u00e4mme",
+                "nuance": "Refers to 'Median tribes', suitable for discussions emphasizing tribal structure."
+            }
+        ]
+    },
+    {
+        "word": "infiltration",
+        "sensitivity_rating": 0.8,
+        "definition": "The act of secretly entering or making one's way into a place or group, often with negative connotations.",
+        "translation_options": [
+            {
+                "options": "Infiltration",
+                "nuance": "Direct translation, carries a negative connotation, implying stealth and invasion."
+            },
+            {
+                "options": "Einsickern",
+                "nuance": "Less militaristic, but still implies a subtle, gradual entry, potentially negative."
+            },
+            {
+                "options": "Unterwanderung",
+                "nuance": "Implies subversion, very strong negative connotation, use with awareness of implications."
+            },
+            {
+                "options": "Eindringen",
+                "nuance": "Means 'penetration', strong negative connotation, implies forceful entry."
+            }
+        ]
+    },
+    {
+        "word": "semiticism",
+        "sensitivity_rating": 0.7,
+        "definition": "A linguistic or cultural feature characteristic of Semitic languages or peoples.",
+        "translation_options": [
+            {
+                "options": "Semitismus",
+                "nuance": "Direct translation, neutral when discussing linguistic features, but context is key to avoid misinterpretation."
+            },
+            {
+                "options": "semitische Merkmale",
+                "nuance": "Means 'Semitic features', neutral and specific to linguistic or cultural aspects."
+            },
+            {
+                "options": "semitische Eigenheiten",
+                "nuance": "Similar to 'semitische Merkmale', but 'Eigenheiten' has a nuance of uniqueness or peculiarity."
+            },
+            {
+                "options": "semitische Kultur",
+                "nuance": "Means 'Semitic culture', appropriate for broader cultural discussions, respectful."
+            }
+        ]
+    },
+    {
+        "word": "rationalism",
+        "sensitivity_rating": 0.2,
+        "definition": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+        "translation_options": [
+            {
+                "options": "Rationalismus",
+                "nuance": "Direct translation, neutral term, widely used in philosophical contexts."
+            },
+            {
+                "options": "Vernunftglaube",
+                "nuance": "Literally 'belief in reason', emphasizes faith in rational thought, slightly more nuanced."
+            },
+            {
+                "options": "Rationalit\u00e4t",
+                "nuance": "Means 'rationality', focuses on the quality or state of being rational, less ideological."
+            },
+            {
+                "options": "Verstandesglaube",
+                "nuance": "Similar to 'Vernunftglaube', but 'Verstand' leans more towards intellect than reason."
+            }
+        ]
+    },
+    {
+        "word": "adherent",
+        "sensitivity_rating": 0.3,
+        "definition": "Someone who supports a particular party, person, or set of ideas.",
+        "translation_options": [
+            {
+                "options": "Anh\u00e4nger",
+                "nuance": "Direct translation, neutral term, suitable for various contexts."
+            },
+            {
+                "options": "Bef\u00fcrworter",
+                "nuance": "Means 'supporter', emphasizes active support, slightly more positive."
+            },
+            {
+                "options": "Gefolgsmann",
+                "nuance": "Old-fashioned, 'follower', implies loyalty, use with awareness of historical context."
+            },
+            {
+                "options": "Sympathisant",
+                "nuance": "Means 'sympathizer', less about active support and more about agreement or empathy."
+            }
+        ]
+    },
+    {
+        "word": "scandinavians",
+        "sensitivity_rating": 0.1,
+        "definition": "People from Scandinavia, a region in Northern Europe, including Denmark, Norway, and Sweden.",
+        "translation_options": [
+            {
+                "options": "Skandinavier",
+                "nuance": "Direct translation, neutral term, widely accepted."
+            },
+            {
+                "options": "Nordl\u00e4nder",
+                "nuance": "Means 'Nordic countries' people, broader than 'Skandinavier', includes Finland and Iceland."
+            },
+            {
+                "options": "Menschen aus Skandinavien",
+                "nuance": "Descriptive, 'people from Scandinavia', emphasizes the geographic origin, neutral."
+            },
+            {
+                "options": "Bewohner Skandinaviens",
+                "nuance": "Means 'inhabitants of Scandinavia', similar to 'Menschen aus Skandinavien', neutral and respectful."
+            }
+        ]
+    }
+]

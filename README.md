@@ -56,18 +56,42 @@ This is the file where the key-words of the best performing dimension (based on 
 
 ---------------------------------------------
 #### informative_dimension_approach.py
-This file contains all the functionalities required for the *informative dimension approach*. It applies the best dataset-dimension combination determined earlier, specifically using the Reddit dataset and the "social values" informative dimension. The process involves identifying politically charged temrs similar to those in the Macht Sprache database. Rather than making directly use of single buzzwords, the file calculates an informative axis using the average vector of key buzzwords that represent the spectrum of "progressive social values" and "conservative social values". The selection of these buzzwords was a balance between representativeness for each category and their presence in our embedding space, meaning they had to be part of our used dataset. 
+This file contains all the functionalities required for the *informative dimension approach*. It applies the best dataset-dimension combination determined earlier, specifically using the Reddit dataset and the "social values" informative dimension. The process involves identifying politically charged terms similar to those in the Macht Sprache database. Rather than making directly use of single buzzwords, the file calculates an informative axis using the average vector of key buzzwords that represent the spectrum of "progressive social values" and "conservative social values". The selection of these buzzwords was a balance between representativeness for each category and their presence in our embedding space, meaning they had to be part of our used dataset. 
 
-For each input term from Macht Sprache, the file computes the top 50 most similar terms. These terms are ranked in descending order based on their absolute cosine similarity to the informative axis. From this ranking, the top 10 temrs (i.e., those most closely aligned with one of the ends of the axis) are returned. This approach differs from the initial one as it doesn't use a fixed threshold for sensitivity over all terms. Instead, it depends on the sensitivity score distribution of the most similar temrs for a given Macht Sprache term. The parameter N=50, dictating the number of considered words for the sensitivity rating, greatly influences the output. For words frequently used on non-political contexts like "woke", a higher N value proved beneficial to ensure inclusion of politically loaded terms in the analysis. Converseley, terms with very frequent political connotations like "abortion" yield better results with a lower N. Therefore, N=50 represents a compromise between these two tendencies. 
+For each input term from Macht Sprache, the file computes the top 50 most similar terms. These terms are ranked in descending order based on their absolute cosine similarity to the informative axis. From this ranking, the top 10 terms (i.e., those most closely aligned with one of the ends of the axis) are returned. This approach differs from the initial one as it doesn't use a fixed threshold for sensitivity over all terms. Instead, it depends on the sensitivity score distribution of the most similar terms for a given Macht Sprache term. The parameter N=50, dictating the number of considered words for the sensitivity rating, greatly influences the output. For words frequently used on non-political contexts like "woke", a higher N value proved beneficial to ensure inclusion of politically loaded terms in the analysis. Converseley, terms with very frequent political connotations like "abortion" yield better results with a lower N. Therefore, N=50 represents a compromise between these two tendencies. 
 
 #### sensitive_analysis.csv
 contains all output words found and filtered according to their sensitivity as defined by informative_dimension_approach.py
 
 ---------------------------------------------
-#### gptapi.py (umbenennen zu gpt_api.py)
-#### english.prompt.txt
-#### german.prompt.txt
-#### output.json (umbenennen!)
+### join_csvs.py
+This file contains the functionality to join the output of the buzzwords approach and the informative dimension approach. It takes the two CSV files and returns a list of new sensitive words with their combined sensitivity score. This list is then saved in a CSV file.
+
+---------------------------------------------
+#### gpt_api_calls.py
+This file calls the OpenAI API chat completion models (so far we used GPT3.5 and GPT 4, may also be used with successor model). It takes a list of words (CSV file with the columns similar_word, input word) and returns a dictionary of the words with GPT generated sensitivity score, a definition and 4 translation options and their respective nuance. This dictionary is then saved in a JSON file.
+
+In order to use the OpenAI API, you need to have an API key from OpenAI. This key needs to be stored in a file other than that empty file called "API_KEY" in the same directory as the gpt_api_calls.py file. 
+
+In both the English and German prompt files, the system prompt used for the GPT API calls is stored. The prompt is used to generate the sensitivity score and the definition of the words. The GPT API is called with the prompt and the word to be analyzed. We set the "temperature" parameter of the model low so that the output is consistent. The output is then parsed and stored in a dictionary.	
+
+To not waste resources the number of words we requested the API so far is limited 160 for both English and German. The file can easily be used to produce more word descriptions. Also the system prompt can be changed to produce different outputs. This leaves room for further development and improvement of the system.
+
+#### english_prompt.txt
+The system prompt used for the GPT API calls if output is desired in English. It is used to describe as accurate as possible what the expected output looks like.
+The first Paragraph describes the general task.
+The second and third describes the principles of macht.sprache.
+In the fourth paraqraph the JSON format and its keys of the response are specified, so that the response can be parsed correctly.
+
+#### german_prompt.txt
+The system prompt used for the GPT API calls if output is desired in German. Its structure is equal to the English prompt.
+
+#### gpt_descriptions_english.json
+contains the output of the GPT API calls for the English language.
+"word", "sensitivity_rating", "definition" and "translation_options" are the keys of the dictionary. The values are the words, the sensitivity rating, the definition and the translation options of the words. The translation options are a list of dictionaries with the keys "option" and "nuance". The value of "option" is the translation of the word and the value of "nuance" is the nuance of the translation.
+#### gpt_descriptions_german.json
+contains the output of the GPT API calls for the German language. Structure is equal to the English JSON, just the language of values is German.
+
 ---------------------------------------------
 
 Link to our Miro Board, where you can find our brainstorming and research visualization as well as our presentation: 
@@ -79,11 +103,9 @@ https://miro.com/app/board/uXjVNplZDZk=/?share_link_id=253751004358
 
 # Old branch: 
 gpt.api.ipynb
-join_csvs.py
 microsoft_news.ipynb
 output_english.json 
 political_sensitivity_analysis.csv
 reddit_cloud.ipynb
 similar_wordswith_similarity_value
 social_justice_similarity.ipynb
-

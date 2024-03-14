@@ -159,13 +159,13 @@ def sensitive_dimension_approach():
     """
         
     # Load pretrained word embeddings
-    model = load_embeddings("word2vec_test.model")
+    model = load_embeddings("embeddings_cache/word2vec_test.model")
 
     # Define political dimension
-    dim = load_dimension_from_json("best_dimension.json")
+    dim = load_dimension_from_json("util/best_dimension.json")
 
     # Define words to analyze
-    sensitive_terms, words_missing_in_model = load_sensitive_terms("macht.sprache_words.json", model)
+    sensitive_terms, words_missing_in_model = load_sensitive_terms("util/macht.sprache_words.json", model)
 
     global_similar_words = {}
 
@@ -185,7 +185,7 @@ def sensitive_dimension_approach():
     df = pd.DataFrame(entries, columns=["similar_word", "sensitivity_score", "input_word"])
 
     # Save DataFrame to CSV
-    df.to_csv('output_dimension_approach.csv', index=False)
+    df.to_csv('output/output_dimension_approach.csv', index=False)
  
     print(f"format of results: {df}")
 

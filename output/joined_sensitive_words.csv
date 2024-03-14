@@ -1,0 +1,1381 @@
+similar_word,input_word,sensitivity_score
+discrimination,racial,1.0
+turkic,ethnicity,0.9990569324512977
+syriac,tribe,0.9551445229144574
+tribes,tribe,0.9409720222099413
+mughals,ancestors,0.9404355538108267
+conquered,tribe,0.8931341212505781
+migrated,ancestors,0.8891783200353971
+descendants,ancestors,0.8879668241850168
+persia,ancestors,0.8821287699148402
+isan,ethnicity,0.8784312738292083
+duklja,tribe,0.8683905801703424
+descended,ancestors,0.8407104233167175
+avars,slaves,0.8038716325633721
+saxons,natives,0.7844043843548077
+profiling,racial,0.7838541666666665
+radicalism,foreign,0.7734374999999998
+extremism,"racial, antisemitism",0.7499999999999998
+repression,homeland,0.7499999999999998
+virulent,antisemitism,0.7499999999999998
+oppression,slavery,0.7343750000000001
+discriminatory,racial,0.7343750000000001
+totalitarianism,homeland,0.7317708333333334
+ideologically,racial,0.7291666666666667
+neoliberal,foreign,0.703125
+eugenics,"racial, antisemitism",0.6979166666666667
+repressive,slavery,0.6953125
+stereotyping,"racial, gentile",0.6953125
+principle,spirit,0.6936738863995543
+fanaticism,"racial, gentile",0.6796875
+ethnocentrism,interracial,0.671875
+fundamentalism,"slavery, antisemitism",0.671875
+socio,diversity,0.6692708333333334
+zionism,antisemitism,0.6614583333333334
+ideologies,racial,0.65625
+clerics,"interracial, enslavement",0.65625
+predominance,"racial, interracial",0.6484375
+xenophobic,racial,0.6484375
+againist,racial,0.6432291666666666
+militarism,"interracial, enslavement",0.6432291666666666
+racialism,"antisemitism, interracial, gentile",0.640625
+islamism,antisemitism,0.6380208333333333
+monarchical,foreign,0.6380208333333333
+genocidal,gentile,0.6354166666666666
+misogynistic,interracial,0.6354166666666666
+dictatorships,slavery,0.6328125
+ethnic,"racial, ethnicity",0.6237796800852523
+diametrically,diversity,0.6197916666666666
+tehran,slaves,0.6178320662496221
+socioeconomic,"racial, slavery",0.6145833333333333
+militancy,homeland,0.6119791666666666
+supremacy,"racial, white",0.6119791666666666
+ethnocentric,"racial, antisemitism, gentile",0.6067708333333333
+xenophobia,antisemitism,0.6041666666666666
+finnish,foreign,0.600629093931003
+pioneering,diversity,0.5989583333333333
+ethnolect,foreign,0.5989583333333333
+americanism,antisemitism,0.5963541666666666
+symbology,enslavement,0.5963541666666666
+conflate,racial,0.5937499999999999
+philology,antisemitism,0.5937499999999999
+unalienable,slavery,0.5885416666666666
+supremacism,gentile,0.5859374999999999
+reforms,slavery,0.5807291666666666
+rcanderlori,racial,0.5807291666666666
+governmental,foreign,0.5807291666666666
+fervor,gentile,0.5755208333333333
+transphobic,racial,0.5755208333333333
+atrocity,slavery,0.5755208333333333
+staunch,gentile,0.5729166666666666
+characterise,"diversity, seminal",0.5729166666666666
+secularism,slavery,0.5703124999999999
+capacities,diversity,0.5703124999999999
+ethno,"racial, ethnicity",0.5689999393514861
+perjorative,antisemitism,0.5677083333333333
+constituting,"immigrant, nation",0.5651041666666666
+arabism,antisemitism,0.5624999999999999
+progressives,slavery,0.5624999999999999
+orientations,"racial, interracial",0.5624999999999999
+mordor,gentile,0.5624999999999999
+paganism,racial,0.5624999999999999
+tibetans,"immigrant, natives",0.5606076367207932
+reinforces,racial,0.5546874999999999
+legalization,interracial,0.5520833333333333
+houthis,"interracial, enslavement",0.5520833333333333
+sensationalism,respectability,0.5520833333333333
+reeks,antisemitism,0.5520833333333333
+anycase,antisemitism,0.5494791666666665
+marxists,gentile,0.5494791666666665
+demonization,enslavement,0.5494791666666665
+safavids,"tribe, ethnicity, ancestors",0.5455729166666666
+amren,diversity,0.5442708333333333
+inhabited,"natives, ancestors",0.5428937424783562
+manchu,foreign,0.542616172596703
+influencing,diversity,0.5416666666666665
+militaristic,interracial,0.5390624999999999
+excesses,interracial,0.5390624999999999
+atheistic,mankind,0.5390624999999999
+iranic,"ethnicity, nation, natives, ancestors",0.5374529514423759
+maldives,foreign,0.5373265693820868
+geopolitical,nation,0.5364583333333333
+separatists,immigrant,0.5364583333333333
+essentialist,"racial, diversity",0.5338541666666665
+pederasty,antisemitism,0.5338541666666665
+ethnicity,gender,0.5323260508308064
+theism,antisemitism,0.5312499999999999
+antisemitic,antisemitism,0.5312499999999999
+interfaith,slavery,0.5312499999999999
+fanatically,gentile,0.5286458333333333
+syrians,"tribe, ancestors",0.526618257397187
+looting,enslavement,0.5260416666666665
+expatriate,"immigrant, homeland, migrants",0.5234374999999999
+houthi,"homeland, migrants",0.5234374999999999
+jewishness,"racial, immigrant",0.5234374999999999
+azerbaijani,ethnicity,0.5226153271606545
+copts,enslavement,0.5208333333333333
+postmodern,diversity,0.5182291666666665
+betraying,gentile,0.5182291666666665
+sociologists,racial,0.5182291666666665
+bolshevik,"homeland, refugee",0.5156249999999999
+understandings,diversity,0.5156249999999999
+newyorkbrad,madam,0.5137947033234196
+lobbyists,interracial,0.5130208333333331
+homeopaths,diversity,0.5130208333333331
+sultana,spinster,0.5119918231047639
+chauvinist,racial,0.5104166666666665
+hygiene,racial,0.5104166666666665
+apologetic,antisemitism,0.5104166666666665
+stigmatize,interracial,0.5104166666666665
+connotations,racial,0.5104166666666665
+revisionism,antisemitism,0.5052083333333331
+antisemtism,"antisemitism, gentile",0.5052083333333331
+orientated,diversity,0.5052083333333331
+israelites,"slaves, natives, ancestors",0.5046184512734772
+complexities,mastery,0.5026041666666665
+polisario,foreign,0.5026041666666665
+phoenician,"oriental, tribe",0.5013751377023898
+macpherson,chief,0.5009017237970425
+moravian,spinster,0.5007551617651552
+tunisians,"racial, immigrant, ethnicity, enslavement, ancestors",0.500294104606097
+reflective,diversity,0.49999999999999983
+reverence,interracial,0.49999999999999983
+inferiors,enslavement,0.49999999999999983
+enables,ability,0.49907417767815465
+subjugation,"homeland, migrants",0.4973958333333332
+rabidly,gentile,0.4973958333333332
+epirus,tribe,0.4949460144798838
+rioting,slavery,0.4947916666666665
+protestantism,antisemitism,0.4947916666666665
+orgs,"immigrant, interracial",0.4947916666666665
+unwillingness,ability,0.4922695844336311
+antisemites,"antisemitism, gentile",0.49218749999999983
+diluted,"immigrant, migrants",0.49218749999999983
+ancestral,"tribe, ancestors",0.49217090380210826
+azari,"nation, ethnicity, barbarian, ancestors",0.49215307230286076
+mede,"immigrant, natives, ancestors",0.49077315833519153
+infiltration,refugee,0.4895833333333332
+semiticism,antisemitism,0.4895833333333332
+rationalism,slavery,0.4895833333333332
+adherent,interracial,0.4895833333333332
+scandinavians,interracial,0.4869791666666665
+rudest,mistress,0.48678387030490494
+germanic,ethnicity,0.485249733453929
+colonialist,"homeland, interracial, enslavement",0.48437499999999983
+independance,slavery,0.48437499999999983
+anatolian,"oriental, natives, ancestors",0.4836743572511716
+sava,barbarian,0.48298902454039094
+slurs,racial,0.48177083333333315
+commonalities,diversity,0.48177083333333315
+undercut,mastery,0.48177083333333315
+linguistically,"ethnicity, natives",0.48177083333333315
+caucasian,"racial, ethnicity, white",0.4814914440942444
+addiction,disability,0.4806681902787268
+predominately,"racial, immigrant",0.4804487836107232
+orientation,gender,0.4791666666666665
+conflates,interracial,0.4791666666666665
+interracial,racial,0.4791666666666665
+remarriage,slavery,0.4791666666666665
+holodomor,slavery,0.47914110794333964
+incentive,ability,0.4770488426929824
+draconian,spirit,0.476826849590894
+compels,spirit,0.47656249999999983
+mithras,enslavement,0.47395833333333315
+marrying,slaves,0.47281410179975375
+smiljan,spinster,0.47207534912924454
+mongols,"tribe, ethnicity, natives, ancestors",0.4715308817164223
+peppered,antisemitism,0.4713541666666665
+blinding,mastery,0.46874999999999983
+nazism,antisemitism,0.46874999999999983
+gentiles,gentile,0.46874999999999983
+swedes,"immigrant, natives",0.4678378925560479
+hazard,ability,0.46678973935579066
+ascribes,one,0.46614583333333315
+acquiring,ability,0.46438353002298444
+obsessions,mastery,0.46354166666666646
+halakha,gentile,0.46354166666666646
+moroccans,"immigrant, enslavement",0.46354166666666646
+revolutionaries,homeland,0.46354166666666646
+thracians,racial,0.4625251059194742
+glorification,gentile,0.46093749999999983
+stereotypes,racial,0.46093749999999983
+omnipresent,nation,0.46093749999999983
+immigrants,immigrant,0.46014717378951286
+assyria,"oriental, nation",0.4590390319524789
+expansionist,enslavement,0.45833333333333315
+wahabis,homeland,0.45833333333333315
+chauvinists,"gentile, interracial, enslavement",0.457993669553443
+sociological,diversity,0.45572916666666646
+fundamentalist,antisemitism,0.45572916666666646
+classifier,racial,0.45572916666666646
+focussed,seminal,0.45572916666666646
+disarm,refugee,0.45572916666666646
+mestizo,"natives, racial, immigrant, ethnicity, white",0.45536905590811466
+foibe,enslavement,0.454200221347526
+prevention,disability,0.45381499804389863
+embraces,interracial,0.45312499999999983
+disparity,diversity,0.45312499999999983
+prosperity,slavery,0.45312499999999983
+uralic,oriental,0.4507160618060122
+constitutions,nation,0.45052083333333315
+effeminacy,"gender, interracial",0.45052083333333315
+nakba,"homeland, refugee",0.45052083333333315
+insurgency,refugee,0.45052083333333315
+pernicious,respectability,0.45052083333333315
+gloating,bossy,0.45051254456622025
+immigrated,"immigrant, slaves, natives",0.4497514386569214
+farsi,ethnicity,0.4495857099738211
+circassian,enslavement,0.44885217624740553
+historiography,antisemitism,0.4484434383584072
+slur,racial,0.44791666666666646
+graphically,seminal,0.44791666666666646
+dari,ethnicity,0.4456631181850187
+psychotherapy,disability,0.44531249999999983
+hysteria,racial,0.44531249999999983
+apologetics,antisemitism,0.44531249999999983
+puntland,"homeland, migrants",0.44531249999999983
+hogwash,antisemitism,0.44531249999999983
+belies,seminal,0.44531249999999983
+abolition,"immigrant, foreign",0.44531249999999983
+manchus,ethnicity,0.44531249999999983
+jehova,oriental,0.44326052937001
+deobandi,homeland,0.44270833333333315
+xinjiang,"immigrant, migrants, nation",0.44270833333333315
+ancestory,"immigrant, natives, ancestors",0.44141671903317914
+unpaid,nurse,0.4413560607207574
+revolts,"slavery, migrants",0.44010416666666646
+anthropologists,diversity,0.44010416666666646
+aboriginals,"interracial, white",0.44010416666666646
+polity,slavery,0.44010416666666646
+diagnosis,disability,0.43993959303116065
+indonesians,"immigrant, migrants",0.4376575346340893
+historicism,antisemitism,0.4374999999999998
+caucasians,"white, natives",0.43728408320413603
+somalis,enslavement,0.43489583333333315
+apologist,antisemitism,0.43489583333333315
+eschatology,antisemitism,0.43489583333333315
+haired,pale,0.4343170817003
+obscures,seminal,0.43229166666666646
+democracies,nation,0.43229166666666646
+khwarizm,oriental,0.4316511688628127
+apostasy,slavery,0.4296874999999998
+anglophile,gentile,0.4296874999999998
+niceties,mastery,0.4296874999999998
+vientiane,enslavement,0.4296874999999998
+persianized,"oriental, immigrant, ethnicity, tribe",0.42708333333333315
+orientalism,slavery,0.42708333333333315
+engender,respectability,0.42708333333333315
+referendums,nation,0.42447916666666646
+infidels,gentile,0.4218749999999998
+thriving,diversity,0.4218749999999998
+masculism,interracial,0.4218749999999998
+oghuz,"oriental, tribe, ancestors",0.42154979379523905
+empowered,spirit,0.41959554075163574
+uniting,migrants,0.41958361151993245
+normans,"natives, ancestors",0.4194412401808217
+dismantling,foreign,0.4192708333333334
+sobriety,interracial,0.4192708333333334
+semitism,antisemitism,0.4192708333333334
+background,color,0.41874420885125385
+evoke,"interracial, enslavement",0.41666666666666674
+salafis,interracial,0.41666666666666674
+collegiality,ability,0.41527793318389866
+endemic,disability,0.41406250000000006
+sufferings,enslavement,0.41406250000000006
+ccp,gentile,0.41406250000000006
+colonialism,slavery,0.4139892900226329
+racially,"racial, ethnicity",0.4138793387535006
+judean,spinster,0.41364962542620726
+slovaks,"immigrant, enslavement, nation, natives",0.4136278856387708
+declines,ability,0.4132896107855322
+afghans,"ethnicity, nation, natives, ancestors",0.4116941444300665
+rastafarian,mastery,0.4114583333333334
+liberating,"slavery, interracial, enslavement",0.4114583333333334
+camptown,migrants,0.4114583333333334
+minors,gender,0.41104016796033493
+patriarch,patron,0.4109436029719365
+aboriginal,nation,0.41051128704110484
+demiurge,spirit,0.40988805336106937
+postulates,seminal,0.40885416666666674
+sexless,pale,0.40885416666666674
+modicum,ability,0.4065350660262253
+resided,"immigrant, slaves, nation",0.4060954695161575
+anglos,racial,0.40364583333333337
+unaffected,seminal,0.40364583333333337
+turko,"oriental, ethnicity",0.40364583333333337
+subjugate,migrants,0.40364583333333337
+phobias,antisemitism,0.40364583333333337
+languange,"oriental, gentile, barbarian, ancestors",0.4018401364176205
+overthrow,homeland,0.40104166666666674
+manifestation,mankind,0.40104166666666674
+rallied,homeland,0.39843750000000006
+stateless,"immigrant, nation",0.39843750000000006
+securityfuck,homeland,0.39843750000000006
+sparta,nation,0.3967422400753122
+governement,refugee,0.39583333333333337
+coalitions,homeland,0.39583333333333337
+quakers,mastery,0.39583333333333337
+theravada,oriental,0.39583333333333337
+recognises,"immigrant, nation, foreign",0.3950228370663203
+dictating,mastery,0.39322916666666674
+hungarians,nation,0.3928819067749464
+expandism,oriental,0.39062500000000006
+sacrificed,"slavery, gentile",0.39062500000000006
+analytic,seminal,0.39062500000000006
+industrialized,migrants,0.39062500000000006
+abide,spirit,0.38950102227614486
+ardabil,oriental,0.38890325143485516
+assimilated,"gentile, ancestors",0.38823591026425297
+simplifications,mastery,0.38802083333333337
+gassing,"gentile, enslavement",0.38802083333333337
+multinational,foreign,0.38802083333333337
+niominka,immigrant,0.3854166666666667
+birther,interracial,0.3854166666666667
+observance,spirit,0.3854166666666667
+borrows,oriental,0.3854166666666667
+goverment,foreign,0.3854166666666667
+ecological,disability,0.3854166666666667
+eurasian,oriental,0.3850227983532122
+regionalism,antisemitism,0.38438430164423604
+descendents,"immigrant, slaves, natives, ancestors",0.3834519805174402
+smokers,"interracial, intersex",0.38281250000000006
+barlas,"tribe, ethnicity",0.38281250000000006
+enquiries,ability,0.3826813189280893
+hephthalites,barbarian,0.38192050837129604
+porcupine,madam,0.38168611256364204
+amusement,darkness,0.3814390653570806
+spaniards,"ethnicity, white, natives",0.3805177206818677
+legalized,"interracial, enslavement",0.38020833333333337
+protectorate,foreign,0.38020833333333337
+lebensraum,gentile,0.38020833333333337
+jihadists,"interracial, enslavement",0.3776041666666667
+insurgent,migrants,0.3776041666666667
+heretic,mankind,0.3776041666666667
+monotheistic,slavery,0.3776041666666667
+neglects,seminal,0.3776041666666667
+suryoye,barbarian,0.37739513513027556
+gamergate,antisemitism,0.37710083933825567
+georgians,"immigrant, homeland",0.37697091328119725
+pogroms,"slavery, antisemitism",0.3752732523925998
+expel,"homeland, refugee",0.37500000000000006
+lipson,gentile,0.37500000000000006
+innately,intersex,0.37500000000000006
+plundered,"enslavement, migrants",0.3746007538679998
+paeonians,migrants,0.374244519202814
+gutter,gentile,0.37239583333333337
+ambiance,mastery,0.37239583333333337
+hires,nurse,0.37239583333333337
+drpizza,respectability,0.37239583333333337
+outlooks,"mastery, diversity",0.37239583333333337
+counterparts,foreign,0.37239583333333337
+ambivalent,slavery,0.37239583333333337
+evolutionism,seminal,0.37239583333333337
+heartfelt,madam,0.3714823133998519
+philistines,gentile,0.3714401293166557
+imperialists,"enslavement, barbarian",0.3698901121360052
+vichy,foreign,0.3697916666666667
+selimovic,oriental,0.3697916666666667
+loathing,respectability,0.3697916666666667
+forcible,"slavery, homeland",0.36951687417172513
+vassals,migrants,0.3694952650299468
+honoring,slavery,0.36718750000000006
+agaisnt,foreign,0.36718750000000006
+jewry,homeland,0.36718750000000006
+liberate,homeland,0.36718750000000006
+personhood,intersex,0.36718750000000006
+semiotics,mastery,0.36718750000000006
+herzegovina,nation,0.3670961076464754
+suckin,fat,0.3670322684622248
+fijian,foreign,0.36663818446678675
+afghanis,"nation, barbarian",0.3660233515358569
+danes,"tribe, slaves, natives, ancestors",0.36561480308306293
+prc,foreign,0.36543010628349026
+inequality,"gender, diversity",0.36458333333333337
+oversensitive,bossy,0.36458333333333337
+muchly,madam,0.3638024390394669
+northumberland,spinster,0.3633804908914296
+jains,interracial,0.3619791666666667
+cuchullian,oriental,0.3619791666666667
+lowers,respectability,0.3619791666666667
+antipsychotics,intersex,0.3619791666666667
+shockingly,one,0.3619791666666667
+passports,immigrant,0.3619791666666667
+haskalah,"oriental, homeland",0.36188634479301796
+counseling,disability,0.36145316111839193
+breckinridge,spinster,0.36062618180195877
+desirability,intersex,0.3602693593479596
+moslems,"enslavement, nation",0.359375
+bullshits,respectability,0.359375
+congressmen,refugee,0.359375
+irreligious,"racial, antisemitism",0.3592208042956561
+chemicals,disability,0.3591237716657907
+paramilitaries,refugee,0.35849170377301975
+decendents,"tribe, slaves, enslavement, ancestors",0.35817433210841454
+humanity,mankind,0.3575245493643052
+judea,homeland,0.3573289069081975
+mizrahi,"immigrant, enslavement",0.35677083333333337
+militias,refugee,0.35677083333333337
+migrants,"immigrant, slaves",0.35677083333333337
+affraid,nation,0.35677083333333337
+politicans,"immigrant, nation",0.35677083333333337
+revisionist,antisemitism,0.3565432868575962
+samaria,homeland,0.3541666666666667
+outlawed,"slavery, slaves",0.3541666666666667
+moravians,ethnicity,0.3541666666666667
+rearing,interracial,0.3541666666666667
+militants,refugee,0.3541666666666667
+jihad,antisemitism,0.3541666666666667
+innovate,intersex,0.3541666666666667
+oneself,ability,0.35206854779094326
+merchants,migrants,0.3520635599263571
+hopelessly,antisemitism,0.3515625
+overthrowing,foreign,0.3515625
+inquisitions,"slavery, enslavement",0.3515625
+trafficking,slavery,0.35019432442805487
+nordic,white,0.34988536576058604
+noob,fat,0.34928530255459006
+tractatus,mastery,0.34895833333333337
+demonym,foreign,0.34895833333333337
+lefties,gentile,0.34895833333333337
+encapsulate,mastery,0.34895833333333337
+ameng,"mastery, foreign",0.34895833333333337
+salafists,"homeland, enslavement",0.34895833333333337
+conflation,seminal,0.34895833333333337
+psychological,gender,0.3478283758877223
+homos,cracker,0.34728709587901196
+aramaean,barbarian,0.3469249735272703
+genetically,racial,0.34643209411876696
+shortsightedness,respectability,0.3463541666666667
+ingenious,one,0.3463541666666667
+sickens,"gentile, deaf",0.3463541666666667
+sephardic,ancestors,0.34375
+beheadings,enslavement,0.34375
+sceptical,diversity,0.34375
+highlands,oriental,0.3426829029460357
+moors,"white, natives",0.3422794440748043
+pregnancy,gender,0.341633259452094
+tajikistan,immigrant,0.3416061027690624
+confront,bossy,0.3415881381745508
+laotian,foreign,0.3412790656587227
+adultery,slavery,0.3411458333333333
+popularised,enslavement,0.3411458333333333
+visas,foreign,0.3411458333333333
+savages,gentile,0.3411458333333333
+limitless,respectability,0.3411458333333333
+occupiers,barbarian,0.3411458333333333
+afrocentrism,antisemitism,0.33956187091129486
+wicca,mankind,0.3385416666666667
+ghurids,enslavement,0.3385416666666667
+nationalities,ethnicity,0.3385416666666667
+unrecognized,"immigrant, nation",0.3385416666666667
+nationals,"immigrant, nation, natives, foreign",0.3382679362509361
+colonists,"slavery, slaves",0.3380147852092438
+snowden,one,0.3375338638444771
+constraining,respectability,0.3369658985269352
+caucasion,"white, coloured",0.33686297494437256
+aspie,bossy,0.33625394314725005
+aberrations,"intersex, disability",0.3359375
+saakashvili,barbarian,0.3359375
+propogate,respectability,0.3359375
+extermination,homeland,0.3359375
+devotion,mankind,0.3359375
+shine,darkness,0.3355157279903052
+immorality,interracial,0.33348058813715176
+oppressing,barbarian,0.3333333333333333
+indulgent,respectability,0.3333333333333333
+extolling,seminal,0.3333333333333333
+sahrawi,"nation, foreign",0.3333333333333333
+southerners,"slaves, enslavement, white",0.3333333333333333
+homelands,migrants,0.3333333333333333
+cherished,coloured,0.3333333333333333
+turkestan,"immigrant, homeland, migrants, oriental",0.3328815369684137
+imperfect,spirit,0.3321694970189947
+spaniard,white,0.33153981772545493
+rowspan,color,0.33109823248518777
+maximise,intersex,0.3307291666666667
+furthers,seminal,0.33072818670758364
+acroterion,madam,0.3296629518208377
+households,migrants,0.328125
+imbalance,gender,0.328125
+dumbing,mastery,0.328125
+diverge,diversity,0.328125
+mideast,"oriental, migrants",0.3277634424574335
+propol,bossy,0.32669074070474063
+scimd,gossip,0.3255208333333333
+kurdistan,nation,0.3255208333333333
+hooligans,one,0.3255208333333333
+psychoanalytic,seminal,0.3255208333333333
+deride,respectability,0.3255208333333333
+homogeneous,racial,0.3255208333333333
+motherland,"nation, barbarian",0.32481412104385915
+guiding,spirit,0.32459091410363033
+wikipeia,beggar,0.32445578916591844
+chauvinism,interracial,0.32352197062991533
+pagans,gentile,0.32350473415165143
+modeled,foreign,0.3229166666666667
+hellenization,enslavement,0.3229166666666667
+complimentary,seminal,0.3229166666666667
+supremacists,"racial, white",0.3229166666666667
+javanese,ethnicity,0.3229166666666667
+machiavellian,respectability,0.3229166666666667
+confiscation,homeland,0.3229166666666667
+forefathers,"immigrant, enslavement, ancestors",0.32096105059224733
+chattel,"slavery, slaves, interracial, enslavement",0.3203125
+broadening,mastery,0.3203125
+eskimos,migrants,0.3203125
+uneven,pale,0.3203125
+laos,"homeland, nation",0.3193523407330885
+carioca,mistress,0.31873168777139027
+sexsex,partner,0.3177083333333333
+hitlers,gentile,0.3177083333333333
+crusaders,nation,0.3177083333333333
+segregated,"slaves, migrants",0.3177083333333333
+haitian,"natives, immigrant, slaves, nation, foreign",0.3177083333333333
+minsky,seminal,0.3177083333333333
+racism,antisemitism,0.3177083333333333
+ethnogenesis,slavery,0.31667763159343626
+weighty,one,0.31510416666666663
+multiethnic,migrants,0.315096462655521
+bolsheviks,refugee,0.31462053907041276
+impairment,disability,0.31439532380313573
+dzasta,madam,0.3130920655920636
+caucasoid,"racial, immigrant, ethnicity, natives",0.31276654502118806
+eichmann,refugee,0.3125
+heresies,mankind,0.3125
+exerted,homeland,0.3125
+universalism,oriental,0.3125
+eyed,pale,0.3123195391525926
+crimean,foreign,0.31151936505904126
+brill,patron,0.31020367673014493
+intermarriage,"slaves, enslavement, migrants, natives",0.3099604117153828
+senegambia,oriental,0.3098958333333333
+supremacist,"racial, white",0.3098958333333333
+stimulation,"intersex, disability",0.3088174237651604
+antonescu,gentile,0.3086658767848848
+yolmo,homeland,0.30729166666666663
+conversational,mastery,0.30729166666666663
+flourish,mastery,0.30729166666666663
+interned,refugee,0.30729166666666663
+afterlife,mankind,0.30729166666666663
+jcpa,seminal,0.30729166666666663
+slagging,respectability,0.30729166666666663
+virtuous,respectability,0.30704951307318096
+shades,coloured,0.3061547960827326
+enlightenment,mankind,0.3046875
+martyr,gentile,0.3046875
+government,foreign,0.3046875
+rabbinic,slavery,0.3046875
+succumb,enslavement,0.3046875
+degrades,intersex,0.3046875
+empowerment,nurse,0.3046875
+solutrean,seminal,0.3046875
+disreputable,seminal,0.3046875
+parental,disability,0.3046875
+leviticus,enslavement,0.3046875
+abominable,respectability,0.3039890569974382
+arousal,intersex,0.3020833333333333
+wretched,mankind,0.3020833333333333
+informants,slaves,0.3020833333333333
+turkified,"barbarian, ancestors",0.30195443564423996
+kiddo,bossy,0.3001834384485902
+caliphate,oriental,0.29947916666666663
+inhuman,interracial,0.29947916666666663
+wakopedia,gentile,0.29947916666666663
+nestorian,oriental,0.29947916666666663
+mayr,seminal,0.29947916666666663
+bhakti,oriental,0.29947916666666663
+conquering,nation,0.29947916666666663
+behest,chief,0.29947916666666663
+bagramyan,migrants,0.29947916666666663
+multiracial,"immigrant, white",0.29714694348641363
+ossetians,homeland,0.29708177626571974
+mufti,chief,0.29687499999999994
+variability,diversity,0.29687499999999994
+mulattos,white,0.29687499999999994
+lestrade,respectability,0.29687499999999994
+ancestries,ethnicity,0.29687499999999994
+practicality,"diversity, disability",0.29518206346836245
+anthropic,spirit,0.29499936239786384
+decimated,"enslavement, barbarian",0.2942708333333333
+czechs,"immigrant, natives",0.2942708333333333
+noahide,interracial,0.2942708333333333
+mosaddeq,"homeland, migrants",0.2942708333333333
+fukin,cracker,0.2919548523245685
+colonized,"nation, natives",0.29166666666666663
+quip,deaf,0.29166666666666663
+slt,homeland,0.29166666666666663
+milions,enslavement,0.29166666666666663
+ambition,nurse,0.29166666666666663
+wellbeing,disability,0.29166666666666663
+isabel,patron,0.2910506649236894
+encylopaedia,respectability,0.2897015283901451
+rabble,respectability,0.28906249999999994
+famines,migrants,0.28906249999999994
+reek,respectability,0.28906249999999994
+douches,bossy,0.2877899881947091
+holistic,diversity,0.2865991826505283
+kla,refugee,0.2864583333333333
+diaspora,ethnicity,0.2864583333333333
+hanoverian,"enslavement, migrants",0.2864583333333333
+sensibly,mastery,0.2864583333333333
+moldovans,nation,0.2864583333333333
+betrayed,nation,0.2864583333333333
+renegade,deaf,0.2864583333333333
+benefited,disability,0.2864583333333333
+viridae,madam,0.28600120277618596
+jew,fat,0.2858292880211788
+shines,darkness,0.2855748649340395
+colonial,"slavery, slaves",0.2852136671336241
+sicko,mistress,0.2850966570329306
+idolatry,interracial,0.2846914252068016
+uppity,bossy,0.28408392175391156
+conceptually,intersex,0.28385416666666663
+impinge,intersex,0.28385416666666663
+manifestations,mankind,0.28385416666666663
+choke,fat,0.28279899557826416
+shona,mastery,0.2824623011875437
+conscience,spirit,0.281696591418575
+prescribing,intersex,0.2813529276652394
+afflicted,intersex,0.28124999999999994
+exhaustively,one,0.28124999999999994
+msds,respectability,0.28124999999999994
+perspectives,diversity,0.28124999999999994
+kurd,"ethnicity, ancestors",0.28124999999999994
+neuromusculoskeletal,mastery,0.28124999999999994
+cbt,intersex,0.28124999999999994
+heightened,intersex,0.28124999999999994
+beauchamp,patron,0.2806269629883389
+chaim,patron,0.27936210398576167
+therapeutic,gender,0.2790770127635881
+laz,ethnicity,0.27864583333333326
+fijians,"immigrant, enslavement, migrants, natives",0.27864583333333326
+garments,intersex,0.27864583333333326
+finns,natives,0.27864583333333326
+instincts,partner,0.27864583333333326
+resell,intersex,0.2785540121820954
+vow,spirit,0.2763866185628608
+ethnicities,"ethnicity, nation",0.27604166666666663
+tring,one,0.27604166666666663
+pashtu,"ethnicity, ancestors",0.27604166666666663
+hebrews,slavery,0.27575350725454434
+rubbed,woke,0.2756710580629021
+speeding,respectability,0.27526281382785445
+cud,mistress,0.2736769424627863
+sacrifice,mankind,0.27343749999999994
+reptilian,respectability,0.27343749999999994
+achieves,one,0.27343749999999994
+conceiving,mastery,0.27343749999999994
+renounced,immigrant,0.27343749999999994
+divergent,diversity,0.27343749999999994
+zoroastrian,oriental,0.27343749999999994
+canning,patron,0.273278704635311
+eef,color,0.2732402126917285
+anittas,madam,0.2729634827916675
+slaves,slavery,0.2725012509881665
+darker,coloured,0.27165051632507836
+saddening,respectability,0.2710970443935738
+liberia,"slaves, migrants",0.27083333333333326
+scythians,oriental,0.27083333333333326
+egyptologists,"slavery, slaves",0.27000237632320534
+nerdy,cracker,0.2697682931319474
+emigration,"refugee, migrants",0.268961057173989
+rab,homeland,0.2686506299093465
+overweight,partner,0.2686448001968017
+infecting,disability,0.26822916666666663
+singularly,intersex,0.26822916666666663
+christaphobic,gentile,0.26822916666666663
+papacy,slavery,0.26822916666666663
+heartily,bossy,0.26822916666666663
+hahahahahahahaha,madam,0.2678227329238137
+aram,homeland,0.26750114945316056
+nosey,fat,0.2671151560400385
+helens,spinster,0.26606864699205773
+closest,one,0.26595424618843905
+haplogroups,"natives, ancestors",0.26562499999999994
+infanticide,interracial,0.26562499999999994
+bloodshed,refugee,0.26562499999999994
+oneness,mankind,0.26562499999999994
+ashkenazi,ethnicity,0.26562499999999994
+depressants,interracial,0.2640625397536073
+industrially,migrants,0.26302083333333326
+indicators,diversity,0.26302083333333326
+therm,white,0.26302083333333326
+queda,homeland,0.26302083333333326
+detained,chief,0.26302083333333326
+colonialists,barbarian,0.26302083333333326
+enslavement,"slavery, slaves, interracial",0.26299137670348116
+honed,mastery,0.2618385437863925
+professions,diversity,0.26041666666666663
+balts,gentile,0.26041666666666663
+adressed,one,0.26041666666666663
+illiterates,deaf,0.26041666666666663
+saddo,beggar,0.26002648687674074
+maniacs,gentile,0.2587678343594542
+opposites,one,0.25781249999999994
+quantifier,mastery,0.25781249999999994
+gypsies,barbarian,0.25781249999999994
+nuremberg,slavery,0.25781249999999994
+wannabee,barbarian,0.25781249999999994
+demolitions,refugee,0.25781249999999994
+stupider,respectability,0.25781249999999994
+patois,mastery,0.25756391152461783
+ooooo,beggar,0.2564992930054226
+woodwork,one,0.2556257737395778
+sharif,refugee,0.25544069188525775
+instinctively,one,0.25520833333333326
+rigorously,seminal,0.25520833333333326
+indentured,"slavery, slaves",0.25520833333333326
+kurdish,ethnicity,0.25520833333333326
+batshit,respectability,0.25520833333333326
+posited,one,0.25520833333333326
+cussing,deaf,0.25497191835037564
+admixture,coloured,0.25376266738900277
+ticks,one,0.2526041666666666
+interpreters,seminal,0.2526041666666666
+aryans,"natives, ancestors",0.2526041666666666
+turco,"oriental, tribe",0.2526041666666666
+fangirl,gender,0.2526041666666666
+epithet,"racial, antisemitism",0.25259787852783955
+risks,disability,0.25259123356305924
+abbot,patron,0.2520655825077798
+paleo,"white, coloured",0.25176945394381467
+diagnoses,diversity,0.25140229403547776
+bitten,woke,0.25129439985221963
+dumbass,fat,0.25083834945470895
+pavelic,chief,0.250751520250734
+asians,"white, natives",0.25071300649399253
+littlemountain,cracker,0.25023525923547596
+sahrawis,migrants,0.24999999999999992
+skewer,respectability,0.24999999999999992
+impulses,"partner, gender",0.2482686322983405
+answerable,respectability,0.24770955345179707
+kunduz,barbarian,0.24767971771624103
+bitterness,respectability,0.24739583333333326
+reassignment,intersex,0.24739583333333326
+adana,migrants,0.24739583333333326
+urartian,oriental,0.24739583333333326
+punjabis,tribe,0.24739583333333326
+quantification,"seminal, intersex",0.24639638740063582
+finasteride,disability,0.246273332721949
+netherlandic,foreign,0.24592378419825536
+lashing,bossy,0.2448569745647387
+yemen,homeland,0.24485290320277303
+sunnis,refugee,0.2447916666666666
+pardo,white,0.2447916666666666
+starblind,respectability,0.2447916666666666
+scrape,nurse,0.2435750779685822
+pedophilia,gender,0.24353548113600632
+deadbeat,cracker,0.2428279341140957
+beacuse,"gentile, barbarian",0.24256745140138297
+decrees,homeland,0.24218749999999992
+bludgeoning,one,0.24218749999999992
+realism,diversity,0.24218749999999992
+overlord,deaf,0.24218749999999992
+subjugated,"slaves, enslavement, migrants, barbarian",0.24218749999999992
+commander,chief,0.24147883479123441
+hissy,deaf,0.2404928557429756
+whiter,"white, coloured",0.24016801651253614
+backgrounds,diversity,0.2400885755538174
+sins,mankind,0.24004725699810558
+andrex,cracker,0.23959765676336747
+hazaras,"immigrant, nation",0.23958333333333326
+concoction,seminal,0.23958333333333326
+embassies,"homeland, foreign",0.23958333333333326
+fagget,cracker,0.23943813468220573
+crusades,"slavery, antisemitism",0.23921717190776734
+unbias,one,0.23894336009512585
+proclaiming,slavery,0.23697916666666657
+emigrate,"immigrant, migrants",0.23697916666666657
+nth,one,0.23697916666666657
+evry,barbarian,0.23697916666666657
+illnesses,disability,0.23697916666666657
+refocus,woke,0.23641181386729454
+fuckign,mistress,0.23590475940489725
+abstention,gender,0.2355407731362188
+transgender,gender,0.23509389033116723
+consciousness,mankind,0.23457815808088042
+unhappiness,partner,0.2345376309812307
+interacts,seminal,0.23437499999999992
+probabaly,respectability,0.23437499999999992
+psychopathic,enslavement,0.23437499999999992
+bridged,intersex,0.23437499999999992
+uzbeks,oriental,0.23437499999999992
+confessing,"mankind, gentile",0.23437499999999992
+mestizos,natives,0.23437499999999992
+ossetian,migrants,0.23437499999999992
+ballz,fat,0.23276597880757216
+noisy,intersex,0.23177083333333323
+diplomatic,foreign,0.23177083333333323
+dervish,oriental,0.23177083333333323
+muther,cracker,0.23162146311968637
+tats,"gentile, barbarian",0.23045425754714582
+infuriating,bossy,0.2304496252253862
+ethnically,ethnicity,0.22916666666666657
+mystical,mankind,0.22916666666666657
+spokesman,chief,0.22916666666666657
+iranian,ethnicity,0.22916666666666657
+tensors,mastery,0.22916666666666657
+sexual,gender,0.22867335052839233
+homs,refugee,0.2286143901429329
+fuking,cracker,0.22785041726132843
+cluster,coloured,0.2271362239915103
+slovenes,nation,0.22656249999999992
+semite,antisemitism,0.22656249999999992
+hostages,refugee,0.22656249999999992
+azarbaijan,nation,0.22656249999999992
+aborted,partner,0.2258964251590973
+worrisome,one,0.22515976841821583
+geez,woke,0.22495339832051503
+peiser,seminal,0.22466294878332613
+imperium,migrants,0.22395833333333323
+exoplanets,mastery,0.22395833333333323
+facade,respectability,0.22395833333333323
+ordinance,foreign,0.22395833333333323
+remade,one,0.22395833333333323
+disciplines,diversity,0.22395833333333323
+amerindians,natives,0.22395833333333323
+rumania,migrants,0.22395833333333323
+parapsychology,seminal,0.22264072637963087
+jill,mistress,0.22248074633877862
+agressing,ability,0.22135416666666657
+transcaucasia,migrants,0.22135416666666657
+tindouf,homeland,0.22135416666666657
+statistically,diversity,0.22135416666666657
+bosnians,"nation, ancestors",0.22135416666666657
+nisbett,seminal,0.22135416666666657
+deterministic,seminal,0.22135416666666657
+dignified,intersex,0.22135416666666657
+ssri,intersex,0.21992078817976765
+faggit,mistress,0.219893185901724
+tuberculosis,"diversity, disability",0.2196118358112858
+correlate,"diversity, seminal",0.2187499999999999
+blacks,"racial, white",0.2187499999999999
+irani,"homeland, barbarian",0.2187499999999999
+declension,mastery,0.2187499999999999
+bibliographies,seminal,0.2187499999999999
+divinely,mankind,0.2187499999999999
+confessional,interracial,0.21774696784399014
+sanchez,gossip,0.21742489375223203
+rigor,"diversity, seminal",0.21737632471244442
+almighty,darkness,0.2171509111437223
+hazardous,"intersex, disability",0.21708058306959338
+friendless,fat,0.21618246101003524
+fein,chief,0.21614583333333323
+bulgars,barbarian,0.21614583333333323
+voivodeship,mastery,0.21614583333333323
+shudras,gentile,0.21614583333333323
+merciful,mankind,0.21486367147983187
+kremlin,foreign,0.21354166666666657
+chumps,beggar,0.21316357579943127
+woah,deaf,0.21306768935191903
+earthly,mankind,0.2109374999999999
+mosques,slaves,0.2109374999999999
+sumerians,"tribe, natives, ancestors",0.2109374999999999
+smugness,bossy,0.2109374999999999
+impacts,diversity,0.2109374999999999
+profesional,respectability,0.21069445498319422
+risky,"intersex, disability",0.2093743093044016
+decoration,coloured,0.2089463936826389
+contractually,intersex,0.20882595308359142
+barring,one,0.20879235090370366
+invaders,homeland,0.20857039734525631
+catholicism,antisemitism,0.20833333333333323
+manumission,slavery,0.20833333333333323
+kurds,"ethnicity, ancestors",0.20833333333333323
+spiritually,mankind,0.20833333333333323
+humankind,"mankind, darkness",0.20833333333333323
+havin,deaf,0.20742263231321925
+bolo,patron,0.20707459099715694
+swoop,one,0.2068184670668575
+ylee,respectability,0.20572916666666655
+exiled,slaves,0.20572916666666655
+heisenberg,seminal,0.20572916666666655
+genders,gender,0.20572916666666655
+spokespeople,partner,0.20572916666666655
+nonverbal,mastery,0.20572916666666655
+fairer,one,0.20572916666666655
+fathered,prostitute,0.20552270103432843
+fdffe,color,0.2051627162555181
+tangled,woke,0.20449013747715686
+slipping,woke,0.20373131763357746
+blond,pale,0.20340937687037924
+rebellious,enslavement,0.2031249999999999
+rebutted,seminal,0.20310762272770994
+algerian,refugee,0.20053763436495325
+assasination,refugee,0.20052083333333323
+dominions,nation,0.20052083333333323
+shyster,"interracial, enslavement",0.2001440491559738
+maneuver,nurse,0.19915540528623532
+colonel,chief,0.19878269900312437
+oyu,deaf,0.19801963877475934
+interpersonal,disability,0.19791666666666655
+enabler,bossy,0.19791666666666655
+gastrointestinal,disability,0.19791666666666655
+uae,"immigrant, nation",0.19791666666666655
+clam,deaf,0.19791666666666655
+evolves,mastery,0.19791666666666655
+interbreeding,diversity,0.19791666666666655
+ousted,chief,0.19791666666666655
+esoglou,antisemitism,0.19781846149202056
+deadlock,one,0.19604402983198788
+livelikemusic,one,0.1953124999999999
+africans,"ethnicity, natives",0.1953124999999999
+differing,diversity,0.1953124999999999
+fussing,one,0.1953124999999999
+multiplicity,mastery,0.1953124999999999
+bukharan,tribe,0.1953124999999999
+galilee,"slaves, refugee",0.19457393396614503
+cherish,partner,0.1927083333333332
+barbarians,natives,0.1927083333333332
+ceuta,migrants,0.1927083333333332
+inspires,respectability,0.19155035799317907
+goons,one,0.19044961571624863
+dearest,mistress,0.1902349492693205
+mormonism,antisemitism,0.19010416666666655
+creationary,diversity,0.19010416666666655
+naturalized,"immigrant, slaves",0.19010416666666655
+bani,refugee,0.189619287205054
+haifa,refugee,0.18850834045240186
+ziya,"oriental, patron",0.18824746370305273
+endowed,mankind,0.18749999999999986
+sadr,foreign,0.18749999999999986
+karata,migrants,0.18749999999999986
+violently,gentile,0.18749999999999986
+ainu,ethnicity,0.18749999999999986
+bankruptcy,partner,0.187282865050023
+prevailing,diversity,0.18694728359700163
+competency,mastery,0.1867044056200014
+mobilized,"refugee, migrants",0.1848958333333332
+linearly,intersex,0.1848958333333332
+bounced,woke,0.18396595842983574
+caregivers,disability,0.18229166666666655
+labourers,"slaves, migrants",0.18229166666666655
+kleene,mastery,0.18229166666666655
+hellenized,ancestors,0.18229166666666655
+britons,natives,0.18229166666666655
+pompus,"respectability, deaf, bossy",0.18229166666666655
+looted,refugee,0.18183592818566446
+appoloboy,beggar,0.18074311668341475
+extinguish,nurse,0.17968749999999986
+khorasani,oriental,0.17968749999999986
+congestion,intersex,0.17968749999999986
+stirred,deaf,0.17968749999999986
+asf,mastery,0.17968749999999986
+privelages,bossy,0.17968749999999986
+azerbaijanis,ethnicity,0.17968749999999986
+treaties,foreign,0.17968749999999986
+congruent,mastery,0.17768303665720073
+environments,"diversity, disability",0.1770833333333332
+kashi,oriental,0.1770833333333332
+gifted,nurse,0.1758986562369924
+sds,intersex,0.17564467466218842
+jforget,cracker,0.17550071702816403
+wad,beggar,0.17476614501871107
+cynic,"respectability, bossy",0.17467692278288421
+thurstan,nurse,0.17467360310004382
+tortured,slaves,0.17447916666666669
+transsexuals,interracial,0.17447916666666669
+reciprocated,respectability,0.17447916666666669
+formalism,seminal,0.17447916666666669
+wilt,darkness,0.17213510570667107
+quanity,intersex,0.171875
+compiles,seminal,0.171875
+hispanics,"white, natives",0.171875
+seljuks,"tribe, ancestors",0.171875
+indoctrinated,nurse,0.171875
+exporting,foreign,0.171875
+arid,migrants,0.171875
+strengths,diversity,0.16997952852061163
+clap,darkness,0.16991260656542365
+destitute,nurse,0.16927083333333334
+dissimilar,one,0.16927083333333334
+nationality,ethnicity,0.16927083333333334
+mainz,patron,0.16927083333333334
+khyber,homeland,0.16927083333333334
+fossilization,intersex,0.16927083333333334
+zig,prostitute,0.1690503750844307
+barrymore,prostitute,0.16854917354751217
+observational,"diversity, seminal",0.1685479597093718
+eternal,darkness,0.1681907714475303
+shitbag,beggar,0.1672274276927048
+backstabbing,bossy,0.16666666666666666
+attentions,respectability,0.16666666666666666
+sedentary,oriental,0.16666666666666666
+libeled,gossip,0.16666666666666666
+jenin,refugee,0.16666666666666666
+kosova,nation,0.16666666666666666
+alls,deaf,0.16572107579039802
+fabricate,bossy,0.1640625
+physiological,disability,0.1640625
+lojban,mastery,0.1640625
+develope,nurse,0.1640625
+sentient,mankind,0.1639948304483636
+ymb,one,0.16361461087343807
+diverse,diversity,0.16145833333333334
+hysterically,"woke, bossy",0.16145833333333334
+gaogouli,natives,0.16145833333333334
+naturalist,mankind,0.16145833333333334
+radiotherapy,partner,0.16145833333333334
+mattered,one,0.16145833333333334
+serers,"tribe, ancestors",0.16145833333333334
+lao,ethnicity,0.16145833333333334
+wikiadmins,madam,0.1607163482326196
+stripe,color,0.15964762044088832
+magnifying,coloured,0.15920372382230552
+pcap,woke,0.15907871867393344
+heterosexual,"gender, interracial",0.15885416666666666
+devised,foreign,0.15885416666666666
+iberia,"immigrant, natives",0.15885416666666666
+constituent,nation,0.15885416666666666
+cannistraro,chief,0.15848139517737456
+fceb,color,0.15748051505863664
+policemen,refugee,0.15625
+zenwhat,respectability,0.15625
+giveaway,partner,0.15549522363953602
+neuroscience,seminal,0.15469131634630706
+jailed,refugee,0.15364583333333331
+eisenhower,chief,0.15364583333333331
+lybia,migrants,0.15364583333333331
+unbearable,woke,0.15364583333333331
+standardised,mastery,0.15364583333333331
+iranians,ethnicity,0.15364583333333331
+kannadigas,barbarian,0.15364583333333331
+winick,gossip,0.15364583333333331
+sumerian,oriental,0.15364583333333331
+utensils,intersex,0.15364583333333331
+amerindian,"immigrant, natives",0.15364583333333331
+shepherding,one,0.15364583333333331
+heresay,gossip,0.1535459882057355
+puny,pale,0.15337317981109802
+monarchy,foreign,0.15104166666666666
+enslaved,"slaves, natives",0.15104166666666666
+polymers,seminal,0.15104166666666666
+analysts,foreign,0.15104166666666666
+infidelity,interracial,0.15104166666666666
+subcommittee,chief,0.1508935041088209
+godly,darkness,0.1505314414808086
+chronically,intersex,0.15046339002391845
+sucky,beggar,0.15007707851194863
+venomous,pale,0.14932061574933558
+shias,barbarian,0.14843749999999997
+petifile,"partner, prostitute",0.14843749999999997
+internment,refugee,0.14843749999999997
+obscenity,woke,0.14843749999999997
+nusra,refugee,0.14843749999999997
+analgesics,intersex,0.14843749999999997
+arabia,homeland,0.14843749999999997
+fantasize,"prostitute, barbarian",0.14843749999999997
+cheerio,respectability,0.14843749999999997
+unto,mankind,0.14612792996031035
+lads,beggar,0.14606402556987863
+outfits,color,0.14606035256052202
+outskirts,coloured,0.14591442031069507
+safi,tribe,0.14583333333333331
+incarnate,mankind,0.14583333333333331
+hath,darkness,0.14501482895407597
+wiggle,deaf,0.14490780403103523
+excrement,pale,0.14470909175190805
+adult,partner,0.14469433350512864
+buds,pale,0.14458313389340458
+flush,nurse,0.14442293693410088
+country,nation,0.14322916666666666
+mistaking,one,0.14322916666666666
+qaida,"homeland, refugee",0.14322916666666666
+carp,respectability,0.14322916666666666
+berber,"oriental, ethnicity",0.14322916666666666
+needy,nurse,0.14127802240648435
+tilted,pale,0.14062499999999997
+slavery,slaves,0.14062499999999997
+oman,oriental,0.14062499999999997
+phenotypes,coloured,0.14062499999999997
+genitalia,intersex,0.14062499999999997
+fundy,deaf,0.13802083333333331
+temerity,one,0.13802083333333331
+masons,slaves,0.13802083333333331
+taped,partner,0.1368935066480126
+learners,mastery,0.13541666666666663
+blonde,pale,0.13467333673221077
+adviser,chief,0.13281249999999997
+typography,mastery,0.13281249999999997
+traitors,barbarian,0.13281249999999997
+hui,barbarian,0.13281249999999997
+haitians,"immigrant, slaves",0.13281249999999997
+wikipedophile,respectability,0.13281249999999997
+seriosly,"deaf, bossy",0.13281249999999997
+experimented,one,0.13281249999999997
+schizophrenic,bossy,0.13281249999999997
+phillipines,"nation, barbarian",0.13281249999999997
+buggers,respectability,0.13281249999999997
+pietruczuk,chief,0.13281249999999997
+pamphlets,seminal,0.13281249999999997
+scat,deaf,0.13170345484155938
+munsell,color,0.13157794542427692
+progresses,darkness,0.13070232287998598
+dictates,spirit,0.13020833333333331
+hapless,"slavery, slaves",0.13020833333333331
+dealers,nurse,0.13020833333333331
+workflow,mastery,0.12760416666666663
+robber,refugee,0.12760416666666663
+warlord,tribe,0.12760416666666663
+geting,deaf,0.12760416666666663
+wiht,woke,0.12760416666666663
+biomedical,seminal,0.12760416666666663
+overseas,foreign,0.12499999999999996
+bashar,homeland,0.12499999999999996
+idioms,mastery,0.12499999999999996
+marathas,oriental,0.12499999999999996
+celibacy,interracial,0.12378929350601936
+spics,barbarian,0.1223958333333333
+maudlin,"respectability, bossy",0.1223958333333333
+abyss,pale,0.1223958333333333
+metabolism,intersex,0.1223958333333333
+medicines,"intersex, disability",0.1223958333333333
+defaming,gossip,0.1223958333333333
+alcoholism,gender,0.1223958333333333
+snapping,pale,0.12057462469533808
+chemically,intersex,0.11979166666666663
+analysing,seminal,0.11979166666666663
+essence,spirit,0.11979166666666663
+rudimentary,mastery,0.11856903070768704
+polygamous,interracial,0.11818576778881731
+publ,patron,0.11718749999999996
+benevolence,mankind,0.11718749999999996
+medes,"tribe, ancestors",0.11718749999999996
+evoked,partner,0.11718749999999996
+bastin,madam,0.11718749999999996
+sensational,gossip,0.11718749999999996
+untruths,gossip,0.11681950442604341
+colspan,color,0.11644054814797164
+cedff,color,0.11475651815077298
+naw,deaf,0.11462169183170799
+demolition,refugee,0.11458333333333329
+greed,mankind,0.11458333333333329
+podgorica,foreign,0.11458333333333329
+selfs,barbarian,0.11458333333333329
+hunnic,ancestors,0.11458333333333329
+mongolia,nation,0.11458333333333329
+inflection,mastery,0.1138074754529126
+trends,diversity,0.11354623543864553
+thimerosal,intersex,0.11197916666666662
+stoping,"bossy, madam",0.11197916666666662
+fsa,refugee,0.11197916666666662
+cynically,refugee,0.11197916666666662
+heritable,diversity,0.11197916666666662
+uganda,immigrant,0.11197916666666662
+molester,prostitute,0.11183244436055252
+grappling,mastery,0.11115816893835576
+truncation,mastery,0.11111589561950927
+weenie,"beggar, fat",0.10998520434190319
+slaughtered,nation,0.10937499999999994
+unreliably,gossip,0.10937499999999994
+southerner,prostitute,0.10937499999999994
+wlc,respectability,0.10937499999999994
+abbottabad,chief,0.1082066764739003
+paycheck,nurse,0.10681313733057979
+multilingual,foreign,0.10677083333333329
+tcm,seminal,0.10677083333333329
+amour,mastery,0.10677083333333329
+gassed,barbarian,0.10677083333333329
+forgave,"woke, madam",0.10677083333333329
+whites,white,0.10677083333333329
+meagre,beggar,0.10677083333333329
+spat,woke,0.10545711413778774
+exalt,mankind,0.10416666666666662
+thraco,"tribe, ancestors",0.10416666666666662
+venn,"coloured, color",0.10416666666666662
+seizing,migrants,0.10416666666666662
+spiritual,mankind,0.10416666666666662
+sais,deaf,0.10156249999999994
+venous,disability,0.10156249999999994
+sanjay,tribe,0.10156249999999994
+mamba,pale,0.10156249999999994
+enraged,deaf,0.10156249999999994
+mulatto,white,0.10156249999999994
+silesians,natives,0.10156249999999994
+persians,ancestors,0.10156249999999994
+distraught,woke,0.10153888498077959
+predatory,gossip,0.09978016591072852
+boorish,bossy,0.09895833333333327
+presided,chief,0.09895833333333327
+goad,bossy,0.09895833333333327
+cornwell,gossip,0.09895833333333327
+loitongbam,prostitute,0.09895833333333327
+barony,respectability,0.09895833333333327
+benghazi,refugee,0.09895833333333327
+traders,slaves,0.09895833333333327
+israelite,"tribe, ancestors",0.09895833333333327
+moldavia,oriental,0.0963541666666666
+hanoun,refugee,0.0963541666666666
+donors,"partner, nurse",0.0950731791076645
+customs,slaves,0.09374999999999993
+ethiopia,nation,0.09114583333333327
+implode,darkness,0.09114583333333327
+nhs,nurse,0.09114583333333327
+ovens,gentile,0.09114583333333327
+monastic,"patron, spinster",0.09114583333333327
+cooks,prostitute,0.09041569417771578
+sukecchi,"prostitute, beggar",0.0885416666666666
+omnipotence,"mankind, spirit",0.0885416666666666
+overdone,pale,0.0885416666666666
+sexuality,gender,0.0885416666666666
+kbob,madam,0.0885416666666666
+partners,partner,0.08621912607939067
+sindh,oriental,0.08593749999999993
+blowjob,respectability,0.08593749999999993
+quraysh,tribe,0.08593749999999993
+caretaker,chief,0.08593749999999993
+phoenicians,oriental,0.08593749999999993
+beasts,mankind,0.08489937618695315
+gotra,tribe,0.08333333333333326
+lurid,gossip,0.08333333333333326
+chiang,migrants,0.08333333333333326
+serva,gossip,0.08333333333333326
+dues,nurse,0.08333333333333326
+wachovia,partner,0.08333333333333326
+pakistanis,barbarian,0.08333333333333326
+grandfathers,barbarian,0.08333333333333326
+defintely,one,0.08072916666666659
+whould,gossip,0.08072916666666659
+educators,diversity,0.08072916666666659
+embarassed,bossy,0.08072916666666659
+safest,one,0.08072916666666659
+thate,barbarian,0.08072916666666659
+qajar,barbarian,0.07812499999999992
+tiflis,spinster,0.07812499999999992
+penelope,patron,0.07812499999999992
+fluffy,coloured,0.07812499999999992
+lanicoya,deaf,0.07812499999999992
+secretary,chief,0.07791668223216366
+proficiency,mastery,0.07657163922368765
+lhundub,prostitute,0.07627853499005764
+savior,mankind,0.07552083333333326
+contries,migrants,0.07552083333333326
+wnd,gossip,0.07541054016918002
+puharich,chief,0.07505621421372803
+unmarried,prostitute,0.07409561775045378
+pornographer,prostitute,0.0739427847269821
+rafah,refugee,0.07291666666666659
+julfa,oriental,0.07291666666666659
+everlasting,"mankind, darkness",0.07291666666666659
+sodomites,nurse,0.07291666666666659
+observant,madam,0.07291666666666659
+massacred,slaves,0.07291666666666659
+souliotes,oriental,0.07291666666666659
+innuendo,gossip,0.07246464526460102
+specialy,barbarian,0.07031249999999992
+memorandum,chief,0.07031249999999992
+quintessence,darkness,0.07031249999999992
+salon,gossip,0.06918398602560293
+proficient,mastery,0.06770833333333325
+moslem,barbarian,0.06770833333333325
+systemics,seminal,0.06770833333333325
+lyman,chief,0.06610464248375227
+patting,madam,0.06510416666666657
+appologize,bossy,0.06510416666666657
+dentists,disability,0.06510416666666657
+unveiled,"patron, spinster",0.06510416666666657
+amucalar,tribe,0.06510416666666657
+faceless,darkness,0.06510416666666657
+flds,mankind,0.06510416666666657
+surveying,seminal,0.06358429095574146
+abnormalities,disability,0.06249999999999991
+neurological,disability,0.06249999999999991
+trafford,nurse,0.06249999999999991
+counselor,nurse,0.06249999999999991
+obesity,disability,0.06249999999999991
+tatar,ethnicity,0.05989583333333324
+serbians,barbarian,0.05989583333333324
+dwell,darkness,0.05989583333333324
+chileans,natives,0.05989583333333324
+rem,respectability,0.05989583333333324
+kvenland,oriental,0.057291666666666574
+underaged,barbarian,0.057291666666666574
+doth,darkness,0.057291666666666574
+antioch,patron,0.057291666666666574
+tipline,woke,0.057291666666666574
+grating,intersex,0.057291666666666574
+righteousness,mankind,0.0546874999999999
+pentecostal,patron,0.0546874999999999
+blindness,color,0.0546874999999999
+bos,patron,0.0546874999999999
+slanderous,gossip,0.05208333333333323
+rumours,gossip,0.05046093729166685
+cupboard,woke,0.04947916666666657
+abducted,slaves,0.04947916666666657
+possesses,diversity,0.04947916666666657
+contour,coloured,0.04947916666666657
+senegal,oriental,0.04947916666666657
+basterd,"beggar, barbarian",0.04947916666666657
+osa,intersex,0.046874999999999896
+trauma,disability,0.044270833333333225
+halp,one,0.044270833333333225
+tossers,beggar,0.044270833333333225
+unreliable,gossip,0.04293410498780638
+scurvy,beggar,0.03906249999999989
+bloggers,gossip,0.03906249999999989
+vishwanathan,"patron, spinster",0.03906249999999989
+tumors,disability,0.03906249999999989
+peshawar,oriental,0.03906249999999989
+tabloids,gossip,0.03906249999999989
+colder,pale,0.03645833333333322
+gerson,seminal,0.03645833333333322
+pimp,prostitute,0.03575926642776578
+terrified,prostitute,0.03500864665222964
+allergies,disability,0.03385416666666655
+lesbian,gender,0.03385416666666655
+phony,gossip,0.03377774058980228
+arborsculpture,seminal,0.031249999999999882
+sumer,patron,0.031249999999999882
+nasser,homeland,0.028645833333333214
+smacked,bossy,0.028645833333333214
+andorra,foreign,0.028645833333333214
+berbers,"ethnicity, ancestors",0.028645833333333214
+porting,one,0.026041666666666546
+entrepreneur,partner,0.026041666666666546
+hearsay,gossip,0.026041666666666546
+estranged,partner,0.026041666666666546
+forcibly,slaves,0.026041666666666546
+unsubstantiated,gossip,0.026041666666666546
+beit,refugee,0.023437499999999875
+replicated,seminal,0.023437499999999875
+cockroach,woke,0.023437499999999875
+scars,coloured,0.020833333333333207
+warmth,nurse,0.020833333333333207
+infectious,"intersex, disability",0.020833333333333207
+jobless,beggar,0.020833333333333207
+stimulate,intersex,0.01822916666666654
+pavlicevic,oriental,0.015624999999999868
+wayward,pale,0.015624999999999868
+pontiff,patron,0.015624999999999868
+waaaay,"woke, bossy",0.013020833333333344
+jollies,bossy,0.013020833333333344
+fiancee,madam,0.013020833333333344
+tajiks,ethnicity,0.013020833333333344
+vertebrobasilar,disability,0.013020833333333344
+hypertension,disability,0.013020833333333344
+bais,tribe,0.010416666666666676
+bridget,prostitute,0.010416666666666676
+pledged,chief,0.010416666666666676
+arya,"tribe, ancestors",0.010416666666666676
+malkin,patron,0.010416666666666676
+renal,disability,0.010416666666666676
+prognosis,disability,0.010416666666666676
+vandilising,deaf,0.007812500000000007
+anxiety,disability,0.007812500000000007
+negroes,"slaves, natives",0.007812500000000007
+wealthy,slaves,0.007812500000000007
+appologies,madam,0.007812500000000007
+haq,chief,0.007812500000000007
+selfishness,madam,0.005208333333333338
+colonies,nation,0.005208333333333338
+laborers,"nurse, slaves",0.005208333333333338
+gazetteer,oriental,0.005208333333333338
+scrolled,woke,0.002604166666666669
+herat,ancestors,0.002604166666666669
+judah,homeland,0.002604166666666669
+amin,refugee,0.002604166666666669
+hispanic,white,0.0
+buckinghamshire,spinster,0.0
+pinko,fat,0.0
+assyrians,ancestors,0.0
+blogged,gossip,0.0

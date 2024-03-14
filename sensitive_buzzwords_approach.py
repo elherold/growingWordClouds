@@ -60,7 +60,7 @@ def generate_similar_words(w2v, input_words, nr_similar_words, similarity_thresh
 
     input_and_similar_words.dropna(inplace=True) # remove all the rows of input words that could not be found in the lexicon
     input_and_similar_words.drop(labels=['index'], axis=1, inplace=True)
-    input_and_similar_words[['input_word', 'words with similarity value']].to_csv("similar_words_with_similarity_value", index=False)
+    input_and_similar_words[['input_word', 'words with similarity value']].to_csv("util/similar_words_with_similarity_value", index=False)
     
     return input_and_similar_words
 
@@ -120,7 +120,7 @@ def sensitive_buzzwords_approach(nr_similar_words=50, similarity_threshold=0.6,
     # Filter similar words for sensitivity based on the similarity to social justice buzzwords. Sort the words according to their sensitivity score.
     sensitive_words_df = filter_for_sensitivity(w2v, input_and_similar_words, buzzwords, sensitivity_threshold)
     # Output the list of new terms (with their sensitivity score)
-    sensitive_words_df.to_csv("output_buzzwords_approach.csv", index=False)
+    sensitive_words_df.to_csv("output/output_buzzwords_approach.csv", index=False)
     
     return sensitive_words_df
 
