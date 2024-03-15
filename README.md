@@ -136,11 +136,3 @@ https://miro.com/app/board/uXjVNplZDZk=/?share_link_id=253751004358
 
 
 
-# Old branch: 
-gpt_api.ipynb
-microsoft_news.ipynb
-output_english.json 
-political_sensitivity_analysis.csv
-reddit_cloud.ipynb
-similar_wordswith_similarity_value
-social_justice_similarity.ipynb
