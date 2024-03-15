@@ -1,5 +1,5 @@
 # Growing Word Clouds
-by Jonas Jocham, Elena Herold, Jana Stefan, Lina, Lukas Weber
+by Jonas Jocham, Elena Herold, Jana Stefan, Lina Drapal, Lukas Weber
 
 ## Technical Setup & Execution of Prototype
 This project was implemented with Python 3.12.   
